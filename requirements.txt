@@ -1,0 +1,9 @@
+lm-eval>=0.4.0
+torch
+transformers
+accelerate
+datasets
+matplotlib
+pandas
+numpy
+tabulate
