@@ -10,6 +10,7 @@ PROMPT_TEMPLATES = {
     "chat": "User: {question}\n{choices}\nAssistant: The answer is",
     "numbered": "Q: {question}\n{choices}\nA:",
     "spanish": "Pregunta: {question}\nOpciones: {choices}\nRespuesta:",
+    "cot": "Let's think step by step.\n\nQuestion: {question}\n{choices}\n\nThe answer is",
 }
 
 SAMPLE_QUESTIONS = [
