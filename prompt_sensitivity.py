@@ -5,7 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
 PROMPT_TEMPLATES = {
-    "plain": "{question}\nAnswer: {choices}\n",
+    "plain": "{question}\n{choices}\nAnswer:",
     "instruction": "Answer the following question.\n\nQuestion: {question}\nChoices: {choices}\nAnswer:",
     "chat": "User: {question}\n{choices}\nAssistant: The answer is",
     "numbered": "Q: {question}\n{choices}\nA:",
