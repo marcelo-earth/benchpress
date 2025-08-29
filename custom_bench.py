@@ -84,6 +84,31 @@ SPANISH_BENCH = [
         "choices": ["A) 5", "B) 6", "C) 7", "D) 8"],
         "answer": "B",
     },
+    {
+        "question": "Cual es el metal mas abundante en la corteza terrestre?",
+        "choices": ["A) Hierro", "B) Cobre", "C) Aluminio", "D) Oro"],
+        "answer": "C",
+    },
+    {
+        "question": "En que ano inicio la Segunda Guerra Mundial?",
+        "choices": ["A) 1935", "B) 1939", "C) 1941", "D) 1945"],
+        "answer": "B",
+    },
+    {
+        "question": "Cual es la vitamina que produce el cuerpo con la luz solar?",
+        "choices": ["A) Vitamina A", "B) Vitamina B", "C) Vitamina C", "D) Vitamina D"],
+        "answer": "D",
+    },
+    {
+        "question": "Que instrumento tiene 88 teclas?",
+        "choices": ["A) Guitarra", "B) Violin", "C) Piano", "D) Flauta"],
+        "answer": "C",
+    },
+    {
+        "question": "Cual es el animal terrestre mas rapido?",
+        "choices": ["A) Leon", "B) Guepardo", "C) Caballo", "D) Gacela"],
+        "answer": "B",
+    },
 ]
 
 
