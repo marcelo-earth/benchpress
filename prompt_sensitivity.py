@@ -117,6 +117,17 @@ def print_sensitivity_report(results):
             agree += 1
     print(f"\n  All templates agree: {agree}/{len(results)} ({100*agree/len(results):.0f}%)")
 
+    # show where they disagree
+    print("\n  Disagreements:")
+    for r in results:
+        preds = {t: r.get(f"{t}_pred", "?") for t in templates}
+        if len(set(preds.values())) > 1:
+            print(f"    Q: {r['question'][:50]}...")
+            print(f"    Correct: {r['correct']}")
+            for t, p in preds.items():
+                marker = "ok" if p == r["correct"] else "WRONG"
+                print(f"      {t:>15}: {p} ({marker})")
+
 
 if __name__ == "__main__":
     import argparse
