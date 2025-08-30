@@ -77,7 +77,8 @@ def run_comparison(models=None, tasks="quick", limit=100, num_fewshot=0):
         models = MODELS_TO_TEST
 
     all_scores = {}
-    for model in models:
+    for i, model in enumerate(models):
+        print(f"\n[{i+1}/{len(models)}] {model}")
         try:
             results = run_benchmark(model, tasks, limit=limit, num_fewshot=num_fewshot)
             all_scores[model] = extract_scores(results)
