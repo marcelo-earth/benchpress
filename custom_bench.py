@@ -164,5 +164,5 @@ if __name__ == "__main__":
 
     if args.save:
         save_benchmark()
-
-    evaluate_custom(model_name=args.model, template=args.template)
+    else:
+        evaluate_custom(model_name=args.model, template=args.template)
