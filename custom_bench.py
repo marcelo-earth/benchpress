@@ -119,6 +119,8 @@ def evaluate_custom(model_name="gpt2", questions=None, template="plain"):
 
     print(f"Loading {model_name}...")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
     model = AutoModelForCausalLM.from_pretrained(model_name)
     model.eval()
 
