@@ -16,6 +16,7 @@ STANDARD_TASKS = {
 MODELS_TO_TEST = [
     "gpt2",
     "gpt2-medium",
+    "gpt2-large",
     "EleutherAI/pythia-160m",
     "EleutherAI/pythia-410m",
 ]
