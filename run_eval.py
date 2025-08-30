@@ -11,6 +11,7 @@ STANDARD_TASKS = {
     "quick": ["hellaswag", "arc_easy"],
     "medium": ["hellaswag", "arc_easy", "arc_challenge", "winogrande"],
     "full": ["hellaswag", "arc_easy", "arc_challenge", "winogrande", "mmlu"],
+    "reasoning": ["arc_challenge", "winogrande", "piqa"],
 }
 
 MODELS_TO_TEST = [
