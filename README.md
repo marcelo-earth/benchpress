@@ -9,16 +9,19 @@ Running evals on LLMs is harder than it looks. Prompt format, few-shot count, an
 ## Key findings
 
 - Changing prompt format alone can swing scores by 20-40%
+- Adding a chain-of-thought prefix sometimes helps, sometimes hurts
 - Few-shot examples help but the effect varies a lot by task
 - Small models (GPT-2) perform near random chance on Spanish questions
+- Asking in English vs Spanish changes results even on the same questions
 - lm-eval-harness makes running standard benchmarks easy, but interpreting results is the hard part
 
 ## What we do
 
 1. Set up lm-eval-harness and run standard benchmarks on small models
-2. Test how prompt format changes results (5 different templates)
-3. Build a custom Spanish language benchmark (15 questions)
+2. Test how prompt format changes results (6 templates including chain-of-thought)
+3. Build a custom Spanish language benchmark (20 questions)
 4. Compare models on a mini leaderboard
+5. Compare template language (Spanish vs English) on same questions
 
 ## Setup
 
@@ -28,6 +31,8 @@ python run_eval.py --model gpt2 --tasks hellaswag --limit 100
 python run_eval.py --compare --tasks quick --limit 200
 python prompt_sensitivity.py --model gpt2
 python custom_bench.py --model gpt2 --template plain
+python compare_templates.py --model gpt2
+python model_info.py
 ```
 
 ## Files
@@ -35,6 +40,8 @@ python custom_bench.py --model gpt2 --template plain
 | File | What it does |
 |------|-------------|
 | `run_eval.py` | Wrapper around lm-eval-harness |
-| `custom_bench.py` | Build and run custom Spanish benchmark |
+| `custom_bench.py` | Build and run custom Spanish benchmark (20 Q) |
 | `prompt_sensitivity.py` | Test how prompt format affects scores |
+| `compare_templates.py` | Compare Spanish vs English templates |
+| `model_info.py` | Model size and config comparison |
 | `benchpress.ipynb` | Full analysis with leaderboard |
