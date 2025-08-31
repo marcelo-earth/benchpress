@@ -168,6 +168,7 @@ def evaluate_custom(model_name="gpt2", questions=None, template="plain"):
     accuracy = correct / total
     print(f"\nResults for {model_name} (template: {template}):")
     print(f"  Accuracy: {correct}/{total} ({accuracy:.1%})")
+    print(f"  Random baseline: {1/4:.1%}")
 
     return {"model": model_name, "accuracy": accuracy, "correct": correct, "total": total, "details": results}
 
