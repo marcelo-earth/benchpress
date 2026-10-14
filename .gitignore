@@ -8,5 +8,6 @@ build/
 .venv/
 venv/
 results/
+!plots/sets_accuracy.png
 plots/*.png
 !plots/.gitkeep
