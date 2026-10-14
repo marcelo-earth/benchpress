@@ -51,7 +51,7 @@ ITEMS = [
     ("razonamiento", "Un tren viaja a 60 km/h durante 2,5 horas. ¿Cuántos kilómetros recorre?", "150 km", ["120 km", "140 km", "180 km"], "60 × 2,5 = 150."),
     ("razonamiento", "¿Cuál es el siguiente número de la serie 2, 4, 8, 16, …?", "32", ["24", "30", "36"], "Cada término duplica al anterior."),
     ("razonamiento", "Ana es mayor que Beto y Beto es mayor que Carla. ¿Quién es la más joven?", "Carla", ["Ana", "Beto", "No se puede saber"], "Por transitividad, Ana > Beto > Carla."),
-    ("razonamiento", "Todos los gatos son mamíferos y algunos mamíferos son domésticos. ¿Qué afirmación se deduce con certeza?", "Todos los gatos son mamíferos", ["Todos los gatos son domésticos", "Algunos gatos son domésticos", "Ningún gato es doméstico"], "Es la primera premisa; las otras no se deducen de las premisas."),
+    ("razonamiento", "Todas las aves tienen plumas y el colibrí es un ave. ¿Qué afirmación se deduce con certeza?", "El colibrí tiene plumas", ["Todos los animales con plumas son colibríes", "El colibrí es el único animal con plumas", "Los colibríes no pueden volar"], "Si todas las aves tienen plumas y el colibrí es un ave, el colibrí tiene plumas."),
     ("razonamiento", "Un libro y un lápiz cuestan 11 euros en total. El libro cuesta 10 euros más que el lápiz. ¿Cuánto cuesta el lápiz?", "0,50 euros", ["1 euro", "0,10 euros", "1,10 euros"], "Lápiz = x, libro = x + 10, 2x + 10 = 11, x = 0,50."),
     ("razonamiento", "Si hoy es miércoles, ¿qué día de la semana será dentro de 10 días?", "Sábado", ["Viernes", "Domingo", "Lunes"], "10 días son una semana y 3 días; miércoles + 3 = sábado."),
     ("razonamiento", "¿Cuántos lados tiene un hexágono?", "Seis", ["Cinco", "Siete", "Ocho"], "Hexa significa seis."),

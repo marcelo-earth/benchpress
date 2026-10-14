@@ -548,15 +548,15 @@
  {
   "id": 43,
   "category": "razonamiento",
-  "question": "Todos los gatos son mamíferos y algunos mamíferos son domésticos. ¿Qué afirmación se deduce con certeza?",
+  "question": "Todas las aves tienen plumas y el colibrí es un ave. ¿Qué afirmación se deduce con certeza?",
   "choices": [
-   "A) Todos los gatos son domésticos",
-   "B) Algunos gatos son domésticos",
-   "C) Todos los gatos son mamíferos",
-   "D) Ningún gato es doméstico"
+   "A) Todos los animales con plumas son colibríes",
+   "B) El colibrí es el único animal con plumas",
+   "C) El colibrí tiene plumas",
+   "D) Los colibríes no pueden volar"
   ],
   "answer": "C",
-  "justification": "Es la primera premisa; las otras no se deducen de las premisas."
+  "justification": "Si todas las aves tienen plumas y el colibrí es un ave, el colibrí tiene plumas."
  },
  {
   "id": 44,
