@@ -1,0 +1,7194 @@
+{
+ "a": {
+  "1": {
+   "id": 1,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "2": {
+   "id": 2,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "3": {
+   "id": 3,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "4": {
+   "id": 4,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "5": {
+   "id": 5,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "6": {
+   "id": 6,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "7": {
+   "id": 7,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "8": {
+   "id": 8,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "9": {
+   "id": 9,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "10": {
+   "id": 10,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "11": {
+   "id": 11,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "12": {
+   "id": 12,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "13": {
+   "id": 13,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "14": {
+   "id": 14,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "15": {
+   "id": 15,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "16": {
+   "id": 16,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "17": {
+   "id": 17,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "18": {
+   "id": 18,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "19": {
+   "id": 19,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "20": {
+   "id": 20,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "21": {
+   "id": 21,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "22": {
+   "id": 22,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "23": {
+   "id": 23,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "24": {
+   "id": 24,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "25": {
+   "id": 25,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "26": {
+   "id": 26,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "27": {
+   "id": 27,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "28": {
+   "id": 28,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "29": {
+   "id": 29,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "30": {
+   "id": 30,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "31": {
+   "id": 31,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "32": {
+   "id": 32,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "33": {
+   "id": 33,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "34": {
+   "id": 34,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "35": {
+   "id": 35,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "36": {
+   "id": 36,
+   "label": "B",
+   "ambigua": true,
+   "nota": "Celebérrimo es el superlativo académico, pero celebrísimo también se usa."
+  },
+  "37": {
+   "id": 37,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "38": {
+   "id": 38,
+   "label": "D",
+   "ambigua": true,
+   "nota": "En 'Hubo tres accidentes' la tradición escolar dice complemento directo y otras gramáticas lo llaman sujeto; elegí CD (NGLE)."
+  },
+  "39": {
+   "id": 39,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "40": {
+   "id": 40,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "41": {
+   "id": 41,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "42": {
+   "id": 42,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "43": {
+   "id": 43,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "44": {
+   "id": 44,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "45": {
+   "id": 45,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "46": {
+   "id": 46,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "47": {
+   "id": 47,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "48": {
+   "id": 48,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "49": {
+   "id": 49,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "50": {
+   "id": 50,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "51": {
+   "id": 51,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "52": {
+   "id": 52,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "53": {
+   "id": 53,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "54": {
+   "id": 54,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "55": {
+   "id": 55,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "56": {
+   "id": 56,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "57": {
+   "id": 57,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "58": {
+   "id": 58,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "59": {
+   "id": 59,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "60": {
+   "id": 60,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "61": {
+   "id": 61,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "62": {
+   "id": 62,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "63": {
+   "id": 63,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "64": {
+   "id": 64,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "65": {
+   "id": 65,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "66": {
+   "id": 66,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "67": {
+   "id": 67,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "68": {
+   "id": 68,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "69": {
+   "id": 69,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "70": {
+   "id": 70,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "71": {
+   "id": 71,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "72": {
+   "id": 72,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "73": {
+   "id": 73,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "74": {
+   "id": 74,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "75": {
+   "id": 75,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "76": {
+   "id": 76,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "77": {
+   "id": 77,
+   "label": "C",
+   "ambigua": true,
+   "nota": "Software es extranjerismo crudo, aunque la RAE lo recoge; club y robot están adaptados."
+  },
+  "78": {
+   "id": 78,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "79": {
+   "id": 79,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "80": {
+   "id": 80,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "81": {
+   "id": 81,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "82": {
+   "id": 82,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "83": {
+   "id": 83,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "84": {
+   "id": 84,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "85": {
+   "id": 85,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "86": {
+   "id": 86,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "87": {
+   "id": 87,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "88": {
+   "id": 88,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "89": {
+   "id": 89,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "90": {
+   "id": 90,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "91": {
+   "id": 91,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "92": {
+   "id": 92,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "93": {
+   "id": 93,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "94": {
+   "id": 94,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "95": {
+   "id": 95,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "96": {
+   "id": 96,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "97": {
+   "id": 97,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "98": {
+   "id": 98,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "99": {
+   "id": 99,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "100": {
+   "id": 100,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "101": {
+   "id": 101,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "102": {
+   "id": 102,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "103": {
+   "id": 103,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "104": {
+   "id": 104,
+   "label": "B",
+   "ambigua": false,
+   "nota": "La autoría de La Celestina es discutida, pero Fernando de Rojas es la atribución estándar."
+  },
+  "105": {
+   "id": 105,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "106": {
+   "id": 106,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "107": {
+   "id": 107,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "108": {
+   "id": 108,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "109": {
+   "id": 109,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "110": {
+   "id": 110,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "111": {
+   "id": 111,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "112": {
+   "id": 112,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "113": {
+   "id": 113,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "114": {
+   "id": 114,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "115": {
+   "id": 115,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "116": {
+   "id": 116,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "117": {
+   "id": 117,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "118": {
+   "id": 118,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "119": {
+   "id": 119,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "120": {
+   "id": 120,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "121": {
+   "id": 121,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "122": {
+   "id": 122,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "123": {
+   "id": 123,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "124": {
+   "id": 124,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "125": {
+   "id": 125,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "126": {
+   "id": 126,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "127": {
+   "id": 127,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "128": {
+   "id": 128,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "129": {
+   "id": 129,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "130": {
+   "id": 130,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "131": {
+   "id": 131,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "132": {
+   "id": 132,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "133": {
+   "id": 133,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "134": {
+   "id": 134,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "135": {
+   "id": 135,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "136": {
+   "id": 136,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "137": {
+   "id": 137,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "138": {
+   "id": 138,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "139": {
+   "id": 139,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "140": {
+   "id": 140,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "141": {
+   "id": 141,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "142": {
+   "id": 142,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "143": {
+   "id": 143,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "144": {
+   "id": 144,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "145": {
+   "id": 145,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "146": {
+   "id": 146,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "147": {
+   "id": 147,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "148": {
+   "id": 148,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "149": {
+   "id": 149,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "150": {
+   "id": 150,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "151": {
+   "id": 151,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "152": {
+   "id": 152,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "153": {
+   "id": 153,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "154": {
+   "id": 154,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "155": {
+   "id": 155,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "156": {
+   "id": 156,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "157": {
+   "id": 157,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "158": {
+   "id": 158,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "159": {
+   "id": 159,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "160": {
+   "id": 160,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "161": {
+   "id": 161,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "162": {
+   "id": 162,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "163": {
+   "id": 163,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "164": {
+   "id": 164,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "165": {
+   "id": 165,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "166": {
+   "id": 166,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "167": {
+   "id": 167,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "168": {
+   "id": 168,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "169": {
+   "id": 169,
+   "label": "C",
+   "ambigua": false,
+   "nota": "Redacción algo confusa, pero Napoleón es la única respuesta razonable."
+  },
+  "170": {
+   "id": 170,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "171": {
+   "id": 171,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "172": {
+   "id": 172,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "173": {
+   "id": 173,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "174": {
+   "id": 174,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "175": {
+   "id": 175,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "176": {
+   "id": 176,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "177": {
+   "id": 177,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "178": {
+   "id": 178,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "179": {
+   "id": 179,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "180": {
+   "id": 180,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "181": {
+   "id": 181,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "182": {
+   "id": 182,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "183": {
+   "id": 183,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "184": {
+   "id": 184,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "185": {
+   "id": 185,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "186": {
+   "id": 186,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "187": {
+   "id": 187,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "188": {
+   "id": 188,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "189": {
+   "id": 189,
+   "label": "A",
+   "ambigua": false,
+   "nota": "Se proclamó en Versalles; la opción A es correcta."
+  },
+  "190": {
+   "id": 190,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "191": {
+   "id": 191,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "192": {
+   "id": 192,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "193": {
+   "id": 193,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "194": {
+   "id": 194,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "195": {
+   "id": 195,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "196": {
+   "id": 196,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "197": {
+   "id": 197,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "198": {
+   "id": 198,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "199": {
+   "id": 199,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "200": {
+   "id": 200,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "201": {
+   "id": 201,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "202": {
+   "id": 202,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "203": {
+   "id": 203,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "204": {
+   "id": 204,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "205": {
+   "id": 205,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "206": {
+   "id": 206,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "207": {
+   "id": 207,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "208": {
+   "id": 208,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "209": {
+   "id": 209,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "210": {
+   "id": 210,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "211": {
+   "id": 211,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "212": {
+   "id": 212,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "213": {
+   "id": 213,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "214": {
+   "id": 214,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "215": {
+   "id": 215,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "216": {
+   "id": 216,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "217": {
+   "id": 217,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "218": {
+   "id": 218,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "219": {
+   "id": 219,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "220": {
+   "id": 220,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "221": {
+   "id": 221,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "222": {
+   "id": 222,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "223": {
+   "id": 223,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "224": {
+   "id": 224,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "225": {
+   "id": 225,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "226": {
+   "id": 226,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "227": {
+   "id": 227,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "228": {
+   "id": 228,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "229": {
+   "id": 229,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "230": {
+   "id": 230,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "231": {
+   "id": 231,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "232": {
+   "id": 232,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "233": {
+   "id": 233,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "234": {
+   "id": 234,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "235": {
+   "id": 235,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "236": {
+   "id": 236,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "237": {
+   "id": 237,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "238": {
+   "id": 238,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "239": {
+   "id": 239,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "240": {
+   "id": 240,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "241": {
+   "id": 241,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "242": {
+   "id": 242,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "243": {
+   "id": 243,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "244": {
+   "id": 244,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "245": {
+   "id": 245,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "246": {
+   "id": 246,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "247": {
+   "id": 247,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "248": {
+   "id": 248,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "249": {
+   "id": 249,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "250": {
+   "id": 250,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "251": {
+   "id": 251,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "252": {
+   "id": 252,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "253": {
+   "id": 253,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "254": {
+   "id": 254,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "255": {
+   "id": 255,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "256": {
+   "id": 256,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "257": {
+   "id": 257,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "258": {
+   "id": 258,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "259": {
+   "id": 259,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "260": {
+   "id": 260,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "261": {
+   "id": 261,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "262": {
+   "id": 262,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "263": {
+   "id": 263,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "264": {
+   "id": 264,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "265": {
+   "id": 265,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "266": {
+   "id": 266,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "267": {
+   "id": 267,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "268": {
+   "id": 268,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "269": {
+   "id": 269,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "270": {
+   "id": 270,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "271": {
+   "id": 271,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "272": {
+   "id": 272,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "273": {
+   "id": 273,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "274": {
+   "id": 274,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "275": {
+   "id": 275,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "276": {
+   "id": 276,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "277": {
+   "id": 277,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "278": {
+   "id": 278,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "279": {
+   "id": 279,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "280": {
+   "id": 280,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "281": {
+   "id": 281,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "282": {
+   "id": 282,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "283": {
+   "id": 283,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "284": {
+   "id": 284,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "285": {
+   "id": 285,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "286": {
+   "id": 286,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "287": {
+   "id": 287,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "288": {
+   "id": 288,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "289": {
+   "id": 289,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "290": {
+   "id": 290,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "291": {
+   "id": 291,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "292": {
+   "id": 292,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "293": {
+   "id": 293,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "294": {
+   "id": 294,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "295": {
+   "id": 295,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "296": {
+   "id": 296,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "297": {
+   "id": 297,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "298": {
+   "id": 298,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "299": {
+   "id": 299,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "300": {
+   "id": 300,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "301": {
+   "id": 301,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "302": {
+   "id": 302,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "303": {
+   "id": 303,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "304": {
+   "id": 304,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "305": {
+   "id": 305,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "306": {
+   "id": 306,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "307": {
+   "id": 307,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "308": {
+   "id": 308,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "309": {
+   "id": 309,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "310": {
+   "id": 310,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "311": {
+   "id": 311,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "312": {
+   "id": 312,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "313": {
+   "id": 313,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "314": {
+   "id": 314,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "315": {
+   "id": 315,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "316": {
+   "id": 316,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "317": {
+   "id": 317,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "318": {
+   "id": 318,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "319": {
+   "id": 319,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "320": {
+   "id": 320,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "321": {
+   "id": 321,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "322": {
+   "id": 322,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "323": {
+   "id": 323,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "324": {
+   "id": 324,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "325": {
+   "id": 325,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "326": {
+   "id": 326,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "327": {
+   "id": 327,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "328": {
+   "id": 328,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "329": {
+   "id": 329,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "330": {
+   "id": 330,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "331": {
+   "id": 331,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "332": {
+   "id": 332,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "333": {
+   "id": 333,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "334": {
+   "id": 334,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "335": {
+   "id": 335,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "336": {
+   "id": 336,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "337": {
+   "id": 337,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "338": {
+   "id": 338,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "339": {
+   "id": 339,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "340": {
+   "id": 340,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "341": {
+   "id": 341,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "342": {
+   "id": 342,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "343": {
+   "id": 343,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "344": {
+   "id": 344,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "345": {
+   "id": 345,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "346": {
+   "id": 346,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "347": {
+   "id": 347,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "348": {
+   "id": 348,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "349": {
+   "id": 349,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "350": {
+   "id": 350,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "351": {
+   "id": 351,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "352": {
+   "id": 352,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "353": {
+   "id": 353,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "354": {
+   "id": 354,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "355": {
+   "id": 355,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "356": {
+   "id": 356,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "357": {
+   "id": 357,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "358": {
+   "id": 358,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "359": {
+   "id": 359,
+   "label": "B",
+   "ambigua": false,
+   "nota": "Evaporación es la única opción adecuada."
+  },
+  "360": {
+   "id": 360,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "361": {
+   "id": 361,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "362": {
+   "id": 362,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "363": {
+   "id": 363,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "364": {
+   "id": 364,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "365": {
+   "id": 365,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "366": {
+   "id": 366,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "367": {
+   "id": 367,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "368": {
+   "id": 368,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "369": {
+   "id": 369,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "370": {
+   "id": 370,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "371": {
+   "id": 371,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "372": {
+   "id": 372,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "373": {
+   "id": 373,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "374": {
+   "id": 374,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "375": {
+   "id": 375,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "376": {
+   "id": 376,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "377": {
+   "id": 377,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "378": {
+   "id": 378,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "379": {
+   "id": 379,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "380": {
+   "id": 380,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "381": {
+   "id": 381,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "382": {
+   "id": 382,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "383": {
+   "id": 383,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "384": {
+   "id": 384,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "385": {
+   "id": 385,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "386": {
+   "id": 386,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "387": {
+   "id": 387,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "388": {
+   "id": 388,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "389": {
+   "id": 389,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "390": {
+   "id": 390,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "391": {
+   "id": 391,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "392": {
+   "id": 392,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "393": {
+   "id": 393,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "394": {
+   "id": 394,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "395": {
+   "id": 395,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "396": {
+   "id": 396,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "397": {
+   "id": 397,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "398": {
+   "id": 398,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "399": {
+   "id": 399,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "400": {
+   "id": 400,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "401": {
+   "id": 401,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "402": {
+   "id": 402,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "403": {
+   "id": 403,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "404": {
+   "id": 404,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "405": {
+   "id": 405,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "406": {
+   "id": 406,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "407": {
+   "id": 407,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "408": {
+   "id": 408,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "409": {
+   "id": 409,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "410": {
+   "id": 410,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "411": {
+   "id": 411,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "412": {
+   "id": 412,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "413": {
+   "id": 413,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "414": {
+   "id": 414,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "415": {
+   "id": 415,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "416": {
+   "id": 416,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "417": {
+   "id": 417,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "418": {
+   "id": 418,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "419": {
+   "id": 419,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "420": {
+   "id": 420,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "421": {
+   "id": 421,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "422": {
+   "id": 422,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "423": {
+   "id": 423,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "424": {
+   "id": 424,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "425": {
+   "id": 425,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "426": {
+   "id": 426,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "427": {
+   "id": 427,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "428": {
+   "id": 428,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "429": {
+   "id": 429,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "430": {
+   "id": 430,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "431": {
+   "id": 431,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "432": {
+   "id": 432,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "433": {
+   "id": 433,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "434": {
+   "id": 434,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "435": {
+   "id": 435,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "436": {
+   "id": 436,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "437": {
+   "id": 437,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "438": {
+   "id": 438,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "439": {
+   "id": 439,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "440": {
+   "id": 440,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "441": {
+   "id": 441,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "442": {
+   "id": 442,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "443": {
+   "id": 443,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "444": {
+   "id": 444,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "445": {
+   "id": 445,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "446": {
+   "id": 446,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "447": {
+   "id": 447,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "448": {
+   "id": 448,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "449": {
+   "id": 449,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "450": {
+   "id": 450,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "451": {
+   "id": 451,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "452": {
+   "id": 452,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "453": {
+   "id": 453,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "454": {
+   "id": 454,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "455": {
+   "id": 455,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "456": {
+   "id": 456,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "457": {
+   "id": 457,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "458": {
+   "id": 458,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "459": {
+   "id": 459,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "460": {
+   "id": 460,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "461": {
+   "id": 461,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "462": {
+   "id": 462,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "463": {
+   "id": 463,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "464": {
+   "id": 464,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "465": {
+   "id": 465,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "466": {
+   "id": 466,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "467": {
+   "id": 467,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "468": {
+   "id": 468,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "469": {
+   "id": 469,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "470": {
+   "id": 470,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "471": {
+   "id": 471,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "472": {
+   "id": 472,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "473": {
+   "id": 473,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "474": {
+   "id": 474,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "475": {
+   "id": 475,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "476": {
+   "id": 476,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "477": {
+   "id": 477,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "478": {
+   "id": 478,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "479": {
+   "id": 479,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "480": {
+   "id": 480,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "481": {
+   "id": 481,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "482": {
+   "id": 482,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "483": {
+   "id": 483,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "484": {
+   "id": 484,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "485": {
+   "id": 485,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "486": {
+   "id": 486,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "487": {
+   "id": 487,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "488": {
+   "id": 488,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "489": {
+   "id": 489,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "490": {
+   "id": 490,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "491": {
+   "id": 491,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "492": {
+   "id": 492,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "493": {
+   "id": 493,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "494": {
+   "id": 494,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "495": {
+   "id": 495,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "496": {
+   "id": 496,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "497": {
+   "id": 497,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "498": {
+   "id": 498,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "499": {
+   "id": 499,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "500": {
+   "id": 500,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "501": {
+   "id": 501,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "502": {
+   "id": 502,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "503": {
+   "id": 503,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "504": {
+   "id": 504,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "505": {
+   "id": 505,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "506": {
+   "id": 506,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "507": {
+   "id": 507,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "508": {
+   "id": 508,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "509": {
+   "id": 509,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "510": {
+   "id": 510,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "511": {
+   "id": 511,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "512": {
+   "id": 512,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "513": {
+   "id": 513,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "514": {
+   "id": 514,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "515": {
+   "id": 515,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "516": {
+   "id": 516,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "517": {
+   "id": 517,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "518": {
+   "id": 518,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "519": {
+   "id": 519,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "520": {
+   "id": 520,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "521": {
+   "id": 521,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "522": {
+   "id": 522,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "523": {
+   "id": 523,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "524": {
+   "id": 524,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "525": {
+   "id": 525,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "526": {
+   "id": 526,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "527": {
+   "id": 527,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "528": {
+   "id": 528,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "529": {
+   "id": 529,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "530": {
+   "id": 530,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "531": {
+   "id": 531,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "532": {
+   "id": 532,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "533": {
+   "id": 533,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "534": {
+   "id": 534,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "535": {
+   "id": 535,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "536": {
+   "id": 536,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "537": {
+   "id": 537,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "538": {
+   "id": 538,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "539": {
+   "id": 539,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "540": {
+   "id": 540,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "541": {
+   "id": 541,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "542": {
+   "id": 542,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "543": {
+   "id": 543,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "544": {
+   "id": 544,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "545": {
+   "id": 545,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "546": {
+   "id": 546,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "547": {
+   "id": 547,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "548": {
+   "id": 548,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "549": {
+   "id": 549,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "550": {
+   "id": 550,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "551": {
+   "id": 551,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "552": {
+   "id": 552,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "553": {
+   "id": 553,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "554": {
+   "id": 554,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "555": {
+   "id": 555,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "556": {
+   "id": 556,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "557": {
+   "id": 557,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "558": {
+   "id": 558,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "559": {
+   "id": 559,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "560": {
+   "id": 560,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "561": {
+   "id": 561,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "562": {
+   "id": 562,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "563": {
+   "id": 563,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "564": {
+   "id": 564,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "565": {
+   "id": 565,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "566": {
+   "id": 566,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "567": {
+   "id": 567,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "568": {
+   "id": 568,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "569": {
+   "id": 569,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "570": {
+   "id": 570,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "571": {
+   "id": 571,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "572": {
+   "id": 572,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "573": {
+   "id": 573,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "574": {
+   "id": 574,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "575": {
+   "id": 575,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "576": {
+   "id": 576,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "577": {
+   "id": 577,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "578": {
+   "id": 578,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "579": {
+   "id": 579,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "580": {
+   "id": 580,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "581": {
+   "id": 581,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "582": {
+   "id": 582,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "583": {
+   "id": 583,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "584": {
+   "id": 584,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "585": {
+   "id": 585,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "586": {
+   "id": 586,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "587": {
+   "id": 587,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "588": {
+   "id": 588,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "589": {
+   "id": 589,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "590": {
+   "id": 590,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "591": {
+   "id": 591,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "592": {
+   "id": 592,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "593": {
+   "id": 593,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "594": {
+   "id": 594,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "595": {
+   "id": 595,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "596": {
+   "id": 596,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "597": {
+   "id": 597,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "598": {
+   "id": 598,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "599": {
+   "id": 599,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  }
+ },
+ "b": {
+  "1": {
+   "id": 1,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "2": {
+   "id": 2,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "3": {
+   "id": 3,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "4": {
+   "id": 4,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "5": {
+   "id": 5,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "6": {
+   "id": 6,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "7": {
+   "id": 7,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "8": {
+   "id": 8,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "9": {
+   "id": 9,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "10": {
+   "id": 10,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "11": {
+   "id": 11,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "12": {
+   "id": 12,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "13": {
+   "id": 13,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "14": {
+   "id": 14,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "15": {
+   "id": 15,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "16": {
+   "id": 16,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "17": {
+   "id": 17,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "18": {
+   "id": 18,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "19": {
+   "id": 19,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "20": {
+   "id": 20,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "21": {
+   "id": 21,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "22": {
+   "id": 22,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "23": {
+   "id": 23,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "24": {
+   "id": 24,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "25": {
+   "id": 25,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "26": {
+   "id": 26,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "27": {
+   "id": 27,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "28": {
+   "id": 28,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "29": {
+   "id": 29,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "30": {
+   "id": 30,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "31": {
+   "id": 31,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "32": {
+   "id": 32,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "33": {
+   "id": 33,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "34": {
+   "id": 34,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "35": {
+   "id": 35,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "36": {
+   "id": 36,
+   "label": "B",
+   "ambigua": true,
+   "nota": "Celebérrimo es la forma culta; celebrísimo también se documenta."
+  },
+  "37": {
+   "id": 37,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "38": {
+   "id": 38,
+   "label": "D",
+   "ambigua": true,
+   "nota": "Con haber impersonal la NGLE da complemento directo; gramáticas antiguas lo llaman sujeto."
+  },
+  "39": {
+   "id": 39,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "40": {
+   "id": 40,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "41": {
+   "id": 41,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "42": {
+   "id": 42,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "43": {
+   "id": 43,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "44": {
+   "id": 44,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "45": {
+   "id": 45,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "46": {
+   "id": 46,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "47": {
+   "id": 47,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "48": {
+   "id": 48,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "49": {
+   "id": 49,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "50": {
+   "id": 50,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "51": {
+   "id": 51,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "52": {
+   "id": 52,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "53": {
+   "id": 53,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "54": {
+   "id": 54,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "55": {
+   "id": 55,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "56": {
+   "id": 56,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "57": {
+   "id": 57,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "58": {
+   "id": 58,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "59": {
+   "id": 59,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "60": {
+   "id": 60,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "61": {
+   "id": 61,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "62": {
+   "id": 62,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "63": {
+   "id": 63,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "64": {
+   "id": 64,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "65": {
+   "id": 65,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "66": {
+   "id": 66,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "67": {
+   "id": 67,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "68": {
+   "id": 68,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "69": {
+   "id": 69,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "70": {
+   "id": 70,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "71": {
+   "id": 71,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "72": {
+   "id": 72,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "73": {
+   "id": 73,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "74": {
+   "id": 74,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "75": {
+   "id": 75,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "76": {
+   "id": 76,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "77": {
+   "id": 77,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "78": {
+   "id": 78,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "79": {
+   "id": 79,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "80": {
+   "id": 80,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "81": {
+   "id": 81,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "82": {
+   "id": 82,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "83": {
+   "id": 83,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "84": {
+   "id": 84,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "85": {
+   "id": 85,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "86": {
+   "id": 86,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "87": {
+   "id": 87,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "88": {
+   "id": 88,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "89": {
+   "id": 89,
+   "label": "D",
+   "ambigua": true,
+   "nota": "RAE recomienda EE. UU. con espacio; EE.UU. es muy usada."
+  },
+  "90": {
+   "id": 90,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "91": {
+   "id": 91,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "92": {
+   "id": 92,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "93": {
+   "id": 93,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "94": {
+   "id": 94,
+   "label": "B",
+   "ambigua": true,
+   "nota": "Se asume aún con sentido de todavía; aun sin tilde sería rebuscado."
+  },
+  "95": {
+   "id": 95,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "96": {
+   "id": 96,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "97": {
+   "id": 97,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "98": {
+   "id": 98,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "99": {
+   "id": 99,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "100": {
+   "id": 100,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "101": {
+   "id": 101,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "102": {
+   "id": 102,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "103": {
+   "id": 103,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "104": {
+   "id": 104,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "105": {
+   "id": 105,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "106": {
+   "id": 106,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "107": {
+   "id": 107,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "108": {
+   "id": 108,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "109": {
+   "id": 109,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "110": {
+   "id": 110,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "111": {
+   "id": 111,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "112": {
+   "id": 112,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "113": {
+   "id": 113,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "114": {
+   "id": 114,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "115": {
+   "id": 115,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "116": {
+   "id": 116,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "117": {
+   "id": 117,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "118": {
+   "id": 118,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "119": {
+   "id": 119,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "120": {
+   "id": 120,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "121": {
+   "id": 121,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "122": {
+   "id": 122,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "123": {
+   "id": 123,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "124": {
+   "id": 124,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "125": {
+   "id": 125,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "126": {
+   "id": 126,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "127": {
+   "id": 127,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "128": {
+   "id": 128,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "129": {
+   "id": 129,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "130": {
+   "id": 130,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "131": {
+   "id": 131,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "132": {
+   "id": 132,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "133": {
+   "id": 133,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "134": {
+   "id": 134,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "135": {
+   "id": 135,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "136": {
+   "id": 136,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "137": {
+   "id": 137,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "138": {
+   "id": 138,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "139": {
+   "id": 139,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "140": {
+   "id": 140,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "141": {
+   "id": 141,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "142": {
+   "id": 142,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "143": {
+   "id": 143,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "144": {
+   "id": 144,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "145": {
+   "id": 145,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "146": {
+   "id": 146,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "147": {
+   "id": 147,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "148": {
+   "id": 148,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "149": {
+   "id": 149,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "150": {
+   "id": 150,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "151": {
+   "id": 151,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "152": {
+   "id": 152,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "153": {
+   "id": 153,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "154": {
+   "id": 154,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "155": {
+   "id": 155,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "156": {
+   "id": 156,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "157": {
+   "id": 157,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "158": {
+   "id": 158,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "159": {
+   "id": 159,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "160": {
+   "id": 160,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "161": {
+   "id": 161,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "162": {
+   "id": 162,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "163": {
+   "id": 163,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "164": {
+   "id": 164,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "165": {
+   "id": 165,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "166": {
+   "id": 166,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "167": {
+   "id": 167,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "168": {
+   "id": 168,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "169": {
+   "id": 169,
+   "label": "C",
+   "ambigua": true,
+   "nota": "Redacción vaga ('personaje derrotado se buscó contener'), aunque la respuesta evidente es Napoleón."
+  },
+  "170": {
+   "id": 170,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "171": {
+   "id": 171,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "172": {
+   "id": 172,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "173": {
+   "id": 173,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "174": {
+   "id": 174,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "175": {
+   "id": 175,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "176": {
+   "id": 176,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "177": {
+   "id": 177,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "178": {
+   "id": 178,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "179": {
+   "id": 179,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "180": {
+   "id": 180,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "181": {
+   "id": 181,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "182": {
+   "id": 182,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "183": {
+   "id": 183,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "184": {
+   "id": 184,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "185": {
+   "id": 185,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "186": {
+   "id": 186,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "187": {
+   "id": 187,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "188": {
+   "id": 188,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "189": {
+   "id": 189,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "190": {
+   "id": 190,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "191": {
+   "id": 191,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "192": {
+   "id": 192,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "193": {
+   "id": 193,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "194": {
+   "id": 194,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "195": {
+   "id": 195,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "196": {
+   "id": 196,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "197": {
+   "id": 197,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "198": {
+   "id": 198,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "199": {
+   "id": 199,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "200": {
+   "id": 200,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "201": {
+   "id": 201,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "202": {
+   "id": 202,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "203": {
+   "id": 203,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "204": {
+   "id": 204,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "205": {
+   "id": 205,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "206": {
+   "id": 206,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "207": {
+   "id": 207,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "208": {
+   "id": 208,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "209": {
+   "id": 209,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "210": {
+   "id": 210,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "211": {
+   "id": 211,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "212": {
+   "id": 212,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "213": {
+   "id": 213,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "214": {
+   "id": 214,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "215": {
+   "id": 215,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "216": {
+   "id": 216,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "217": {
+   "id": 217,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "218": {
+   "id": 218,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "219": {
+   "id": 219,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "220": {
+   "id": 220,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "221": {
+   "id": 221,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "222": {
+   "id": 222,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "223": {
+   "id": 223,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "224": {
+   "id": 224,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "225": {
+   "id": 225,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "226": {
+   "id": 226,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "227": {
+   "id": 227,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "228": {
+   "id": 228,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "229": {
+   "id": 229,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "230": {
+   "id": 230,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "231": {
+   "id": 231,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "232": {
+   "id": 232,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "233": {
+   "id": 233,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "234": {
+   "id": 234,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "235": {
+   "id": 235,
+   "label": "D",
+   "ambigua": false,
+   "nota": "1821-1532=289."
+  },
+  "236": {
+   "id": 236,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "237": {
+   "id": 237,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "238": {
+   "id": 238,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "239": {
+   "id": 239,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "240": {
+   "id": 240,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "241": {
+   "id": 241,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "242": {
+   "id": 242,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "243": {
+   "id": 243,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "244": {
+   "id": 244,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "245": {
+   "id": 245,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "246": {
+   "id": 246,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "247": {
+   "id": 247,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "248": {
+   "id": 248,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "249": {
+   "id": 249,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "250": {
+   "id": 250,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "251": {
+   "id": 251,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "252": {
+   "id": 252,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "253": {
+   "id": 253,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "254": {
+   "id": 254,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "255": {
+   "id": 255,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "256": {
+   "id": 256,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "257": {
+   "id": 257,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "258": {
+   "id": 258,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "259": {
+   "id": 259,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "260": {
+   "id": 260,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "261": {
+   "id": 261,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "262": {
+   "id": 262,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "263": {
+   "id": 263,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "264": {
+   "id": 264,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "265": {
+   "id": 265,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "266": {
+   "id": 266,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "267": {
+   "id": 267,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "268": {
+   "id": 268,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "269": {
+   "id": 269,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "270": {
+   "id": 270,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "271": {
+   "id": 271,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "272": {
+   "id": 272,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "273": {
+   "id": 273,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "274": {
+   "id": 274,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "275": {
+   "id": 275,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "276": {
+   "id": 276,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "277": {
+   "id": 277,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "278": {
+   "id": 278,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "279": {
+   "id": 279,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "280": {
+   "id": 280,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "281": {
+   "id": 281,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "282": {
+   "id": 282,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "283": {
+   "id": 283,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "284": {
+   "id": 284,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "285": {
+   "id": 285,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "286": {
+   "id": 286,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "287": {
+   "id": 287,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "288": {
+   "id": 288,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "289": {
+   "id": 289,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "290": {
+   "id": 290,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "291": {
+   "id": 291,
+   "label": "B",
+   "ambigua": false,
+   "nota": "90° = 6 h adelante, 18:00."
+  },
+  "292": {
+   "id": 292,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "293": {
+   "id": 293,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "294": {
+   "id": 294,
+   "label": "D",
+   "ambigua": false,
+   "nota": "Lago Assal (-155 m) es el punto más bajo; Qattara es -133 m."
+  },
+  "295": {
+   "id": 295,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "296": {
+   "id": 296,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "297": {
+   "id": 297,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "298": {
+   "id": 298,
+   "label": "A",
+   "ambigua": false,
+   "nota": "Pacífico queda al sureste del Atlántico por la forma del istmo; redacción algo sutil."
+  },
+  "299": {
+   "id": 299,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "300": {
+   "id": 300,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "301": {
+   "id": 301,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "302": {
+   "id": 302,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "303": {
+   "id": 303,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "304": {
+   "id": 304,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "305": {
+   "id": 305,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "306": {
+   "id": 306,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "307": {
+   "id": 307,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "308": {
+   "id": 308,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "309": {
+   "id": 309,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "310": {
+   "id": 310,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "311": {
+   "id": 311,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "312": {
+   "id": 312,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "313": {
+   "id": 313,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "314": {
+   "id": 314,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "315": {
+   "id": 315,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "316": {
+   "id": 316,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "317": {
+   "id": 317,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "318": {
+   "id": 318,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "319": {
+   "id": 319,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "320": {
+   "id": 320,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "321": {
+   "id": 321,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "322": {
+   "id": 322,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "323": {
+   "id": 323,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "324": {
+   "id": 324,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "325": {
+   "id": 325,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "326": {
+   "id": 326,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "327": {
+   "id": 327,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "328": {
+   "id": 328,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "329": {
+   "id": 329,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "330": {
+   "id": 330,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "331": {
+   "id": 331,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "332": {
+   "id": 332,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "333": {
+   "id": 333,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "334": {
+   "id": 334,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "335": {
+   "id": 335,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "336": {
+   "id": 336,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "337": {
+   "id": 337,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "338": {
+   "id": 338,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "339": {
+   "id": 339,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "340": {
+   "id": 340,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "341": {
+   "id": 341,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "342": {
+   "id": 342,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "343": {
+   "id": 343,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "344": {
+   "id": 344,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "345": {
+   "id": 345,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "346": {
+   "id": 346,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "347": {
+   "id": 347,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "348": {
+   "id": 348,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "349": {
+   "id": 349,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "350": {
+   "id": 350,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "351": {
+   "id": 351,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "352": {
+   "id": 352,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "353": {
+   "id": 353,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "354": {
+   "id": 354,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "355": {
+   "id": 355,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "356": {
+   "id": 356,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "357": {
+   "id": 357,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "358": {
+   "id": 358,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "359": {
+   "id": 359,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "360": {
+   "id": 360,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "361": {
+   "id": 361,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "362": {
+   "id": 362,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "363": {
+   "id": 363,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "364": {
+   "id": 364,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "365": {
+   "id": 365,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "366": {
+   "id": 366,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "367": {
+   "id": 367,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "368": {
+   "id": 368,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "369": {
+   "id": 369,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "370": {
+   "id": 370,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "371": {
+   "id": 371,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "372": {
+   "id": 372,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "373": {
+   "id": 373,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "374": {
+   "id": 374,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "375": {
+   "id": 375,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "376": {
+   "id": 376,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "377": {
+   "id": 377,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "378": {
+   "id": 378,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "379": {
+   "id": 379,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "380": {
+   "id": 380,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "381": {
+   "id": 381,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "382": {
+   "id": 382,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "383": {
+   "id": 383,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "384": {
+   "id": 384,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "385": {
+   "id": 385,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "386": {
+   "id": 386,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "387": {
+   "id": 387,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "388": {
+   "id": 388,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "389": {
+   "id": 389,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "390": {
+   "id": 390,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "391": {
+   "id": 391,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "392": {
+   "id": 392,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "393": {
+   "id": 393,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "394": {
+   "id": 394,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "395": {
+   "id": 395,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "396": {
+   "id": 396,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "397": {
+   "id": 397,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "398": {
+   "id": 398,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "399": {
+   "id": 399,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "400": {
+   "id": 400,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "401": {
+   "id": 401,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "402": {
+   "id": 402,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "403": {
+   "id": 403,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "404": {
+   "id": 404,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "405": {
+   "id": 405,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "406": {
+   "id": 406,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "407": {
+   "id": 407,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "408": {
+   "id": 408,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "409": {
+   "id": 409,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "410": {
+   "id": 410,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "411": {
+   "id": 411,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "412": {
+   "id": 412,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "413": {
+   "id": 413,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "414": {
+   "id": 414,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "415": {
+   "id": 415,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "416": {
+   "id": 416,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "417": {
+   "id": 417,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "418": {
+   "id": 418,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "419": {
+   "id": 419,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "420": {
+   "id": 420,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "421": {
+   "id": 421,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "422": {
+   "id": 422,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "423": {
+   "id": 423,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "424": {
+   "id": 424,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "425": {
+   "id": 425,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "426": {
+   "id": 426,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "427": {
+   "id": 427,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "428": {
+   "id": 428,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "429": {
+   "id": 429,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "430": {
+   "id": 430,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "431": {
+   "id": 431,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "432": {
+   "id": 432,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "433": {
+   "id": 433,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "434": {
+   "id": 434,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "435": {
+   "id": 435,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "436": {
+   "id": 436,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "437": {
+   "id": 437,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "438": {
+   "id": 438,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "439": {
+   "id": 439,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "440": {
+   "id": 440,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "441": {
+   "id": 441,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "442": {
+   "id": 442,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "443": {
+   "id": 443,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "444": {
+   "id": 444,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "445": {
+   "id": 445,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "446": {
+   "id": 446,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "447": {
+   "id": 447,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "448": {
+   "id": 448,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "449": {
+   "id": 449,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "450": {
+   "id": 450,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "451": {
+   "id": 451,
+   "label": "B",
+   "ambigua": false,
+   "nota": "Analogía pie-zapato/mano-guante razonable, aunque muñeca/uña podrían distraer."
+  },
+  "452": {
+   "id": 452,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "453": {
+   "id": 453,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "454": {
+   "id": 454,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "455": {
+   "id": 455,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "456": {
+   "id": 456,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "457": {
+   "id": 457,
+   "label": "A",
+   "ambigua": false,
+   "nota": "Zanahoria es verdura, el resto fruta."
+  },
+  "458": {
+   "id": 458,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "459": {
+   "id": 459,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "460": {
+   "id": 460,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "461": {
+   "id": 461,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "462": {
+   "id": 462,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "463": {
+   "id": 463,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "464": {
+   "id": 464,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "465": {
+   "id": 465,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "466": {
+   "id": 466,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "467": {
+   "id": 467,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "468": {
+   "id": 468,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "469": {
+   "id": 469,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "470": {
+   "id": 470,
+   "label": "D",
+   "ambigua": false,
+   "nota": "Solo D se deduce con certeza."
+  },
+  "471": {
+   "id": 471,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "472": {
+   "id": 472,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "473": {
+   "id": 473,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "474": {
+   "id": 474,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "475": {
+   "id": 475,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "476": {
+   "id": 476,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "477": {
+   "id": 477,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "478": {
+   "id": 478,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "479": {
+   "id": 479,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "480": {
+   "id": 480,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "481": {
+   "id": 481,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "482": {
+   "id": 482,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "483": {
+   "id": 483,
+   "label": "D",
+   "ambigua": false,
+   "nota": "Analogía de rol, cliente es lo más razonable; ley/tribunal son distractores débiles."
+  },
+  "484": {
+   "id": 484,
+   "label": "D",
+   "ambigua": false,
+   "nota": "Parte-todo: eslabón-cadena; collar también es defendible pero menos directo."
+  },
+  "485": {
+   "id": 485,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "486": {
+   "id": 486,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "487": {
+   "id": 487,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "488": {
+   "id": 488,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "489": {
+   "id": 489,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "490": {
+   "id": 490,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "491": {
+   "id": 491,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "492": {
+   "id": 492,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "493": {
+   "id": 493,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "494": {
+   "id": 494,
+   "label": "D",
+   "ambigua": false,
+   "nota": "Composición (de las partes al todo)."
+  },
+  "495": {
+   "id": 495,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "496": {
+   "id": 496,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "497": {
+   "id": 497,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "498": {
+   "id": 498,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "499": {
+   "id": 499,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "500": {
+   "id": 500,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "501": {
+   "id": 501,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "502": {
+   "id": 502,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "503": {
+   "id": 503,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "504": {
+   "id": 504,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "505": {
+   "id": 505,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "506": {
+   "id": 506,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "507": {
+   "id": 507,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "508": {
+   "id": 508,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "509": {
+   "id": 509,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "510": {
+   "id": 510,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "511": {
+   "id": 511,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "512": {
+   "id": 512,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "513": {
+   "id": 513,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "514": {
+   "id": 514,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "515": {
+   "id": 515,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "516": {
+   "id": 516,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "517": {
+   "id": 517,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "518": {
+   "id": 518,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "519": {
+   "id": 519,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "520": {
+   "id": 520,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "521": {
+   "id": 521,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "522": {
+   "id": 522,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "523": {
+   "id": 523,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "524": {
+   "id": 524,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "525": {
+   "id": 525,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "526": {
+   "id": 526,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "527": {
+   "id": 527,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "528": {
+   "id": 528,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "529": {
+   "id": 529,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "530": {
+   "id": 530,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "531": {
+   "id": 531,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "532": {
+   "id": 532,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "533": {
+   "id": 533,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "534": {
+   "id": 534,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "535": {
+   "id": 535,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "536": {
+   "id": 536,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "537": {
+   "id": 537,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "538": {
+   "id": 538,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "539": {
+   "id": 539,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "540": {
+   "id": 540,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "541": {
+   "id": 541,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "542": {
+   "id": 542,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "543": {
+   "id": 543,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "544": {
+   "id": 544,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "545": {
+   "id": 545,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "546": {
+   "id": 546,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "547": {
+   "id": 547,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "548": {
+   "id": 548,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "549": {
+   "id": 549,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "550": {
+   "id": 550,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "551": {
+   "id": 551,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "552": {
+   "id": 552,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "553": {
+   "id": 553,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "554": {
+   "id": 554,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "555": {
+   "id": 555,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "556": {
+   "id": 556,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "557": {
+   "id": 557,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "558": {
+   "id": 558,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "559": {
+   "id": 559,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "560": {
+   "id": 560,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "561": {
+   "id": 561,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "562": {
+   "id": 562,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "563": {
+   "id": 563,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "564": {
+   "id": 564,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "565": {
+   "id": 565,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "566": {
+   "id": 566,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "567": {
+   "id": 567,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "568": {
+   "id": 568,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "569": {
+   "id": 569,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "570": {
+   "id": 570,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "571": {
+   "id": 571,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "572": {
+   "id": 572,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "573": {
+   "id": 573,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "574": {
+   "id": 574,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "575": {
+   "id": 575,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "576": {
+   "id": 576,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "577": {
+   "id": 577,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "578": {
+   "id": 578,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "579": {
+   "id": 579,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "580": {
+   "id": 580,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "581": {
+   "id": 581,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "582": {
+   "id": 582,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "583": {
+   "id": 583,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "584": {
+   "id": 584,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "585": {
+   "id": 585,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "586": {
+   "id": 586,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "587": {
+   "id": 587,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "588": {
+   "id": 588,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "589": {
+   "id": 589,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "590": {
+   "id": 590,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "591": {
+   "id": 591,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "592": {
+   "id": 592,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "593": {
+   "id": 593,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "594": {
+   "id": 594,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  },
+  "595": {
+   "id": 595,
+   "label": "A",
+   "ambigua": false,
+   "nota": ""
+  },
+  "596": {
+   "id": 596,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "597": {
+   "id": 597,
+   "label": "B",
+   "ambigua": false,
+   "nota": ""
+  },
+  "598": {
+   "id": 598,
+   "label": "D",
+   "ambigua": false,
+   "nota": ""
+  },
+  "599": {
+   "id": 599,
+   "label": "C",
+   "ambigua": false,
+   "nota": ""
+  }
+ }
+}
