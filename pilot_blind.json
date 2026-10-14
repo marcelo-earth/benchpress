@@ -1,0 +1,502 @@
+[
+ {
+  "id": 1,
+  "question": "¿Cuál es el océano más grande del mundo?",
+  "choices": [
+   "A) Pacífico",
+   "B) Atlántico",
+   "C) Índico",
+   "D) Ártico"
+  ]
+ },
+ {
+  "id": 2,
+  "question": "¿En qué continente se encuentra el desierto del Sahara?",
+  "choices": [
+   "A) Asia",
+   "B) África",
+   "C) Oceanía",
+   "D) América"
+  ]
+ },
+ {
+  "id": 3,
+  "question": "¿Cuál es la capital de Australia?",
+  "choices": [
+   "A) Sídney",
+   "B) Melbourne",
+   "C) Canberra",
+   "D) Perth"
+  ]
+ },
+ {
+  "id": 4,
+  "question": "¿Cuál es el río más caudaloso del mundo?",
+  "choices": [
+   "A) Nilo",
+   "B) Misisipi",
+   "C) Yangtsé",
+   "D) Amazonas"
+  ]
+ },
+ {
+  "id": 5,
+  "question": "¿Cuál es la cordillera más larga del mundo sobre tierra firme?",
+  "choices": [
+   "A) Los Andes",
+   "B) Los Alpes",
+   "C) El Himalaya",
+   "D) Las Rocosas"
+  ]
+ },
+ {
+  "id": 6,
+  "question": "¿Qué país tiene forma de bota en el mapa de Europa?",
+  "choices": [
+   "A) España",
+   "B) Italia",
+   "C) Grecia",
+   "D) Portugal"
+  ]
+ },
+ {
+  "id": 7,
+  "question": "¿En qué ciudad se encuentra la Torre Eiffel?",
+  "choices": [
+   "A) Londres",
+   "B) Roma",
+   "C) París",
+   "D) Madrid"
+  ]
+ },
+ {
+  "id": 8,
+  "question": "¿Cuál es el idioma oficial de Brasil?",
+  "choices": [
+   "A) Español",
+   "B) Inglés",
+   "C) Francés",
+   "D) Portugués"
+  ]
+ },
+ {
+  "id": 9,
+  "question": "¿En qué año cayó el Muro de Berlín?",
+  "choices": [
+   "A) 1989",
+   "B) 1985",
+   "C) 1991",
+   "D) 1993"
+  ]
+ },
+ {
+  "id": 10,
+  "question": "¿Qué civilización construyó Machu Picchu?",
+  "choices": [
+   "A) Maya",
+   "B) Inca",
+   "C) Azteca",
+   "D) Olmeca"
+  ]
+ },
+ {
+  "id": 11,
+  "question": "¿Quién fue el primer presidente de Estados Unidos?",
+  "choices": [
+   "A) Thomas Jefferson",
+   "B) Abraham Lincoln",
+   "C) George Washington",
+   "D) John Adams"
+  ]
+ },
+ {
+  "id": 12,
+  "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+  "choices": [
+   "A) 1904",
+   "B) 1918",
+   "C) 1939",
+   "D) 1914"
+  ]
+ },
+ {
+  "id": 13,
+  "question": "¿En qué siglo ocurrió la Revolución francesa?",
+  "choices": [
+   "A) Siglo XVIII",
+   "B) Siglo XVII",
+   "C) Siglo XIX",
+   "D) Siglo XX"
+  ]
+ },
+ {
+  "id": 14,
+  "question": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+  "choices": [
+   "A) Reino Unido",
+   "B) Francia",
+   "C) España",
+   "D) Italia"
+  ]
+ },
+ {
+  "id": 15,
+  "question": "¿Cuál es el símbolo químico del oro?",
+  "choices": [
+   "A) Ag",
+   "B) Gd",
+   "C) Au",
+   "D) Or"
+  ]
+ },
+ {
+  "id": 16,
+  "question": "¿Cuántos planetas tiene el sistema solar?",
+  "choices": [
+   "A) Siete",
+   "B) Nueve",
+   "C) Diez",
+   "D) Ocho"
+  ]
+ },
+ {
+  "id": 17,
+  "question": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+  "choices": [
+   "A) Dióxido de carbono",
+   "B) Oxígeno",
+   "C) Nitrógeno",
+   "D) Hidrógeno"
+  ]
+ },
+ {
+  "id": 18,
+  "question": "¿Cuál es la unidad básica de la herencia genética?",
+  "choices": [
+   "A) La célula",
+   "B) El gen",
+   "C) El átomo",
+   "D) El tejido"
+  ]
+ },
+ {
+  "id": 19,
+  "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+  "choices": [
+   "A) Húmero",
+   "B) Tibia",
+   "C) Fémur",
+   "D) Peroné"
+  ]
+ },
+ {
+  "id": 20,
+  "question": "¿Qué órgano bombea la sangre por el cuerpo?",
+  "choices": [
+   "A) El hígado",
+   "B) El pulmón",
+   "C) El riñón",
+   "D) El corazón"
+  ]
+ },
+ {
+  "id": 21,
+  "question": "¿Cuál es el planeta más cercano al Sol?",
+  "choices": [
+   "A) Mercurio",
+   "B) Venus",
+   "C) Marte",
+   "D) Tierra"
+  ]
+ },
+ {
+  "id": 22,
+  "question": "¿Qué tipo de animal es una ballena?",
+  "choices": [
+   "A) Pez",
+   "B) Mamífero",
+   "C) Reptil",
+   "D) Anfibio"
+  ]
+ },
+ {
+  "id": 23,
+  "question": "¿Cuál es la fórmula química del agua?",
+  "choices": [
+   "A) CO2",
+   "B) O2",
+   "C) H2O",
+   "D) NaCl"
+  ]
+ },
+ {
+  "id": 24,
+  "question": "¿Cuál es el único metal que es líquido a temperatura ambiente?",
+  "choices": [
+   "A) Plomo",
+   "B) Aluminio",
+   "C) Cobre",
+   "D) Mercurio"
+  ]
+ },
+ {
+  "id": 25,
+  "question": "¿Cuántos huesos tiene aproximadamente el cuerpo de un adulto?",
+  "choices": [
+   "A) 206",
+   "B) 106",
+   "C) 306",
+   "D) 406"
+  ]
+ },
+ {
+  "id": 26,
+  "question": "¿Qué instrumento se usa para medir la temperatura?",
+  "choices": [
+   "A) Barómetro",
+   "B) Termómetro",
+   "C) Higrómetro",
+   "D) Anemómetro"
+  ]
+ },
+ {
+  "id": 27,
+  "question": "¿Cuál es el mayor mamífero del mundo?",
+  "choices": [
+   "A) Elefante africano",
+   "B) Jirafa",
+   "C) Ballena azul",
+   "D) Tiburón ballena"
+  ]
+ },
+ {
+  "id": 28,
+  "question": "¿Cuál es el animal terrestre más rápido?",
+  "choices": [
+   "A) León",
+   "B) Caballo",
+   "C) Antílope",
+   "D) Guepardo"
+  ]
+ },
+ {
+  "id": 29,
+  "question": "¿Quién pintó La Gioconda (Mona Lisa)?",
+  "choices": [
+   "A) Leonardo da Vinci",
+   "B) Miguel Ángel",
+   "C) Rafael",
+   "D) Botticelli"
+  ]
+ },
+ {
+  "id": 30,
+  "question": "¿Quién compuso la Novena Sinfonía, que incluye el «Himno a la alegría»?",
+  "choices": [
+   "A) Mozart",
+   "B) Beethoven",
+   "C) Bach",
+   "D) Chopin"
+  ]
+ },
+ {
+  "id": 31,
+  "question": "¿Cuál es la moneda oficial de Japón?",
+  "choices": [
+   "A) Yuan",
+   "B) Won",
+   "C) Yen",
+   "D) Rupia"
+  ]
+ },
+ {
+  "id": 32,
+  "question": "¿Quién escribió «Don Quijote de la Mancha»?",
+  "choices": [
+   "A) Lope de Vega",
+   "B) Francisco de Quevedo",
+   "C) Pedro Calderón de la Barca",
+   "D) Miguel de Cervantes"
+  ]
+ },
+ {
+  "id": 33,
+  "question": "¿Quién es el autor de «Pedro Páramo»?",
+  "choices": [
+   "A) Juan Rulfo",
+   "B) Octavio Paz",
+   "C) Mario Benedetti",
+   "D) Julio Cortázar"
+  ]
+ },
+ {
+  "id": 34,
+  "question": "¿Quién es el autor de «Veinte poemas de amor y una canción desesperada»?",
+  "choices": [
+   "A) Gabriela Mistral",
+   "B) Pablo Neruda",
+   "C) Jorge Luis Borges",
+   "D) Octavio Paz"
+  ]
+ },
+ {
+  "id": 35,
+  "question": "¿Cuál de estas palabras es aguda?",
+  "choices": [
+   "A) Árbol",
+   "B) Mesa",
+   "C) Canción",
+   "D) Lápiz"
+  ]
+ },
+ {
+  "id": 36,
+  "question": "¿Cuál es el plural correcto de «lápiz»?",
+  "choices": [
+   "A) Lápizes",
+   "B) Lapíces",
+   "C) Lápiz's",
+   "D) Lápices"
+  ]
+ },
+ {
+  "id": 37,
+  "question": "¿Cuál de estas palabras está escrita correctamente?",
+  "choices": [
+   "A) Haber",
+   "B) Haver",
+   "C) Aver",
+   "D) Aber"
+  ]
+ },
+ {
+  "id": 38,
+  "question": "¿Cuál es el antónimo de «efímero»?",
+  "choices": [
+   "A) Breve",
+   "B) Duradero",
+   "C) Pasajero",
+   "D) Fugaz"
+  ]
+ },
+ {
+  "id": 39,
+  "question": "¿Cuánto es el 15 % de 200?",
+  "choices": [
+   "A) 15",
+   "B) 20",
+   "C) 30",
+   "D) 45"
+  ]
+ },
+ {
+  "id": 40,
+  "question": "Un tren viaja a 60 km/h durante 2,5 horas. ¿Cuántos kilómetros recorre?",
+  "choices": [
+   "A) 120 km",
+   "B) 140 km",
+   "C) 180 km",
+   "D) 150 km"
+  ]
+ },
+ {
+  "id": 41,
+  "question": "¿Cuál es el siguiente número de la serie 2, 4, 8, 16, …?",
+  "choices": [
+   "A) 32",
+   "B) 24",
+   "C) 30",
+   "D) 36"
+  ]
+ },
+ {
+  "id": 42,
+  "question": "Ana es mayor que Beto y Beto es mayor que Carla. ¿Quién es la más joven?",
+  "choices": [
+   "A) Ana",
+   "B) Carla",
+   "C) Beto",
+   "D) No se puede saber"
+  ]
+ },
+ {
+  "id": 43,
+  "question": "Todos los gatos son mamíferos y algunos mamíferos son domésticos. ¿Qué afirmación se deduce con certeza?",
+  "choices": [
+   "A) Todos los gatos son domésticos",
+   "B) Algunos gatos son domésticos",
+   "C) Todos los gatos son mamíferos",
+   "D) Ningún gato es doméstico"
+  ]
+ },
+ {
+  "id": 44,
+  "question": "Un libro y un lápiz cuestan 11 euros en total. El libro cuesta 10 euros más que el lápiz. ¿Cuánto cuesta el lápiz?",
+  "choices": [
+   "A) 1 euro",
+   "B) 0,10 euros",
+   "C) 1,10 euros",
+   "D) 0,50 euros"
+  ]
+ },
+ {
+  "id": 45,
+  "question": "Si hoy es miércoles, ¿qué día de la semana será dentro de 10 días?",
+  "choices": [
+   "A) Sábado",
+   "B) Viernes",
+   "C) Domingo",
+   "D) Lunes"
+  ]
+ },
+ {
+  "id": 46,
+  "question": "¿Cuántos lados tiene un hexágono?",
+  "choices": [
+   "A) Cinco",
+   "B) Seis",
+   "C) Siete",
+   "D) Ocho"
+  ]
+ },
+ {
+  "id": 47,
+  "question": "¿Cuál es el resultado de 7 × 8?",
+  "choices": [
+   "A) 54",
+   "B) 58",
+   "C) 56",
+   "D) 64"
+  ]
+ },
+ {
+  "id": 48,
+  "question": "¿Cuántos huevos son una docena y media?",
+  "choices": [
+   "A) 12",
+   "B) 15",
+   "C) 24",
+   "D) 18"
+  ]
+ },
+ {
+  "id": 49,
+  "question": "Si 3 máquinas hacen 3 piezas en 3 minutos, ¿cuántos minutos tardan 100 máquinas en hacer 100 piezas?",
+  "choices": [
+   "A) 3 minutos",
+   "B) 1 minuto",
+   "C) 33 minutos",
+   "D) 100 minutos"
+  ]
+ },
+ {
+  "id": 50,
+  "question": "¿Cuál es el valor de x en 3x + 5 = 20?",
+  "choices": [
+   "A) 3",
+   "B) 5",
+   "C) 7",
+   "D) 15"
+  ]
+ }
+]

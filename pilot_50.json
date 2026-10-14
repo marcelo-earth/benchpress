@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1,
+  "category": "geografia",
+  "question": "¿Cuál es el océano más grande del mundo?",
+  "choices": [
+   "A) Pacífico",
+   "B) Atlántico",
+   "C) Índico",
+   "D) Ártico"
+  ],
+  "answer": "A",
+  "justification": "El Pacífico cubre cerca de un tercio de la superficie del planeta."
+ },
+ {
+  "id": 2,
+  "category": "geografia",
+  "question": "¿En qué continente se encuentra el desierto del Sahara?",
+  "choices": [
+   "A) Asia",
+   "B) África",
+   "C) Oceanía",
+   "D) América"
+  ],
+  "answer": "B",
+  "justification": "El Sahara ocupa el norte de África."
+ },
+ {
+  "id": 3,
+  "category": "geografia",
+  "question": "¿Cuál es la capital de Australia?",
+  "choices": [
+   "A) Sídney",
+   "B) Melbourne",
+   "C) Canberra",
+   "D) Perth"
+  ],
+  "answer": "C",
+  "justification": "Canberra es la capital federal desde 1913."
+ },
+ {
+  "id": 4,
+  "category": "geografia",
+  "question": "¿Cuál es el río más caudaloso del mundo?",
+  "choices": [
+   "A) Nilo",
+   "B) Misisipi",
+   "C) Yangtsé",
+   "D) Amazonas"
+  ],
+  "answer": "D",
+  "justification": "El Amazonas tiene el mayor caudal medio de todos los ríos."
+ },
+ {
+  "id": 5,
+  "category": "geografia",
+  "question": "¿Cuál es la cordillera más larga del mundo sobre tierra firme?",
+  "choices": [
+   "A) Los Andes",
+   "B) Los Alpes",
+   "C) El Himalaya",
+   "D) Las Rocosas"
+  ],
+  "answer": "A",
+  "justification": "Los Andes se extienden unos 7000 km por Sudamérica."
+ },
+ {
+  "id": 6,
+  "category": "geografia",
+  "question": "¿Qué país tiene forma de bota en el mapa de Europa?",
+  "choices": [
+   "A) España",
+   "B) Italia",
+   "C) Grecia",
+   "D) Portugal"
+  ],
+  "answer": "B",
+  "justification": "La península itálica tiene forma de bota."
+ },
+ {
+  "id": 7,
+  "category": "geografia",
+  "question": "¿En qué ciudad se encuentra la Torre Eiffel?",
+  "choices": [
+   "A) Londres",
+   "B) Roma",
+   "C) París",
+   "D) Madrid"
+  ],
+  "answer": "C",
+  "justification": "La Torre Eiffel está en París, Francia."
+ },
+ {
+  "id": 8,
+  "category": "geografia",
+  "question": "¿Cuál es el idioma oficial de Brasil?",
+  "choices": [
+   "A) Español",
+   "B) Inglés",
+   "C) Francés",
+   "D) Portugués"
+  ],
+  "answer": "D",
+  "justification": "Brasil fue colonia portuguesa y su idioma oficial es el portugués."
+ },
+ {
+  "id": 9,
+  "category": "historia",
+  "question": "¿En qué año cayó el Muro de Berlín?",
+  "choices": [
+   "A) 1989",
+   "B) 1985",
+   "C) 1991",
+   "D) 1993"
+  ],
+  "answer": "A",
+  "justification": "El muro se abrió el 9 de noviembre de 1989."
+ },
+ {
+  "id": 10,
+  "category": "historia",
+  "question": "¿Qué civilización construyó Machu Picchu?",
+  "choices": [
+   "A) Maya",
+   "B) Inca",
+   "C) Azteca",
+   "D) Olmeca"
+  ],
+  "answer": "B",
+  "justification": "Machu Picchu fue una ciudadela inca del siglo XV."
+ },
+ {
+  "id": 11,
+  "category": "historia",
+  "question": "¿Quién fue el primer presidente de Estados Unidos?",
+  "choices": [
+   "A) Thomas Jefferson",
+   "B) Abraham Lincoln",
+   "C) George Washington",
+   "D) John Adams"
+  ],
+  "answer": "C",
+  "justification": "Washington presidió de 1789 a 1797."
+ },
+ {
+  "id": 12,
+  "category": "historia",
+  "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+  "choices": [
+   "A) 1904",
+   "B) 1918",
+   "C) 1939",
+   "D) 1914"
+  ],
+  "answer": "D",
+  "justification": "Estalló en julio de 1914 tras el asesinato de Francisco Fernando."
+ },
+ {
+  "id": 13,
+  "category": "historia",
+  "question": "¿En qué siglo ocurrió la Revolución francesa?",
+  "choices": [
+   "A) Siglo XVIII",
+   "B) Siglo XVII",
+   "C) Siglo XIX",
+   "D) Siglo XX"
+  ],
+  "answer": "A",
+  "justification": "Comenzó en 1789."
+ },
+ {
+  "id": 14,
+  "category": "historia",
+  "question": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+  "choices": [
+   "A) Reino Unido",
+   "B) Francia",
+   "C) España",
+   "D) Italia"
+  ],
+  "answer": "B",
+  "justification": "Francia la entregó en 1886 como símbolo de amistad."
+ },
+ {
+  "id": 15,
+  "category": "ciencia",
+  "question": "¿Cuál es el símbolo químico del oro?",
+  "choices": [
+   "A) Ag",
+   "B) Gd",
+   "C) Au",
+   "D) Or"
+  ],
+  "answer": "C",
+  "justification": "Au viene del latín aurum."
+ },
+ {
+  "id": 16,
+  "category": "ciencia",
+  "question": "¿Cuántos planetas tiene el sistema solar?",
+  "choices": [
+   "A) Siete",
+   "B) Nueve",
+   "C) Diez",
+   "D) Ocho"
+  ],
+  "answer": "D",
+  "justification": "Desde 2006 Plutón se clasifica como planeta enano, quedan ocho."
+ },
+ {
+  "id": 17,
+  "category": "ciencia",
+  "question": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+  "choices": [
+   "A) Dióxido de carbono",
+   "B) Oxígeno",
+   "C) Nitrógeno",
+   "D) Hidrógeno"
+  ],
+  "answer": "A",
+  "justification": "La fotosíntesis consume CO2 y libera oxígeno."
+ },
+ {
+  "id": 18,
+  "category": "ciencia",
+  "question": "¿Cuál es la unidad básica de la herencia genética?",
+  "choices": [
+   "A) La célula",
+   "B) El gen",
+   "C) El átomo",
+   "D) El tejido"
+  ],
+  "answer": "B",
+  "justification": "El gen es el segmento de ADN que codifica un rasgo hereditario."
+ },
+ {
+  "id": 19,
+  "category": "ciencia",
+  "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+  "choices": [
+   "A) Húmero",
+   "B) Tibia",
+   "C) Fémur",
+   "D) Peroné"
+  ],
+  "answer": "C",
+  "justification": "El fémur es el hueso del muslo y el más largo."
+ },
+ {
+  "id": 20,
+  "category": "ciencia",
+  "question": "¿Qué órgano bombea la sangre por el cuerpo?",
+  "choices": [
+   "A) El hígado",
+   "B) El pulmón",
+   "C) El riñón",
+   "D) El corazón"
+  ],
+  "answer": "D",
+  "justification": "El corazón impulsa la sangre por el sistema circulatorio."
+ },
+ {
+  "id": 21,
+  "category": "ciencia",
+  "question": "¿Cuál es el planeta más cercano al Sol?",
+  "choices": [
+   "A) Mercurio",
+   "B) Venus",
+   "C) Marte",
+   "D) Tierra"
+  ],
+  "answer": "A",
+  "justification": "Mercurio orbita a unos 58 millones de km del Sol."
+ },
+ {
+  "id": 22,
+  "category": "ciencia",
+  "question": "¿Qué tipo de animal es una ballena?",
+  "choices": [
+   "A) Pez",
+   "B) Mamífero",
+   "C) Reptil",
+   "D) Anfibio"
+  ],
+  "answer": "B",
+  "justification": "Las ballenas respiran aire y amamantan a sus crías."
+ },
+ {
+  "id": 23,
+  "category": "ciencia",
+  "question": "¿Cuál es la fórmula química del agua?",
+  "choices": [
+   "A) CO2",
+   "B) O2",
+   "C) H2O",
+   "D) NaCl"
+  ],
+  "answer": "C",
+  "justification": "Dos átomos de hidrógeno y uno de oxígeno."
+ },
+ {
+  "id": 24,
+  "category": "ciencia",
+  "question": "¿Cuál es el único metal que es líquido a temperatura ambiente?",
+  "choices": [
+   "A) Plomo",
+   "B) Aluminio",
+   "C) Cobre",
+   "D) Mercurio"
+  ],
+  "answer": "D",
+  "justification": "El mercurio funde a unos -39 °C."
+ },
+ {
+  "id": 25,
+  "category": "ciencia",
+  "question": "¿Cuántos huesos tiene aproximadamente el cuerpo de un adulto?",
+  "choices": [
+   "A) 206",
+   "B) 106",
+   "C) 306",
+   "D) 406"
+  ],
+  "answer": "A",
+  "justification": "El esqueleto adulto tiene 206 huesos."
+ },
+ {
+  "id": 26,
+  "category": "ciencia",
+  "question": "¿Qué instrumento se usa para medir la temperatura?",
+  "choices": [
+   "A) Barómetro",
+   "B) Termómetro",
+   "C) Higrómetro",
+   "D) Anemómetro"
+  ],
+  "answer": "B",
+  "justification": "El barómetro mide presión, el higrómetro humedad y el anemómetro viento."
+ },
+ {
+  "id": 27,
+  "category": "ciencia",
+  "question": "¿Cuál es el mayor mamífero del mundo?",
+  "choices": [
+   "A) Elefante africano",
+   "B) Jirafa",
+   "C) Ballena azul",
+   "D) Tiburón ballena"
+  ],
+  "answer": "C",
+  "justification": "La ballena azul supera las 100 toneladas; el tiburón ballena es un pez."
+ },
+ {
+  "id": 28,
+  "category": "ciencia",
+  "question": "¿Cuál es el animal terrestre más rápido?",
+  "choices": [
+   "A) León",
+   "B) Caballo",
+   "C) Antílope",
+   "D) Guepardo"
+  ],
+  "answer": "D",
+  "justification": "El guepardo alcanza cerca de 110 km/h."
+ },
+ {
+  "id": 29,
+  "category": "arte",
+  "question": "¿Quién pintó La Gioconda (Mona Lisa)?",
+  "choices": [
+   "A) Leonardo da Vinci",
+   "B) Miguel Ángel",
+   "C) Rafael",
+   "D) Botticelli"
+  ],
+  "answer": "A",
+  "justification": "Leonardo la pintó a comienzos del siglo XVI."
+ },
+ {
+  "id": 30,
+  "category": "arte",
+  "question": "¿Quién compuso la Novena Sinfonía, que incluye el «Himno a la alegría»?",
+  "choices": [
+   "A) Mozart",
+   "B) Beethoven",
+   "C) Bach",
+   "D) Chopin"
+  ],
+  "answer": "B",
+  "justification": "Beethoven la estrenó en 1824."
+ },
+ {
+  "id": 31,
+  "category": "arte",
+  "question": "¿Cuál es la moneda oficial de Japón?",
+  "choices": [
+   "A) Yuan",
+   "B) Won",
+   "C) Yen",
+   "D) Rupia"
+  ],
+  "answer": "C",
+  "justification": "El yen es la moneda de Japón; el yuan es chino y el won coreano."
+ },
+ {
+  "id": 32,
+  "category": "literatura",
+  "question": "¿Quién escribió «Don Quijote de la Mancha»?",
+  "choices": [
+   "A) Lope de Vega",
+   "B) Francisco de Quevedo",
+   "C) Pedro Calderón de la Barca",
+   "D) Miguel de Cervantes"
+  ],
+  "answer": "D",
+  "justification": "Cervantes publicó la primera parte en 1605."
+ },
+ {
+  "id": 33,
+  "category": "literatura",
+  "question": "¿Quién es el autor de «Pedro Páramo»?",
+  "choices": [
+   "A) Juan Rulfo",
+   "B) Octavio Paz",
+   "C) Mario Benedetti",
+   "D) Julio Cortázar"
+  ],
+  "answer": "A",
+  "justification": "Rulfo, escritor mexicano, la publicó en 1955."
+ },
+ {
+  "id": 34,
+  "category": "literatura",
+  "question": "¿Quién es el autor de «Veinte poemas de amor y una canción desesperada»?",
+  "choices": [
+   "A) Gabriela Mistral",
+   "B) Pablo Neruda",
+   "C) Jorge Luis Borges",
+   "D) Octavio Paz"
+  ],
+  "answer": "B",
+  "justification": "Neruda lo publicó en 1924."
+ },
+ {
+  "id": 35,
+  "category": "lengua",
+  "question": "¿Cuál de estas palabras es aguda?",
+  "choices": [
+   "A) Árbol",
+   "B) Mesa",
+   "C) Canción",
+   "D) Lápiz"
+  ],
+  "answer": "C",
+  "justification": "Canción lleva el acento en la última sílaba; las otras son graves."
+ },
+ {
+  "id": 36,
+  "category": "lengua",
+  "question": "¿Cuál es el plural correcto de «lápiz»?",
+  "choices": [
+   "A) Lápizes",
+   "B) Lapíces",
+   "C) Lápiz's",
+   "D) Lápices"
+  ],
+  "answer": "D",
+  "justification": "Las palabras terminadas en z cambian a c ante es."
+ },
+ {
+  "id": 37,
+  "category": "lengua",
+  "question": "¿Cuál de estas palabras está escrita correctamente?",
+  "choices": [
+   "A) Haber",
+   "B) Haver",
+   "C) Aver",
+   "D) Aber"
+  ],
+  "answer": "A",
+  "justification": "Haber se escribe con h y con b."
+ },
+ {
+  "id": 38,
+  "category": "lengua",
+  "question": "¿Cuál es el antónimo de «efímero»?",
+  "choices": [
+   "A) Breve",
+   "B) Duradero",
+   "C) Pasajero",
+   "D) Fugaz"
+  ],
+  "answer": "B",
+  "justification": "Efímero significa de corta duración; lo contrario es duradero."
+ },
+ {
+  "id": 39,
+  "category": "razonamiento",
+  "question": "¿Cuánto es el 15 % de 200?",
+  "choices": [
+   "A) 15",
+   "B) 20",
+   "C) 30",
+   "D) 45"
+  ],
+  "answer": "C",
+  "justification": "200 × 0,15 = 30."
+ },
+ {
+  "id": 40,
+  "category": "razonamiento",
+  "question": "Un tren viaja a 60 km/h durante 2,5 horas. ¿Cuántos kilómetros recorre?",
+  "choices": [
+   "A) 120 km",
+   "B) 140 km",
+   "C) 180 km",
+   "D) 150 km"
+  ],
+  "answer": "D",
+  "justification": "60 × 2,5 = 150."
+ },
+ {
+  "id": 41,
+  "category": "razonamiento",
+  "question": "¿Cuál es el siguiente número de la serie 2, 4, 8, 16, …?",
+  "choices": [
+   "A) 32",
+   "B) 24",
+   "C) 30",
+   "D) 36"
+  ],
+  "answer": "A",
+  "justification": "Cada término duplica al anterior."
+ },
+ {
+  "id": 42,
+  "category": "razonamiento",
+  "question": "Ana es mayor que Beto y Beto es mayor que Carla. ¿Quién es la más joven?",
+  "choices": [
+   "A) Ana",
+   "B) Carla",
+   "C) Beto",
+   "D) No se puede saber"
+  ],
+  "answer": "B",
+  "justification": "Por transitividad, Ana > Beto > Carla."
+ },
+ {
+  "id": 43,
+  "category": "razonamiento",
+  "question": "Todos los gatos son mamíferos y algunos mamíferos son domésticos. ¿Qué afirmación se deduce con certeza?",
+  "choices": [
+   "A) Todos los gatos son domésticos",
+   "B) Algunos gatos son domésticos",
+   "C) Todos los gatos son mamíferos",
+   "D) Ningún gato es doméstico"
+  ],
+  "answer": "C",
+  "justification": "Es la primera premisa; las otras no se deducen de las premisas."
+ },
+ {
+  "id": 44,
+  "category": "razonamiento",
+  "question": "Un libro y un lápiz cuestan 11 euros en total. El libro cuesta 10 euros más que el lápiz. ¿Cuánto cuesta el lápiz?",
+  "choices": [
+   "A) 1 euro",
+   "B) 0,10 euros",
+   "C) 1,10 euros",
+   "D) 0,50 euros"
+  ],
+  "answer": "D",
+  "justification": "Lápiz = x, libro = x + 10, 2x + 10 = 11, x = 0,50."
+ },
+ {
+  "id": 45,
+  "category": "razonamiento",
+  "question": "Si hoy es miércoles, ¿qué día de la semana será dentro de 10 días?",
+  "choices": [
+   "A) Sábado",
+   "B) Viernes",
+   "C) Domingo",
+   "D) Lunes"
+  ],
+  "answer": "A",
+  "justification": "10 días son una semana y 3 días; miércoles + 3 = sábado."
+ },
+ {
+  "id": 46,
+  "category": "razonamiento",
+  "question": "¿Cuántos lados tiene un hexágono?",
+  "choices": [
+   "A) Cinco",
+   "B) Seis",
+   "C) Siete",
+   "D) Ocho"
+  ],
+  "answer": "B",
+  "justification": "Hexa significa seis."
+ },
+ {
+  "id": 47,
+  "category": "razonamiento",
+  "question": "¿Cuál es el resultado de 7 × 8?",
+  "choices": [
+   "A) 54",
+   "B) 58",
+   "C) 56",
+   "D) 64"
+  ],
+  "answer": "C",
+  "justification": "7 × 8 = 56."
+ },
+ {
+  "id": 48,
+  "category": "razonamiento",
+  "question": "¿Cuántos huevos son una docena y media?",
+  "choices": [
+   "A) 12",
+   "B) 15",
+   "C) 24",
+   "D) 18"
+  ],
+  "answer": "D",
+  "justification": "12 + 6 = 18."
+ },
+ {
+  "id": 49,
+  "category": "razonamiento",
+  "question": "Si 3 máquinas hacen 3 piezas en 3 minutos, ¿cuántos minutos tardan 100 máquinas en hacer 100 piezas?",
+  "choices": [
+   "A) 3 minutos",
+   "B) 1 minuto",
+   "C) 33 minutos",
+   "D) 100 minutos"
+  ],
+  "answer": "A",
+  "justification": "Cada máquina hace una pieza en 3 minutos, así que 100 máquinas hacen 100 en 3."
+ },
+ {
+  "id": 50,
+  "category": "razonamiento",
+  "question": "¿Cuál es el valor de x en 3x + 5 = 20?",
+  "choices": [
+   "A) 3",
+   "B) 5",
+   "C) 7",
+   "D) 15"
+  ],
+  "answer": "B",
+  "justification": "3x = 15, x = 5."
+ }
+]
