@@ -1,0 +1,652 @@
+[
+ {
+  "id": 1,
+  "category": "lengua",
+  "question": "Completa: «No es mi hermano, ___ mi primo».",
+  "choices": [
+   "A) sino",
+   "B) si no",
+   "C) sí no",
+   "D) si nó"
+  ],
+  "answer": "A",
+  "justification": "Sino es la conjunción adversativa que contrapone a «no es mi hermano»."
+ },
+ {
+  "id": 2,
+  "category": "lengua",
+  "question": "¿Cuál de estas palabras es esdrújula?",
+  "choices": [
+   "A) Camión",
+   "B) Océano",
+   "C) Árbol",
+   "D) Cortés"
+  ],
+  "answer": "B",
+  "justification": "Océano lleva el acento en la antepenúltima sílaba."
+ },
+ {
+  "id": 3,
+  "category": "lengua",
+  "question": "¿Qué figura retórica hay en «Tus ojos son dos luceros»?",
+  "choices": [
+   "A) Símil",
+   "B) Hipérbole",
+   "C) Metáfora",
+   "D) Ironía"
+  ],
+  "answer": "C",
+  "justification": "Identifica ojos con luceros sin usar «como»."
+ },
+ {
+  "id": 4,
+  "category": "lengua",
+  "question": "En «Se vendieron todas las entradas», ¿cuál es el sujeto?",
+  "choices": [
+   "A) Se",
+   "B) Vendieron todas",
+   "C) No tiene sujeto",
+   "D) Todas las entradas"
+  ],
+  "answer": "D",
+  "justification": "Es una pasiva refleja: el sujeto es lo vendido y concuerda con el verbo en plural."
+ },
+ {
+  "id": 5,
+  "category": "lengua",
+  "question": "¿Cuál de estas palabras NO lleva tilde?",
+  "choices": [
+   "A) Examen",
+   "B) Interés",
+   "C) Lápiz",
+   "D) Árbol"
+  ],
+  "answer": "A",
+  "justification": "Examen es grave terminada en n, por lo que no se tilda; las otras sí."
+ },
+ {
+  "id": 6,
+  "category": "lengua",
+  "question": "¿Qué significa la locución «a la vera de»?",
+  "choices": [
+   "A) En contra de",
+   "B) Al lado de",
+   "C) A causa de",
+   "D) Lejos de"
+  ],
+  "answer": "B",
+  "justification": "Vera significa orilla o borde."
+ },
+ {
+  "id": 7,
+  "category": "lengua",
+  "question": "¿Cuál es la tercera persona del singular del pretérito perfecto simple de «andar»?",
+  "choices": [
+   "A) Andó",
+   "B) Anduvió",
+   "C) Anduvo",
+   "D) Andaba"
+  ],
+  "answer": "C",
+  "justification": "Andar tiene pretérito irregular: anduve, anduviste, anduvo."
+ },
+ {
+  "id": 8,
+  "category": "lengua",
+  "question": "¿Cuál es un sinónimo de «prístino»?",
+  "choices": [
+   "A) Deteriorado",
+   "B) Oscuro",
+   "C) Confuso",
+   "D) Inmaculado"
+  ],
+  "answer": "D",
+  "justification": "Prístino significa original y sin mancha."
+ },
+ {
+  "id": 9,
+  "category": "lengua",
+  "question": "¿Cuál de estas oraciones contiene un error de concordancia?",
+  "choices": [
+   "A) Hubieron muchos problemas en la reunión.",
+   "B) Hubo muchos problemas en la reunión.",
+   "C) Hay muchos problemas en la reunión.",
+   "D) Habrá muchos problemas en la reunión."
+  ],
+  "answer": "A",
+  "justification": "Haber impersonal va en singular: hubo."
+ },
+ {
+  "id": 10,
+  "category": "lengua",
+  "question": "¿Cuál es el plural correcto de «régimen»?",
+  "choices": [
+   "A) Régimenes",
+   "B) Regímenes",
+   "C) Regimenes",
+   "D) Régimens"
+  ],
+  "answer": "B",
+  "justification": "Cambia la posición del acento: regímenes."
+ },
+ {
+  "id": 11,
+  "category": "ciencia",
+  "question": "¿Por qué se ve azul el cielo despejado?",
+  "choices": [
+   "A) Refleja el color del océano",
+   "B) El ozono absorbe la luz roja",
+   "C) La atmósfera dispersa más la luz de menor longitud de onda",
+   "D) La contaminación tiñe la luz del Sol"
+  ],
+  "answer": "C",
+  "justification": "Es la dispersión de Rayleigh, que crece al disminuir la longitud de onda."
+ },
+ {
+  "id": 12,
+  "category": "ciencia",
+  "question": "Si la temperatura absoluta de un gas ideal se duplica a presión constante, su volumen:",
+  "choices": [
+   "A) se reduce a la mitad",
+   "B) se mantiene",
+   "C) se cuadruplica",
+   "D) se duplica"
+  ],
+  "answer": "D",
+  "justification": "Ley de Charles: V es proporcional a T a presión constante."
+ },
+ {
+  "id": 13,
+  "category": "ciencia",
+  "question": "Además del núcleo, ¿qué orgánulo de las células animales contiene su propio ADN?",
+  "choices": [
+   "A) La mitocondria",
+   "B) El ribosoma",
+   "C) El aparato de Golgi",
+   "D) El lisosoma"
+  ],
+  "answer": "A",
+  "justification": "La mitocondria tiene ADN propio, heredado de la madre."
+ },
+ {
+  "id": 14,
+  "category": "ciencia",
+  "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+  "choices": [
+   "A) Silicio",
+   "B) Oxígeno",
+   "C) Aluminio",
+   "D) Hierro"
+  ],
+  "answer": "B",
+  "justification": "El oxígeno representa cerca del 46 % de la masa de la corteza."
+ },
+ {
+  "id": 15,
+  "category": "ciencia",
+  "question": "¿Qué partícula transmite la interacción electromagnética?",
+  "choices": [
+   "A) El gluón",
+   "B) El bosón W",
+   "C) El fotón",
+   "D) El gravitón"
+  ],
+  "answer": "C",
+  "justification": "El fotón es el bosón mediador del electromagnetismo."
+ },
+ {
+  "id": 16,
+  "category": "ciencia",
+  "question": "En el vacío, sin fricción, ¿qué cae más rápido, una pluma o un martillo soltados a la vez desde la misma altura?",
+  "choices": [
+   "A) El martillo",
+   "B) La pluma",
+   "C) Depende de la masa de cada uno",
+   "D) Caen al mismo tiempo"
+  ],
+  "answer": "D",
+  "justification": "Sin resistencia del aire, todos los cuerpos caen con la misma aceleración."
+ },
+ {
+  "id": 17,
+  "category": "ciencia",
+  "question": "¿Qué tipo de enlace une los átomos dentro de una molécula de agua?",
+  "choices": [
+   "A) Covalente",
+   "B) Iónico",
+   "C) Metálico",
+   "D) Puente de hidrógeno"
+  ],
+  "answer": "A",
+  "justification": "El puente de hidrógeno actúa entre moléculas, no dentro de ellas."
+ },
+ {
+  "id": 18,
+  "category": "ciencia",
+  "question": "¿Cuántos cromosomas tiene una célula somática humana normal?",
+  "choices": [
+   "A) 23",
+   "B) 46",
+   "C) 44",
+   "D) 48"
+  ],
+  "answer": "B",
+  "justification": "Son 23 pares; 23 es el número de los gametos."
+ },
+ {
+  "id": 19,
+  "category": "ciencia",
+  "question": "¿Qué vitamina sintetiza la piel al exponerse a la luz solar?",
+  "choices": [
+   "A) Vitamina C",
+   "B) Vitamina A",
+   "C) Vitamina D",
+   "D) Vitamina K"
+  ],
+  "answer": "C",
+  "justification": "La radiación UVB convierte un derivado del colesterol en vitamina D."
+ },
+ {
+  "id": 20,
+  "category": "historia",
+  "question": "¿Qué tratado de 1494 repartió el Nuevo Mundo entre España y Portugal?",
+  "choices": [
+   "A) Utrecht",
+   "B) Westfalia",
+   "C) Versalles",
+   "D) Tordesillas"
+  ],
+  "answer": "D",
+  "justification": "Se firmó en Tordesillas, Valladolid."
+ },
+ {
+  "id": 21,
+  "category": "historia",
+  "question": "¿Quién fue el principal líder inicial de la Revolución haitiana?",
+  "choices": [
+   "A) Toussaint Louverture",
+   "B) Simón Bolívar",
+   "C) Miguel Hidalgo",
+   "D) José Martí"
+  ],
+  "answer": "A",
+  "justification": "Louverture lideró la insurrección de esclavos desde 1791."
+ },
+ {
+  "id": 22,
+  "category": "historia",
+  "question": "¿En qué año se aprobó la Constitución española vigente?",
+  "choices": [
+   "A) 1975",
+   "B) 1978",
+   "C) 1981",
+   "D) 1986"
+  ],
+  "answer": "B",
+  "justification": "Se aprobó en referéndum el 6 de diciembre de 1978."
+ },
+ {
+  "id": 23,
+  "category": "geografia",
+  "question": "¿Cuál es la capital de Kazajistán?",
+  "choices": [
+   "A) Almaty",
+   "B) Taskent",
+   "C) Astaná",
+   "D) Biskek"
+  ],
+  "answer": "C",
+  "justification": "Astaná es la capital desde 1997; en 2022 recuperó ese nombre."
+ },
+ {
+  "id": 24,
+  "category": "geografia",
+  "question": "Además de Paraguay, ¿qué país de Sudamérica no tiene costa?",
+  "choices": [
+   "A) Ecuador",
+   "B) Uruguay",
+   "C) Colombia",
+   "D) Bolivia"
+  ],
+  "answer": "D",
+  "justification": "Bolivia perdió su salida al mar en 1884."
+ },
+ {
+  "id": 25,
+  "category": "geografia",
+  "question": "¿Qué estrecho separa Asia de América del Norte?",
+  "choices": [
+   "A) Estrecho de Bering",
+   "B) Estrecho de Gibraltar",
+   "C) Estrecho de Magallanes",
+   "D) Estrecho de Ormuz"
+  ],
+  "answer": "A",
+  "justification": "El estrecho de Bering une el mar de Bering y el océano Ártico."
+ },
+ {
+  "id": 26,
+  "category": "historia",
+  "question": "¿Qué emperador romano dividió el imperio entre sus hijos Arcadio y Honorio?",
+  "choices": [
+   "A) Constantino",
+   "B) Teodosio I",
+   "C) Diocleciano",
+   "D) Justiniano"
+  ],
+  "answer": "B",
+  "justification": "Teodosio murió en 395 y dejó el Oriente a Arcadio y el Occidente a Honorio."
+ },
+ {
+  "id": 27,
+  "category": "historia",
+  "question": "¿Qué batalla naval de 1805 consolidó el dominio británico sobre las flotas de Francia y España?",
+  "choices": [
+   "A) Lepanto",
+   "B) Actium",
+   "C) Trafalgar",
+   "D) Midway"
+  ],
+  "answer": "C",
+  "justification": "Nelson venció en Trafalgar, frente a la costa de Cádiz."
+ },
+ {
+  "id": 28,
+  "category": "geografia",
+  "question": "¿Cuál es el lago más profundo del mundo?",
+  "choices": [
+   "A) Titicaca",
+   "B) Superior",
+   "C) Tanganica",
+   "D) Baikal"
+  ],
+  "answer": "D",
+  "justification": "El Baikal supera los 1600 m de profundidad."
+ },
+ {
+  "id": 29,
+  "category": "historia",
+  "question": "¿Qué país fue el primero en conceder el voto a las mujeres a nivel nacional, en 1893?",
+  "choices": [
+   "A) Nueva Zelanda",
+   "B) Reino Unido",
+   "C) Estados Unidos",
+   "D) Finlandia"
+  ],
+  "answer": "A",
+  "justification": "Nueva Zelanda aprobó el sufragio femenino en 1893."
+ },
+ {
+  "id": 30,
+  "category": "arte",
+  "question": "¿Quién escribió «Rayuela»?",
+  "choices": [
+   "A) Jorge Luis Borges",
+   "B) Julio Cortázar",
+   "C) Ernesto Sabato",
+   "D) Adolfo Bioy Casares"
+  ],
+  "answer": "B",
+  "justification": "Cortázar la publicó en 1963."
+ },
+ {
+  "id": 31,
+  "category": "arte",
+  "question": "¿A qué movimiento artístico se asocia a Salvador Dalí?",
+  "choices": [
+   "A) Cubismo",
+   "B) Impresionismo",
+   "C) Surrealismo",
+   "D) Expresionismo"
+  ],
+  "answer": "C",
+  "justification": "Dalí fue una figura central del surrealismo."
+ },
+ {
+  "id": 32,
+  "category": "arte",
+  "question": "¿Quién es el autor de «La ciudad y los perros»?",
+  "choices": [
+   "A) Carlos Fuentes",
+   "B) Roberto Bolaño",
+   "C) Ernesto Sabato",
+   "D) Mario Vargas Llosa"
+  ],
+  "answer": "D",
+  "justification": "Vargas Llosa la publicó en 1963."
+ },
+ {
+  "id": 33,
+  "category": "arte",
+  "question": "¿Qué pintor realizó «Las Meninas»?",
+  "choices": [
+   "A) Diego Velázquez",
+   "B) Francisco de Goya",
+   "C) El Greco",
+   "D) Bartolomé Murillo"
+  ],
+  "answer": "A",
+  "justification": "Velázquez la pintó en 1656."
+ },
+ {
+  "id": 34,
+  "category": "arte",
+  "question": "¿Quién escribió el «Romancero gitano»?",
+  "choices": [
+   "A) Rafael Alberti",
+   "B) Federico García Lorca",
+   "C) Miguel Hernández",
+   "D) Antonio Machado"
+  ],
+  "answer": "B",
+  "justification": "Lorca lo publicó en 1928."
+ },
+ {
+  "id": 35,
+  "category": "razonamiento",
+  "question": "Se lanzan dos dados justos. ¿Cuál es la probabilidad de que sumen 7?",
+  "choices": [
+   "A) 1/12",
+   "B) 1/36",
+   "C) 1/6",
+   "D) 7/36"
+  ],
+  "answer": "C",
+  "justification": "Hay 6 combinaciones de 36 que suman 7."
+ },
+ {
+  "id": 36,
+  "category": "razonamiento",
+  "question": "¿De cuántas maneras se pueden ordenar las letras de la palabra AMOR?",
+  "choices": [
+   "A) 12",
+   "B) 16",
+   "C) 120",
+   "D) 24"
+  ],
+  "answer": "D",
+  "justification": "4 letras distintas: 4! = 24."
+ },
+ {
+  "id": 37,
+  "category": "razonamiento",
+  "question": "Un artículo cuesta 80 euros después de un descuento del 20 %. ¿Cuál era su precio original?",
+  "choices": [
+   "A) 100 euros",
+   "B) 96 euros",
+   "C) 90 euros",
+   "D) 120 euros"
+  ],
+  "answer": "A",
+  "justification": "El precio original p cumple 0,8p = 80, así que p = 100."
+ },
+ {
+  "id": 38,
+  "category": "razonamiento",
+  "question": "Un precio sube un 10 % y luego baja un 10 %. Respecto al precio original, el final es:",
+  "choices": [
+   "A) Igual",
+   "B) Un 1 % menor",
+   "C) Un 1 % mayor",
+   "D) Un 10 % menor"
+  ],
+  "answer": "B",
+  "justification": "1,1 × 0,9 = 0,99."
+ },
+ {
+  "id": 39,
+  "category": "razonamiento",
+  "question": "¿Cuál es el siguiente número de la serie 2, 6, 12, 20, 30, …?",
+  "choices": [
+   "A) 36",
+   "B) 40",
+   "C) 42",
+   "D) 44"
+  ],
+  "answer": "C",
+  "justification": "Los términos son n(n+1) y las diferencias crecen de 2 en 2: 30 + 12 = 42."
+ },
+ {
+  "id": 40,
+  "category": "razonamiento",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «Los dos somos bribones». ¿Qué son A y B?",
+  "choices": [
+   "A) A es caballero y B es bribón",
+   "B) Ambos son bribones",
+   "C) Ambos son caballeros",
+   "D) A es bribón y B es caballero"
+  ],
+  "answer": "D",
+  "justification": "Si A fuera caballero, su frase sería verdadera y A sería bribón: absurdo. Luego A miente, así que no son ambos bribones y B es caballero."
+ },
+ {
+  "id": 41,
+  "category": "razonamiento",
+  "question": "Hace 5 años Luis tenía el triple de la edad de su hijo. Hoy tiene el doble. ¿Qué edad tiene hoy el hijo?",
+  "choices": [
+   "A) 10 años",
+   "B) 5 años",
+   "C) 15 años",
+   "D) 20 años"
+  ],
+  "answer": "A",
+  "justification": "L - 5 = 3(s - 5) y L = 2s dan s = 10."
+ },
+ {
+  "id": 42,
+  "category": "razonamiento",
+  "question": "Dos trenes salen a la vez, uno a 60 km/h y otro a 90 km/h, desde ciudades separadas 300 km y se acercan. ¿Cuánto tardan en cruzarse?",
+  "choices": [
+   "A) 3 horas",
+   "B) 2 horas",
+   "C) 4 horas",
+   "D) 5 horas"
+  ],
+  "answer": "B",
+  "justification": "Se acercan a 150 km/h: 300 / 150 = 2."
+ },
+ {
+  "id": 43,
+  "category": "razonamiento",
+  "question": "Ocho personas se saludan todas entre sí con un apretón de manos, una vez por pareja. ¿Cuántos apretones hay?",
+  "choices": [
+   "A) 56",
+   "B) 64",
+   "C) 28",
+   "D) 32"
+  ],
+  "answer": "C",
+  "justification": "C(8,2) = 28."
+ },
+ {
+  "id": 44,
+  "category": "razonamiento",
+  "question": "Todos los A son B y ningún B es C. ¿Qué se deduce con certeza?",
+  "choices": [
+   "A) Algunos A son C",
+   "B) Todos los C son A",
+   "C) Todos los B son A",
+   "D) Ningún A es C"
+  ],
+  "answer": "D",
+  "justification": "Como A está dentro de B y B no comparte nada con C, A tampoco."
+ },
+ {
+  "id": 45,
+  "category": "razonamiento",
+  "question": "Un grifo llena una piscina en 6 horas y otro en 3 horas. ¿Cuánto tardan juntos?",
+  "choices": [
+   "A) 2 horas",
+   "B) 4,5 horas",
+   "C) 3 horas",
+   "D) 9 horas"
+  ],
+  "answer": "A",
+  "justification": "1/6 + 1/3 = 1/2 de piscina por hora."
+ },
+ {
+  "id": 46,
+  "category": "razonamiento",
+  "question": "¿Cuál es la mediana de los datos 3, 7, 7, 2, 9?",
+  "choices": [
+   "A) 5,6",
+   "B) 7",
+   "C) 3",
+   "D) 9"
+  ],
+  "answer": "B",
+  "justification": "Ordenados 2, 3, 7, 7, 9: el valor central es 7; la media es 5,6."
+ },
+ {
+  "id": 47,
+  "category": "razonamiento",
+  "question": "Una bolsa tiene 3 bolas rojas y 2 azules. Se sacan 2 sin devolverlas. ¿Cuál es la probabilidad de que ambas sean rojas?",
+  "choices": [
+   "A) 9/25",
+   "B) 3/5",
+   "C) 3/10",
+   "D) 6/25"
+  ],
+  "answer": "C",
+  "justification": "(3/5) × (2/4) = 3/10."
+ },
+ {
+  "id": 48,
+  "category": "razonamiento",
+  "question": "En una familia, cada hermano tiene tantas hermanas como hermanos, y cada hermana tiene el doble de hermanos que de hermanas. ¿Cuántos hijos hay?",
+  "choices": [
+   "A) 5",
+   "B) 6",
+   "C) 8",
+   "D) 7"
+  ],
+  "answer": "D",
+  "justification": "Con b hijos y g hijas: g = b - 1 y b = 2(g - 1), que da b = 4 y g = 3."
+ },
+ {
+  "id": 49,
+  "category": "razonamiento",
+  "question": "En una carrera adelantas al segundo. ¿En qué lugar vas?",
+  "choices": [
+   "A) Segundo",
+   "B) Primero",
+   "C) Tercero",
+   "D) Cuarto"
+  ],
+  "answer": "A",
+  "justification": "Al adelantar al segundo ocupas su puesto."
+ },
+ {
+  "id": 50,
+  "category": "razonamiento",
+  "question": "María tiene el doble de libros que Pablo. Si Pablo le da 3 libros a María, ella tiene el triple que él. ¿Cuántos libros tenía Pablo?",
+  "choices": [
+   "A) 9",
+   "B) 12",
+   "C) 15",
+   "D) 18"
+  ],
+  "answer": "B",
+  "justification": "Con p libros de Pablo: 2p + 3 = 3(p - 3), que da p = 12."
+ }
+]

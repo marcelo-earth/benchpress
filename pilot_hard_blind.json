@@ -1,0 +1,502 @@
+[
+ {
+  "id": 1,
+  "question": "Completa: «No es mi hermano, ___ mi primo».",
+  "choices": [
+   "A) sino",
+   "B) si no",
+   "C) sí no",
+   "D) si nó"
+  ]
+ },
+ {
+  "id": 2,
+  "question": "¿Cuál de estas palabras es esdrújula?",
+  "choices": [
+   "A) Camión",
+   "B) Océano",
+   "C) Árbol",
+   "D) Cortés"
+  ]
+ },
+ {
+  "id": 3,
+  "question": "¿Qué figura retórica hay en «Tus ojos son dos luceros»?",
+  "choices": [
+   "A) Símil",
+   "B) Hipérbole",
+   "C) Metáfora",
+   "D) Ironía"
+  ]
+ },
+ {
+  "id": 4,
+  "question": "En «Se vendieron todas las entradas», ¿cuál es el sujeto?",
+  "choices": [
+   "A) Se",
+   "B) Vendieron todas",
+   "C) No tiene sujeto",
+   "D) Todas las entradas"
+  ]
+ },
+ {
+  "id": 5,
+  "question": "¿Cuál de estas palabras NO lleva tilde?",
+  "choices": [
+   "A) Examen",
+   "B) Interés",
+   "C) Lápiz",
+   "D) Árbol"
+  ]
+ },
+ {
+  "id": 6,
+  "question": "¿Qué significa la locución «a la vera de»?",
+  "choices": [
+   "A) En contra de",
+   "B) Al lado de",
+   "C) A causa de",
+   "D) Lejos de"
+  ]
+ },
+ {
+  "id": 7,
+  "question": "¿Cuál es la tercera persona del singular del pretérito perfecto simple de «andar»?",
+  "choices": [
+   "A) Andó",
+   "B) Anduvió",
+   "C) Anduvo",
+   "D) Andaba"
+  ]
+ },
+ {
+  "id": 8,
+  "question": "¿Cuál es un sinónimo de «prístino»?",
+  "choices": [
+   "A) Deteriorado",
+   "B) Oscuro",
+   "C) Confuso",
+   "D) Inmaculado"
+  ]
+ },
+ {
+  "id": 9,
+  "question": "¿Cuál de estas oraciones contiene un error de concordancia?",
+  "choices": [
+   "A) Hubieron muchos problemas en la reunión.",
+   "B) Hubo muchos problemas en la reunión.",
+   "C) Hay muchos problemas en la reunión.",
+   "D) Habrá muchos problemas en la reunión."
+  ]
+ },
+ {
+  "id": 10,
+  "question": "¿Cuál es el plural correcto de «régimen»?",
+  "choices": [
+   "A) Régimenes",
+   "B) Regímenes",
+   "C) Regimenes",
+   "D) Régimens"
+  ]
+ },
+ {
+  "id": 11,
+  "question": "¿Por qué se ve azul el cielo despejado?",
+  "choices": [
+   "A) Refleja el color del océano",
+   "B) El ozono absorbe la luz roja",
+   "C) La atmósfera dispersa más la luz de menor longitud de onda",
+   "D) La contaminación tiñe la luz del Sol"
+  ]
+ },
+ {
+  "id": 12,
+  "question": "Si la temperatura absoluta de un gas ideal se duplica a presión constante, su volumen:",
+  "choices": [
+   "A) se reduce a la mitad",
+   "B) se mantiene",
+   "C) se cuadruplica",
+   "D) se duplica"
+  ]
+ },
+ {
+  "id": 13,
+  "question": "Además del núcleo, ¿qué orgánulo de las células animales contiene su propio ADN?",
+  "choices": [
+   "A) La mitocondria",
+   "B) El ribosoma",
+   "C) El aparato de Golgi",
+   "D) El lisosoma"
+  ]
+ },
+ {
+  "id": 14,
+  "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+  "choices": [
+   "A) Silicio",
+   "B) Oxígeno",
+   "C) Aluminio",
+   "D) Hierro"
+  ]
+ },
+ {
+  "id": 15,
+  "question": "¿Qué partícula transmite la interacción electromagnética?",
+  "choices": [
+   "A) El gluón",
+   "B) El bosón W",
+   "C) El fotón",
+   "D) El gravitón"
+  ]
+ },
+ {
+  "id": 16,
+  "question": "En el vacío, sin fricción, ¿qué cae más rápido, una pluma o un martillo soltados a la vez desde la misma altura?",
+  "choices": [
+   "A) El martillo",
+   "B) La pluma",
+   "C) Depende de la masa de cada uno",
+   "D) Caen al mismo tiempo"
+  ]
+ },
+ {
+  "id": 17,
+  "question": "¿Qué tipo de enlace une los átomos dentro de una molécula de agua?",
+  "choices": [
+   "A) Covalente",
+   "B) Iónico",
+   "C) Metálico",
+   "D) Puente de hidrógeno"
+  ]
+ },
+ {
+  "id": 18,
+  "question": "¿Cuántos cromosomas tiene una célula somática humana normal?",
+  "choices": [
+   "A) 23",
+   "B) 46",
+   "C) 44",
+   "D) 48"
+  ]
+ },
+ {
+  "id": 19,
+  "question": "¿Qué vitamina sintetiza la piel al exponerse a la luz solar?",
+  "choices": [
+   "A) Vitamina C",
+   "B) Vitamina A",
+   "C) Vitamina D",
+   "D) Vitamina K"
+  ]
+ },
+ {
+  "id": 20,
+  "question": "¿Qué tratado de 1494 repartió el Nuevo Mundo entre España y Portugal?",
+  "choices": [
+   "A) Utrecht",
+   "B) Westfalia",
+   "C) Versalles",
+   "D) Tordesillas"
+  ]
+ },
+ {
+  "id": 21,
+  "question": "¿Quién fue el principal líder inicial de la Revolución haitiana?",
+  "choices": [
+   "A) Toussaint Louverture",
+   "B) Simón Bolívar",
+   "C) Miguel Hidalgo",
+   "D) José Martí"
+  ]
+ },
+ {
+  "id": 22,
+  "question": "¿En qué año se aprobó la Constitución española vigente?",
+  "choices": [
+   "A) 1975",
+   "B) 1978",
+   "C) 1981",
+   "D) 1986"
+  ]
+ },
+ {
+  "id": 23,
+  "question": "¿Cuál es la capital de Kazajistán?",
+  "choices": [
+   "A) Almaty",
+   "B) Taskent",
+   "C) Astaná",
+   "D) Biskek"
+  ]
+ },
+ {
+  "id": 24,
+  "question": "Además de Paraguay, ¿qué país de Sudamérica no tiene costa?",
+  "choices": [
+   "A) Ecuador",
+   "B) Uruguay",
+   "C) Colombia",
+   "D) Bolivia"
+  ]
+ },
+ {
+  "id": 25,
+  "question": "¿Qué estrecho separa Asia de América del Norte?",
+  "choices": [
+   "A) Estrecho de Bering",
+   "B) Estrecho de Gibraltar",
+   "C) Estrecho de Magallanes",
+   "D) Estrecho de Ormuz"
+  ]
+ },
+ {
+  "id": 26,
+  "question": "¿Qué emperador romano dividió el imperio entre sus hijos Arcadio y Honorio?",
+  "choices": [
+   "A) Constantino",
+   "B) Teodosio I",
+   "C) Diocleciano",
+   "D) Justiniano"
+  ]
+ },
+ {
+  "id": 27,
+  "question": "¿Qué batalla naval de 1805 consolidó el dominio británico sobre las flotas de Francia y España?",
+  "choices": [
+   "A) Lepanto",
+   "B) Actium",
+   "C) Trafalgar",
+   "D) Midway"
+  ]
+ },
+ {
+  "id": 28,
+  "question": "¿Cuál es el lago más profundo del mundo?",
+  "choices": [
+   "A) Titicaca",
+   "B) Superior",
+   "C) Tanganica",
+   "D) Baikal"
+  ]
+ },
+ {
+  "id": 29,
+  "question": "¿Qué país fue el primero en conceder el voto a las mujeres a nivel nacional, en 1893?",
+  "choices": [
+   "A) Nueva Zelanda",
+   "B) Reino Unido",
+   "C) Estados Unidos",
+   "D) Finlandia"
+  ]
+ },
+ {
+  "id": 30,
+  "question": "¿Quién escribió «Rayuela»?",
+  "choices": [
+   "A) Jorge Luis Borges",
+   "B) Julio Cortázar",
+   "C) Ernesto Sabato",
+   "D) Adolfo Bioy Casares"
+  ]
+ },
+ {
+  "id": 31,
+  "question": "¿A qué movimiento artístico se asocia a Salvador Dalí?",
+  "choices": [
+   "A) Cubismo",
+   "B) Impresionismo",
+   "C) Surrealismo",
+   "D) Expresionismo"
+  ]
+ },
+ {
+  "id": 32,
+  "question": "¿Quién es el autor de «La ciudad y los perros»?",
+  "choices": [
+   "A) Carlos Fuentes",
+   "B) Roberto Bolaño",
+   "C) Ernesto Sabato",
+   "D) Mario Vargas Llosa"
+  ]
+ },
+ {
+  "id": 33,
+  "question": "¿Qué pintor realizó «Las Meninas»?",
+  "choices": [
+   "A) Diego Velázquez",
+   "B) Francisco de Goya",
+   "C) El Greco",
+   "D) Bartolomé Murillo"
+  ]
+ },
+ {
+  "id": 34,
+  "question": "¿Quién escribió el «Romancero gitano»?",
+  "choices": [
+   "A) Rafael Alberti",
+   "B) Federico García Lorca",
+   "C) Miguel Hernández",
+   "D) Antonio Machado"
+  ]
+ },
+ {
+  "id": 35,
+  "question": "Se lanzan dos dados justos. ¿Cuál es la probabilidad de que sumen 7?",
+  "choices": [
+   "A) 1/12",
+   "B) 1/36",
+   "C) 1/6",
+   "D) 7/36"
+  ]
+ },
+ {
+  "id": 36,
+  "question": "¿De cuántas maneras se pueden ordenar las letras de la palabra AMOR?",
+  "choices": [
+   "A) 12",
+   "B) 16",
+   "C) 120",
+   "D) 24"
+  ]
+ },
+ {
+  "id": 37,
+  "question": "Un artículo cuesta 80 euros después de un descuento del 20 %. ¿Cuál era su precio original?",
+  "choices": [
+   "A) 100 euros",
+   "B) 96 euros",
+   "C) 90 euros",
+   "D) 120 euros"
+  ]
+ },
+ {
+  "id": 38,
+  "question": "Un precio sube un 10 % y luego baja un 10 %. Respecto al precio original, el final es:",
+  "choices": [
+   "A) Igual",
+   "B) Un 1 % menor",
+   "C) Un 1 % mayor",
+   "D) Un 10 % menor"
+  ]
+ },
+ {
+  "id": 39,
+  "question": "¿Cuál es el siguiente número de la serie 2, 6, 12, 20, 30, …?",
+  "choices": [
+   "A) 36",
+   "B) 40",
+   "C) 42",
+   "D) 44"
+  ]
+ },
+ {
+  "id": 40,
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «Los dos somos bribones». ¿Qué son A y B?",
+  "choices": [
+   "A) A es caballero y B es bribón",
+   "B) Ambos son bribones",
+   "C) Ambos son caballeros",
+   "D) A es bribón y B es caballero"
+  ]
+ },
+ {
+  "id": 41,
+  "question": "Hace 5 años Luis tenía el triple de la edad de su hijo. Hoy tiene el doble. ¿Qué edad tiene hoy el hijo?",
+  "choices": [
+   "A) 10 años",
+   "B) 5 años",
+   "C) 15 años",
+   "D) 20 años"
+  ]
+ },
+ {
+  "id": 42,
+  "question": "Dos trenes salen a la vez, uno a 60 km/h y otro a 90 km/h, desde ciudades separadas 300 km y se acercan. ¿Cuánto tardan en cruzarse?",
+  "choices": [
+   "A) 3 horas",
+   "B) 2 horas",
+   "C) 4 horas",
+   "D) 5 horas"
+  ]
+ },
+ {
+  "id": 43,
+  "question": "Ocho personas se saludan todas entre sí con un apretón de manos, una vez por pareja. ¿Cuántos apretones hay?",
+  "choices": [
+   "A) 56",
+   "B) 64",
+   "C) 28",
+   "D) 32"
+  ]
+ },
+ {
+  "id": 44,
+  "question": "Todos los A son B y ningún B es C. ¿Qué se deduce con certeza?",
+  "choices": [
+   "A) Algunos A son C",
+   "B) Todos los C son A",
+   "C) Todos los B son A",
+   "D) Ningún A es C"
+  ]
+ },
+ {
+  "id": 45,
+  "question": "Un grifo llena una piscina en 6 horas y otro en 3 horas. ¿Cuánto tardan juntos?",
+  "choices": [
+   "A) 2 horas",
+   "B) 4,5 horas",
+   "C) 3 horas",
+   "D) 9 horas"
+  ]
+ },
+ {
+  "id": 46,
+  "question": "¿Cuál es la mediana de los datos 3, 7, 7, 2, 9?",
+  "choices": [
+   "A) 5,6",
+   "B) 7",
+   "C) 3",
+   "D) 9"
+  ]
+ },
+ {
+  "id": 47,
+  "question": "Una bolsa tiene 3 bolas rojas y 2 azules. Se sacan 2 sin devolverlas. ¿Cuál es la probabilidad de que ambas sean rojas?",
+  "choices": [
+   "A) 9/25",
+   "B) 3/5",
+   "C) 3/10",
+   "D) 6/25"
+  ]
+ },
+ {
+  "id": 48,
+  "question": "En una familia, cada hermano tiene tantas hermanas como hermanos, y cada hermana tiene el doble de hermanos que de hermanas. ¿Cuántos hijos hay?",
+  "choices": [
+   "A) 5",
+   "B) 6",
+   "C) 8",
+   "D) 7"
+  ]
+ },
+ {
+  "id": 49,
+  "question": "En una carrera adelantas al segundo. ¿En qué lugar vas?",
+  "choices": [
+   "A) Segundo",
+   "B) Primero",
+   "C) Tercero",
+   "D) Cuarto"
+  ]
+ },
+ {
+  "id": 50,
+  "question": "María tiene el doble de libros que Pablo. Si Pablo le da 3 libros a María, ella tiene el triple que él. ¿Cuántos libros tenía Pablo?",
+  "choices": [
+   "A) 9",
+   "B) 12",
+   "C) 15",
+   "D) 18"
+  ]
+ }
+]
