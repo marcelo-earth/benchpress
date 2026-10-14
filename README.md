@@ -47,6 +47,24 @@ python build_pilot.py
 python score_pilot.py pilot_labels.json
 ```
 
+## Hard set (2026-10-14)
+
+A second set of 50 harder items (`pilot_hard_50.json`: multi step reasoning, orthography and grammar traps, less common facts). Two independent blind Claude Sonnet 5.5 labelers matched the key on 50/50 and each other on 50/50, so the key is sound. That also means the set is **not hard for Claude**. Difficulty shows only on small local models:
+
+![Accuracy of local models on both sets](plots/sets_accuracy.png)
+
+| Model | Pilot | Hard |
+|-------|-------|------|
+| pythia-70m | 26% | 28% |
+| gpt2 | 22% | 26% |
+| Qwen2.5-0.5B | 42% | 30% |
+
+Random is 25%. With 50 items each interval is about 25 points wide: pythia-70m and gpt2 are at chance on both sets, and Qwen's drop from 42% to 30% is not significant (z = 1.26). The hard set shows the direction we want but does not yet separate models; more items and larger models are needed. `custom_bench.py` scores the letter token without the leading space; `run_sets.py` fixes that.
+
+```bash
+python run_sets.py
+```
+
 ## Setup
 
 ```bash
@@ -71,3 +89,5 @@ python model_info.py
 | `benchpress.ipynb` | Full analysis with leaderboard |
 | `build_pilot.py` | Build the 50 item pilot, its key and the blind copy |
 | `score_pilot.py` | Agreement and kappa between blind labels and key |
+| `build_pilot_hard.py` | Build the harder 50 item set, its key and blind copy |
+| `run_sets.py` | Score local models on both sets, writes `results_sets.json` |
