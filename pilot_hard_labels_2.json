@@ -1,0 +1,302 @@
+[
+ {
+  "id": 1,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 2,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 3,
+  "label": "C",
+  "ambigua": false,
+  "nota": "Metáfora directa (sin 'como'); algunos podrían dudar con símil pero no hay nexo comparativo."
+ },
+ {
+  "id": 4,
+  "label": "D",
+  "ambigua": false,
+  "nota": "Pasiva refleja: sujeto 'todas las entradas'."
+ },
+ {
+  "id": 5,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 6,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 7,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 8,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 9,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 10,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 11,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 12,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 13,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 14,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 15,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 16,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 17,
+  "label": "A",
+  "ambigua": false,
+  "nota": "Dentro de la molécula el enlace es covalente; el puente de hidrógeno es entre moléculas."
+ },
+ {
+  "id": 18,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 19,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 20,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 21,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 22,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 23,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 24,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 25,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 26,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 27,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 28,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 29,
+  "label": "A",
+  "ambigua": false,
+  "nota": "Nueva Zelanda 1893 (nacional, primer país autogobernado)."
+ },
+ {
+  "id": 30,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 31,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 32,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 33,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 34,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 35,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 36,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 37,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 38,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 39,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 40,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 41,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 42,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 43,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 44,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 45,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 46,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 47,
+  "label": "C",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 48,
+  "label": "D",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 49,
+  "label": "A",
+  "ambigua": false,
+  "nota": ""
+ },
+ {
+  "id": 50,
+  "label": "B",
+  "ambigua": false,
+  "nota": ""
+ }
+]
