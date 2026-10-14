@@ -1,0 +1,230 @@
+[
+ {
+  "model": "EleutherAI/pythia-70m",
+  "set": "pilot",
+  "correct": 13,
+  "n": 50,
+  "ci": [
+   0.15871379651367384,
+   0.3955342198899992
+  ],
+  "per_category": {
+   "geografia": [
+    2,
+    8
+   ],
+   "historia": [
+    2,
+    6
+   ],
+   "ciencia": [
+    4,
+    14
+   ],
+   "arte": [
+    1,
+    3
+   ],
+   "literatura": [
+    1,
+    3
+   ],
+   "lengua": [
+    1,
+    4
+   ],
+   "razonamiento": [
+    2,
+    12
+   ]
+  }
+ },
+ {
+  "model": "EleutherAI/pythia-70m",
+  "set": "hard",
+  "correct": 14,
+  "n": 50,
+  "ci": [
+   0.17474014357680362,
+   0.4166538714598967
+  ],
+  "per_category": {
+   "lengua": [
+    3,
+    10
+   ],
+   "ciencia": [
+    2,
+    9
+   ],
+   "historia": [
+    2,
+    6
+   ],
+   "geografia": [
+    1,
+    4
+   ],
+   "arte": [
+    1,
+    5
+   ],
+   "razonamiento": [
+    5,
+    16
+   ]
+  }
+ },
+ {
+  "model": "gpt2",
+  "set": "pilot",
+  "correct": 11,
+  "n": 50,
+  "ci": [
+   0.12753786224302288,
+   0.35241815689459555
+  ],
+  "per_category": {
+   "geografia": [
+    1,
+    8
+   ],
+   "historia": [
+    2,
+    6
+   ],
+   "ciencia": [
+    3,
+    14
+   ],
+   "arte": [
+    1,
+    3
+   ],
+   "literatura": [
+    0,
+    3
+   ],
+   "lengua": [
+    2,
+    4
+   ],
+   "razonamiento": [
+    2,
+    12
+   ]
+  }
+ },
+ {
+  "model": "gpt2",
+  "set": "hard",
+  "correct": 13,
+  "n": 50,
+  "ci": [
+   0.15871379651367384,
+   0.3955342198899992
+  ],
+  "per_category": {
+   "lengua": [
+    4,
+    10
+   ],
+   "ciencia": [
+    1,
+    9
+   ],
+   "historia": [
+    1,
+    6
+   ],
+   "geografia": [
+    2,
+    4
+   ],
+   "arte": [
+    0,
+    5
+   ],
+   "razonamiento": [
+    5,
+    16
+   ]
+  }
+ },
+ {
+  "model": "Qwen/Qwen2.5-0.5B",
+  "set": "pilot",
+  "correct": 21,
+  "n": 50,
+  "ci": [
+   0.2937479723456693,
+   0.5576680331222217
+  ],
+  "per_category": {
+   "geografia": [
+    4,
+    8
+   ],
+   "historia": [
+    4,
+    6
+   ],
+   "ciencia": [
+    7,
+    14
+   ],
+   "arte": [
+    2,
+    3
+   ],
+   "literatura": [
+    1,
+    3
+   ],
+   "lengua": [
+    1,
+    4
+   ],
+   "razonamiento": [
+    2,
+    12
+   ]
+  }
+ },
+ {
+  "model": "Qwen/Qwen2.5-0.5B",
+  "set": "hard",
+  "correct": 15,
+  "n": 50,
+  "ci": [
+   0.1910338908960936,
+   0.4375061227736339
+  ],
+  "per_category": {
+   "lengua": [
+    5,
+    10
+   ],
+   "ciencia": [
+    3,
+    9
+   ],
+   "historia": [
+    4,
+    6
+   ],
+   "geografia": [
+    1,
+    4
+   ],
+   "arte": [
+    2,
+    5
+   ],
+   "razonamiento": [
+    0,
+    16
+   ]
+  }
+ }
+]
