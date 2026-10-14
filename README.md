@@ -38,18 +38,18 @@ flowchart LR
     H --> A
 ```
 
-## Pilot (2026-10-14)
+## Pilot
 
-50 Spanish multiple choice items with a balanced answer key (A 13, B 13, C 12, D 12). A blind labeler answers without the key and `score_pilot.py` reports agreement and Cohen's kappa. Result: 50/50, kappa 1.0, provisional because the items are easy and labeler and author share a model family. Pre-registration lives in the experiment hub (`projects/benchpress.md`).
+On 2026-10-14, 50 Spanish multiple choice items with a balanced answer key (A 13, B 13, C 12, D 12). A blind labeler answers without the key and `score_pilot.py` reports agreement and Cohen's kappa. Result: 50/50, kappa 1.0, provisional because the items are easy and labeler and author share a model family. Pre-registration lives in the experiment hub (`projects/benchpress.md`).
 
 ```bash
 python build_pilot.py
 python score_pilot.py pilot_labels.json
 ```
 
-## Hard set (2026-10-14)
+## Hard set
 
-A second set of 50 harder items (`pilot_hard_50.json`: multi step reasoning, orthography and grammar traps, less common facts). Two independent blind Claude Sonnet 5.5 labelers matched the key on 50/50 and each other on 50/50, so the key is sound. That also means the set is **not hard for Claude**. Difficulty shows only on small local models:
+Also on 2026-10-14, a second set of 50 harder items (`pilot_hard_50.json`: multi step reasoning, orthography and grammar traps, less common facts). Two independent blind Claude Sonnet 5.5 labelers matched the key on 50/50 and each other on 50/50, so the key is sound. That also means the set is **not hard for Claude**. Difficulty shows only on small local models:
 
 ![Accuracy of local models on both sets](plots/sets_accuracy.png)
 
