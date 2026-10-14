@@ -1,0 +1,602 @@
+[
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Todos los mamíferos respiran aire. Las ballenas son mamíferos. ¿Qué se deduce con certeza?",
+  "correct": "Las ballenas respiran aire.",
+  "distractors": [
+   "Las ballenas viven fuera del agua.",
+   "Todos los animales que respiran aire son ballenas.",
+   "Solo las ballenas respiran aire."
+  ],
+  "justification": "Si todos los mamíferos respiran aire y las ballenas son mamíferos, las ballenas respiran aire."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Pie es a zapato como mano es a:",
+  "correct": "guante",
+  "distractors": [
+   "codo",
+   "uña",
+   "muñeca"
+  ],
+  "justification": "El zapato cubre el pie, igual que el guante cubre la mano."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Tomás llegó antes que Rosa, y Rosa llegó antes que Iván. ¿Quién llegó último?",
+  "correct": "Iván",
+  "distractors": [
+   "Tomás",
+   "Rosa",
+   "No se puede deducir entre Tomás y Rosa"
+  ],
+  "justification": "El orden es Tomás, Rosa, Iván, así que el último es Iván."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Frío es a caliente como alto es a:",
+  "correct": "bajo",
+  "distractors": [
+   "largo",
+   "ancho",
+   "grande"
+  ],
+  "justification": "Cada par son antónimos: frío y caliente, alto y bajo."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Lucía guardó el paraguas porque había dejado de llover. Después salió a caminar con su perro. ¿Qué se deduce con certeza?",
+  "correct": "Antes de salir había estado lloviendo.",
+  "distractors": [
+   "Lucía nunca usa paraguas.",
+   "Lucía salió a caminar bajo la lluvia.",
+   "El perro de Lucía tenía miedo a la lluvia."
+  ],
+  "justification": "Dejó de llover significa que antes llovía; el resto no está dicho en el texto."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Si llueve, el suelo se moja. El suelo no está mojado. ¿Qué se concluye?",
+  "correct": "No ha llovido.",
+  "distractors": [
+   "Ha llovido poco.",
+   "Va a llover pronto.",
+   "Llovió, pero el suelo ya se secó."
+  ],
+  "justification": "Por contraposición, si el suelo no está mojado entonces no llovió."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "«No creas lo que dice Juan sobre la dieta, porque él mismo está gordo.» ¿Qué falacia es?",
+  "correct": "Ataque a la persona (ad hominem)",
+  "distractors": [
+   "Apelación a la mayoría",
+   "Pendiente resbaladiza",
+   "Falso dilema"
+  ],
+  "justification": "Se descalifica el argumento atacando a quien lo dice y no su contenido."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras no pertenece al grupo?",
+  "correct": "zanahoria",
+  "distractors": [
+   "manzana",
+   "pera",
+   "uva"
+  ],
+  "justification": "Manzana, pera y uva son frutas; la zanahoria es una hortaliza."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "En una fila, Marta está detrás de Sofía y delante de Pedro. ¿Quién está en el medio de los tres?",
+  "correct": "Marta",
+  "distractors": [
+   "Sofía",
+   "Pedro",
+   "Depende de dónde empiece la fila"
+  ],
+  "justification": "El orden es Sofía, Marta, Pedro, así que Marta queda en el medio."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. Se sabe que A es caballero y que A dice: «B es un bribón». ¿Qué es B?",
+  "correct": "Bribón",
+  "distractors": [
+   "Caballero",
+   "Puede ser cualquiera de los dos",
+   "Ni caballero ni bribón"
+  ],
+  "justification": "Como A dice la verdad, lo que afirma es cierto: B es bribón."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Ningún reptil tiene plumas. La iguana es un reptil. ¿Qué se deduce?",
+  "correct": "La iguana no tiene plumas.",
+  "distractors": [
+   "La iguana es un ave.",
+   "Algunos reptiles tienen plumas.",
+   "La iguana tiene escamas y plumas."
+  ],
+  "justification": "Si ningún reptil tiene plumas, la iguana, que es reptil, no las tiene."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "En la biblioteca el silencio es obligatorio. Pablo habló en voz alta y el bibliotecario le pidió que saliera. ¿Qué se deduce?",
+  "correct": "Pablo incumplió una norma de la biblioteca.",
+  "distractors": [
+   "Pablo es bibliotecario.",
+   "Al bibliotecario le molestan los libros.",
+   "Pablo había pedido un libro prestado."
+  ],
+  "justification": "Hablar en voz alta rompe la norma del silencio, y por eso le pidieron salir."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Libro es a leer como canción es a:",
+  "correct": "escuchar",
+  "distractors": [
+   "escribir",
+   "dibujar",
+   "cocinar"
+  ],
+  "justification": "Un libro se lee y una canción se escucha: la relación es objeto y acción habitual."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "«Todo el mundo compra esta marca, así que tiene que ser la mejor.» ¿Qué falacia es?",
+  "correct": "Apelación a la mayoría (ad populum)",
+  "distractors": [
+   "Ataque a la persona (ad hominem)",
+   "Hombre de paja",
+   "Petición de principio"
+  ],
+  "justification": "Se usa la popularidad como prueba de calidad."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "easy",
+  "question": "Juan es más alto que Luis, Luis es más alto que Mario y Pedro es más bajo que Mario. ¿Quién es el segundo más alto?",
+  "correct": "Luis",
+  "distractors": [
+   "Mario",
+   "Juan",
+   "Pedro"
+  ],
+  "justification": "El orden de mayor a menor es Juan, Luis, Mario, Pedro."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «B es un bribón». B dice: «A y yo somos del mismo tipo». ¿Qué son A y B?",
+  "correct": "A es caballero y B es bribón.",
+  "distractors": [
+   "A es bribón y B es caballero.",
+   "Los dos son caballeros.",
+   "Los dos son bribones."
+  ],
+  "justification": "Si A fuera bribón, B sería caballero y su frase sería falsa, contradicción. Así A es caballero y B bribón."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «Los tres somos bribones». B dice: «Exactamente uno de nosotros es caballero». C no dice nada. ¿Qué es C?",
+  "correct": "Bribón",
+  "distractors": [
+   "Caballero",
+   "Caballero, y A también",
+   "No se puede determinar"
+  ],
+  "justification": "A no puede ser caballero. Si B fuera bribón, nadie sería caballero y B diría la verdad, contradicción. Así B es caballero y es el único, luego C es bribón."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «B y C son del mismo tipo». B dice: «A es un bribón». C dice: «B es un caballero». ¿Cuál es la situación?",
+  "correct": "A es caballero; B y C son bribones.",
+  "distractors": [
+   "A y B son caballeros; C es bribón.",
+   "Solo C es caballero.",
+   "Los tres son bribones."
+  ],
+  "justification": "Si B fuera caballero, A sería bribón y C caballero, pero entonces A diría verdad, contradicción. Con B bribón, A es caballero y C también miente."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Cinco corredores terminaron una carrera sin empates. Elsa llegó antes que Ana, y Ana llegó antes que Beto. Carla llegó después de Beto. Diego llegó entre Elsa y Ana. ¿Quién llegó en tercer lugar?",
+  "correct": "Ana",
+  "distractors": [
+   "Diego",
+   "Beto",
+   "Elsa"
+  ],
+  "justification": "El orden es Elsa, Diego, Ana, Beto, Carla."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Algunos médicos son músicos. Todos los músicos son sensibles. ¿Qué conclusión es necesariamente cierta?",
+  "correct": "Algunos médicos son sensibles.",
+  "distractors": [
+   "Todos los médicos son sensibles.",
+   "Ningún músico es médico.",
+   "Algunos sensibles no son músicos."
+  ],
+  "justification": "El médico que es músico es sensible; las otras opciones no se garantizan."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Ningún estudiante de primero tiene examen final. Algunos becarios tienen examen final. ¿Qué se deduce con certeza?",
+  "correct": "Algunos becarios no son de primero.",
+  "distractors": [
+   "Todos los becarios son de primero.",
+   "Ningún becario es de primero.",
+   "Algunos becarios de primero tienen examen final."
+  ],
+  "justification": "Un becario con examen final no puede ser de primero, así que existe al menos un becario que no es de primero."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Ningún pez es mamífero. Todas las orcas son mamíferos. ¿Qué se deduce con certeza?",
+  "correct": "Ninguna orca es un pez.",
+  "distractors": [
+   "Algunos peces son orcas.",
+   "Todas las orcas son peces.",
+   "Algunos mamíferos son peces."
+  ],
+  "justification": "Las orcas son mamíferos y ningún mamífero es pez, luego ninguna orca es pez."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Si Marcos estudia, aprueba. Si aprueba, sus padres le dan un premio. Sus padres no le dieron ningún premio. ¿Qué se puede concluir con certeza sobre si Marcos estudió?",
+  "correct": "No estudió.",
+  "distractors": [
+   "Estudió, pero no aprobó.",
+   "Estudió, pero no recibió el premio.",
+   "Sí estudió."
+  ],
+  "justification": "Sin premio no aprobó, y si hubiera estudiado habría aprobado; por tanto no estudió."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "«Si un número es múltiplo de 6, entonces es par.» ¿Cuál de estas frases es lógicamente equivalente?",
+  "correct": "Si un número no es par, entonces no es múltiplo de 6.",
+  "distractors": [
+   "Si un número es par, entonces es múltiplo de 6.",
+   "Si un número no es múltiplo de 6, entonces no es par.",
+   "Si un número no es par, entonces es múltiplo de 6."
+  ],
+  "justification": "La contrapositiva de «A implica B» es «no B implica no A». Las otras opciones son recíproca, inversa o falsas (8 es par y no es múltiplo de 6)."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "«O apoyas esta reforma sin cambiar nada, o eres enemigo del progreso.» ¿Qué falacia comete?",
+  "correct": "Falso dilema",
+  "distractors": [
+   "Pendiente resbaladiza",
+   "Generalización apresurada",
+   "Apelación a la ignorancia"
+  ],
+  "justification": "Presenta solo dos opciones cuando existen más posiciones intermedias."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "«Si permitimos calculadoras en clase, los alumnos dejarán de sumar, luego dejarán de pensar y al final la sociedad se hundirá.» ¿Qué falacia es?",
+  "correct": "Pendiente resbaladiza",
+  "distractors": [
+   "Falso dilema",
+   "Ataque a la persona (ad hominem)",
+   "Composición"
+  ],
+  "justification": "Encadena consecuencias cada vez más extremas sin justificar ningún paso."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "«Desde que uso esta pulsera no me resfrío, así que la pulsera me protege.» ¿Qué falacia es?",
+  "correct": "Post hoc (causa falsa por sucesión)",
+  "distractors": [
+   "Petición de principio",
+   "Apelación a la autoridad",
+   "Hombre de paja"
+  ],
+  "justification": "Supone que, por ocurrir una cosa después de otra, la primera es la causa de la segunda."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "«Mi jefe es el mejor del mundo porque nadie es mejor jefe que él.» ¿Qué falacia es?",
+  "correct": "Petición de principio (razonamiento circular)",
+  "distractors": [
+   "Falso dilema",
+   "Generalización apresurada",
+   "Apelación a la mayoría"
+  ],
+  "justification": "La conclusión se repite con otras palabras y se usa como premisa."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Ana propone reducir la velocidad máxima en el centro de la ciudad. Luis responde: «Ana quiere prohibir los autos y obligarnos a ir a pie». ¿Qué falacia comete Luis?",
+  "correct": "Hombre de paja",
+  "distractors": [
+   "Ataque a la persona (ad hominem)",
+   "Falso dilema",
+   "Post hoc"
+  ],
+  "justification": "Luis deforma la propuesta de Ana en otra más extrema y la ataca en lugar de responder a lo que dijo."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "El museo abre de martes a domingo y cierra los lunes por limpieza. Un turista llega a la ciudad el domingo por la noche y quiere visitarlo al día siguiente. ¿Qué se deduce?",
+  "correct": "No podrá visitarlo ese día, porque es lunes.",
+  "distractors": [
+   "Podrá entrar, porque abre toda la semana.",
+   "Podrá entrar, pero solo por la tarde.",
+   "Tendrá que esperar hasta el miércoles."
+  ],
+  "justification": "El día siguiente al domingo es lunes y el museo está cerrado ese día."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Todos los que usan el ascensor trabajan por encima del piso 5. Nadie que trabaje en el piso 2 trabaja por encima del piso 5. Julia usa el ascensor. ¿Qué se deduce de Julia?",
+  "correct": "No trabaja en el piso 2.",
+  "distractors": [
+   "Trabaja en el piso 2.",
+   "Trabaja exactamente en el piso 6.",
+   "Nunca usa las escaleras."
+  ],
+  "justification": "Julia trabaja por encima del piso 5, y eso es incompatible con trabajar en el piso 2."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Un estudio observó que, en las ciudades donde se venden más helados, hay también más accidentes en piscinas. Los autores concluyen que comer helado provoca accidentes. ¿Qué explicación alternativa es más razonable?",
+  "correct": "El calor aumenta tanto el consumo de helados como el uso de piscinas.",
+  "distractors": [
+   "Las piscinas obligan a vender helados.",
+   "Los accidentes hacen que la gente coma helado.",
+   "Es pura coincidencia y no hay ninguna relación posible."
+  ],
+  "justification": "Un factor común, el calor, puede explicar ambas variables sin que una cause la otra."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Ana, Beto y Carlos tienen cada uno una mascota distinta: un perro, un gato o un loro. Ana no tiene el gato ni el loro. Beto no tiene el perro. Carlos no tiene el loro. ¿Quién tiene el loro?",
+  "correct": "Beto",
+  "distractors": [
+   "Ana",
+   "Carlos",
+   "Nadie, porque faltan datos"
+  ],
+  "justification": "Ana solo puede tener el perro; Beto no tiene perro y Carlos no tiene loro, así que Beto tiene el loro y Carlos el gato."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Médico es a paciente como abogado es a:",
+  "correct": "cliente",
+  "distractors": [
+   "juez",
+   "ley",
+   "tribunal"
+  ],
+  "justification": "El médico atiende a un paciente y el abogado atiende a un cliente."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "medium",
+  "question": "Página es a libro como eslabón es a:",
+  "correct": "cadena",
+  "distractors": [
+   "metal",
+   "collar",
+   "argolla"
+  ],
+  "justification": "La página es una parte que forma el libro; el eslabón es una parte que forma la cadena."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «Al menos uno de B y C es bribón». B dice: «A es caballero». C dice: «A y B son bribones». ¿Cuántos caballeros hay?",
+  "correct": "Dos",
+  "distractors": [
+   "Ninguno",
+   "Uno",
+   "Tres"
+  ],
+  "justification": "Si A fuera bribón, su frase sería falsa y B y C serían caballeros, pero C diría algo falso. Luego A es caballero, B también y C es bribón."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "En una isla, los caballeros siempre dicen la verdad y los bribones siempre mienten. A dice: «B es caballero y C es bribón». B dice: «A y C son de distinto tipo». C dice: «A es caballero». ¿Quiénes son bribones?",
+  "correct": "Los tres",
+  "distractors": [
+   "Solo A",
+   "Solo B y C",
+   "A y C, pero no B"
+  ],
+  "justification": "Si C fuera caballero, A también y B sería bribón, pero entonces A mentiría. Si C es bribón, A es bribón, y B miente al afirmar que A y C difieren. Los tres son bribones."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Seis personas se sientan en una fila de seis asientos numerados de 1 a 6, de izquierda a derecha. Ana no está en ningún extremo. Beto está justo a la izquierda de Carla. Diego está en un extremo. Elena está en un asiento a la derecha de Carla. Fabio está entre Ana y Diego, en algún lugar del medio. Ana y Elena no están en asientos contiguos. ¿Quién ocupa con certeza el asiento 3?",
+  "correct": "Ana",
+  "distractors": [
+   "Fabio",
+   "Carla",
+   "Elena"
+  ],
+  "justification": "Hay solo dos disposiciones posibles (Beto, Carla, Ana, Fabio, Elena, Diego y Diego, Fabio, Ana, Beto, Carla, Elena) y en ambas Ana está en el tercer asiento."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Cuatro personas hablan. A dice: «Exactamente uno de nosotros miente». B dice: «Exactamente dos de nosotros mienten». C dice: «Exactamente tres de nosotros mienten». D dice: «Exactamente cuatro de nosotros mienten». Sabiendo que cada uno dice la verdad o miente, ¿quién dice la verdad?",
+  "correct": "Solo C",
+  "distractors": [
+   "Solo A",
+   "Solo B",
+   "Solo D"
+  ],
+  "justification": "Las cuatro frases son incompatibles entre sí, así que a lo sumo una es verdadera. Si solo una es verdadera, mienten tres, y eso es lo que dice C."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "¿Cuál de estas frases equivale a «No es cierto que, si llueve, entonces salgo»?",
+  "correct": "Llueve y no salgo.",
+  "distractors": [
+   "Si no llueve, entonces no salgo.",
+   "Llueve y salgo.",
+   "No llueve y salgo."
+  ],
+  "justification": "Un condicional solo es falso cuando el antecedente es verdadero y el consecuente falso: llueve y no salgo."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Una regla del club dice: «Se puede entrar al evento solo si se tiene entrada». Sara tiene entrada. ¿Qué se deduce con certeza?",
+  "correct": "Nada sobre si entró: tener entrada es condición necesaria, no suficiente.",
+  "distractors": [
+   "Sara entró al evento.",
+   "Sara no entró al evento.",
+   "Sara entró sin pagar."
+  ],
+  "justification": "«Solo si» expresa una condición necesaria: entrar implica tener entrada, pero no al revés."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Hay cuatro cartas sobre la mesa con estas caras visibles: E, K, 4 y 7. Cada carta tiene una letra por un lado y un número por el otro. Quieres comprobar la regla «si una carta tiene una vocal por un lado, entonces tiene un número par por el otro». ¿Qué cartas debes voltear como mínimo?",
+  "correct": "E y 7",
+  "distractors": [
+   "E y 4",
+   "4 y 7",
+   "E, 4 y 7"
+  ],
+  "justification": "Solo pueden refutar la regla una vocal con número impar detrás (carta E) o un número impar con vocal detrás (carta 7). La K y el 4 no pueden refutarla."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "En un pueblo, el barbero afeita a todos los hombres que no se afeitan a sí mismos, y solo a ellos. ¿Qué se concluye sobre ese barbero?",
+  "correct": "Un barbero así no puede existir sin contradicción.",
+  "distractors": [
+   "Se afeita a sí mismo.",
+   "No se afeita a sí mismo.",
+   "Se afeita a sí mismo solo los domingos."
+  ],
+  "justification": "Si se afeita a sí mismo, no debería afeitarse; si no se afeita, debería afeitarse. Ambos casos son contradictorios."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "«Si un animal es un perro, entonces tiene cuatro patas. Mi mascota tiene cuatro patas. Por tanto, mi mascota es un perro.» ¿Qué error lógico comete?",
+  "correct": "Afirmación del consecuente",
+  "distractors": [
+   "Negación del antecedente",
+   "Pendiente resbaladiza",
+   "Apelación a la autoridad"
+  ],
+  "justification": "De «si P entonces Q» y Q no se puede concluir P: un gato también tiene cuatro patas."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "«Cada ladrillo de este muro pesa poco, así que el muro entero pesa poco.» ¿Qué falacia es?",
+  "correct": "Composición",
+  "distractors": [
+   "División",
+   "Generalización apresurada",
+   "Falso dilema"
+  ],
+  "justification": "Atribuye al todo una propiedad solo porque la tienen sus partes."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "«Nadie ha demostrado que los fantasmas no existan, así que existen.» ¿Qué falacia es?",
+  "correct": "Apelación a la ignorancia",
+  "distractors": [
+   "Apelación a la mayoría",
+   "Petición de principio",
+   "Hombre de paja"
+  ],
+  "justification": "Toma la falta de pruebas en contra como si fuera una prueba a favor."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Al lanzar una moneda justa salió cara cinco veces seguidas. Alguien dice: «Ahora es mucho más probable que salga cruz». ¿Qué error comete?",
+  "correct": "Falacia del apostador",
+  "distractors": [
+   "Falacia de composición",
+   "Afirmación del consecuente",
+   "Pendiente resbaladiza"
+  ],
+  "justification": "Los lanzamientos son independientes: la probabilidad de cruz sigue siendo 1/2."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Todos los pintores son artistas. Algunos vecinos no son artistas. ¿Qué conclusión es necesariamente cierta?",
+  "correct": "Algunos vecinos no son pintores.",
+  "distractors": [
+   "Algunos pintores no son vecinos.",
+   "Todos los vecinos son pintores.",
+   "Ningún artista es vecino."
+  ],
+  "justification": "Un vecino que no es artista no puede ser pintor, porque todo pintor es artista."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "El premio está en exactamente una de tres cajas, A, B o C. Cada caja tiene un letrero y exactamente uno de los tres letreros es verdadero. Caja A: «El premio está en la caja B». Caja B: «El premio no está en esta caja». Caja C: «El premio no está en la caja A». ¿Dónde está el premio?",
+  "correct": "En la caja A",
+  "distractors": [
+   "En la caja B",
+   "En la caja C",
+   "Hay dos cajas posibles"
+  ],
+  "justification": "Con el premio en A solo el letrero de B es verdadero; en B o en C habría dos letreros verdaderos."
+ },
+ {
+  "category": "logica_verbal",
+  "difficulty": "hard",
+  "question": "Un hombre señala a otro y dice: «No tengo hermanos, pero el padre de ese hombre es el hijo de mi padre». ¿Qué relación hay entre ambos?",
+  "correct": "El que señala es el padre del otro.",
+  "distractors": [
+   "El que señala es el hijo del otro.",
+   "Son hermanos.",
+   "El que señala es el abuelo del otro."
+  ],
+  "justification": "El hijo de mi padre, sin hermanos, soy yo mismo. Entonces yo soy el padre de ese hombre."
+ }
+]

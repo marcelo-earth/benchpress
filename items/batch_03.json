@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió «Cien años de soledad»?",
+  "correct": "Gabriel García Márquez",
+  "distractors": [
+   "Mario Vargas Llosa",
+   "Julio Cortázar",
+   "Jorge Luis Borges"
+  ],
+  "justification": "La novela se publicó en 1967 y su autor colombiano ganó el Nobel en 1982."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién es la autora de «La casa de los espíritus»?",
+  "correct": "Isabel Allende",
+  "distractors": [
+   "Laura Esquivel",
+   "Gabriela Mistral",
+   "Rosario Castellanos"
+  ],
+  "justification": "Isabel Allende publicó esta novela en 1982."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió «Rimas y leyendas»?",
+  "correct": "Gustavo Adolfo Bécquer",
+  "distractors": [
+   "José de Espronceda",
+   "Rosalía de Castro",
+   "José Zorrilla"
+  ],
+  "justification": "Las Rimas de Bécquer, poeta sevillano del Romanticismo tardío, se editaron de forma póstuma en 1871."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién es el autor de «La Celestina»?",
+  "correct": "Fernando de Rojas",
+  "distractors": [
+   "Lope de Vega",
+   "Garcilaso de la Vega",
+   "Juan Ruiz"
+  ],
+  "justification": "La Celestina (Tragicomedia de Calisto y Melibea) se atribuye a Fernando de Rojas, publicada hacia 1499."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió la obra de teatro «Fuenteovejuna»?",
+  "correct": "Lope de Vega",
+  "distractors": [
+   "Calderón de la Barca",
+   "Tirso de Molina",
+   "Francisco de Quevedo"
+  ],
+  "justification": "Fuenteovejuna es una comedia de Lope de Vega publicada en 1619."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién es el autor de «La vida es sueño»?",
+  "correct": "Pedro Calderón de la Barca",
+  "distractors": [
+   "Lope de Vega",
+   "Tirso de Molina",
+   "Leandro Fernández de Moratín"
+  ],
+  "justification": "La vida es sueño es el drama de Calderón sobre Segismundo, estrenado hacia 1635."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió el libro de cuentos «El Aleph»?",
+  "correct": "Jorge Luis Borges",
+  "distractors": [
+   "Julio Cortázar",
+   "Ernesto Sábato",
+   "Adolfo Bioy Casares"
+  ],
+  "justification": "El Aleph (1949) es una colección de relatos de Borges."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién fue la primera persona latinoamericana en recibir el Premio Nobel de Literatura, en 1945?",
+  "correct": "Gabriela Mistral",
+  "distractors": [
+   "Pablo Neruda",
+   "Alfonsina Storni",
+   "Sor Juana Inés de la Cruz"
+  ],
+  "justification": "Gabriela Mistral, chilena, recibió el Nobel en 1945; Neruda lo obtuvo en 1971."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién es el autor de «Platero y yo»?",
+  "correct": "Juan Ramón Jiménez",
+  "distractors": [
+   "Antonio Machado",
+   "Federico García Lorca",
+   "Rafael Alberti"
+  ],
+  "justification": "Juan Ramón Jiménez escribió Platero y yo (1914) y ganó el Nobel en 1956."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió «Romancero gitano»?",
+  "correct": "Federico García Lorca",
+  "distractors": [
+   "Rafael Alberti",
+   "Luis Cernuda",
+   "Miguel Hernández"
+  ],
+  "justification": "Romancero gitano es un poemario de Lorca publicado en 1928."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿A qué género medieval pertenece el «Cantar de mio Cid»?",
+  "correct": "Cantar de gesta",
+  "distractors": [
+   "Lírica cortesana",
+   "Novela de caballerías",
+   "Auto sacramental"
+  ],
+  "justification": "El Cantar de mio Cid es el principal cantar de gesta castellano."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién es el autor de la novela «Rayuela»?",
+  "correct": "Julio Cortázar",
+  "distractors": [
+   "Carlos Fuentes",
+   "José Donoso",
+   "Juan Carlos Onetti"
+  ],
+  "justification": "Rayuela es de Cortázar y se publicó en 1963."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama el escudero de don Quijote?",
+  "correct": "Sancho Panza",
+  "distractors": [
+   "Sansón Carrasco",
+   "Rocinante",
+   "Cide Hamete"
+  ],
+  "justification": "Sancho Panza acompaña a don Quijote en la novela de Cervantes."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió el poema narrativo «Martín Fierro»?",
+  "correct": "José Hernández",
+  "distractors": [
+   "Domingo Faustino Sarmiento",
+   "Ricardo Güiraldes",
+   "Esteban Echeverría"
+  ],
+  "justification": "José Hernández publicó El gaucho Martín Fierro en 1872 y La vuelta de Martín Fierro en 1879."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "easy",
+  "question": "¿Quién escribió el poema «Hombres necios que acusáis»?",
+  "correct": "Sor Juana Inés de la Cruz",
+  "distractors": [
+   "Gabriela Mistral",
+   "Alfonsina Storni",
+   "Rosalía de Castro"
+  ],
+  "justification": "Es una redondilla de sor Juana Inés de la Cruz, poeta novohispana del siglo XVII."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué obra anónima de 1554 inaugura la novela picaresca española?",
+  "correct": "Lazarillo de Tormes",
+  "distractors": [
+   "Guzmán de Alfarache",
+   "El Buscón",
+   "Rinconete y Cortadillo"
+  ],
+  "justification": "La vida de Lazarillo de Tormes apareció en 1554 en cuatro ediciones, sin autor."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué obra de Rubén Darío, publicada en 1888, suele considerarse el inicio del modernismo hispanoamericano?",
+  "correct": "Azul...",
+  "distractors": [
+   "Prosas profanas",
+   "Cantos de vida y esperanza",
+   "Los raros"
+  ],
+  "justification": "Azul... (1888) es el punto de partida habitual del modernismo; Prosas profanas es de 1896."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió la novela «Niebla», que presenta el género de la «nivola»?",
+  "correct": "Miguel de Unamuno",
+  "distractors": [
+   "Pío Baroja",
+   "Azorín",
+   "Ramón del Valle-Inclán"
+  ],
+  "justification": "Unamuno publicó Niebla en 1914 y la llamó nivola."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué dramaturgo creó el esperpento en obras como «Luces de bohemia»?",
+  "correct": "Ramón del Valle-Inclán",
+  "distractors": [
+   "Jacinto Benavente",
+   "Federico García Lorca",
+   "Miguel de Unamuno"
+  ],
+  "justification": "Luces de bohemia (1920) es la obra inicial del esperpento de Valle-Inclán."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió la novela venezolana «Doña Bárbara», publicada en 1929?",
+  "correct": "Rómulo Gallegos",
+  "distractors": [
+   "Jorge Icaza",
+   "José Eustasio Rivera",
+   "Ciro Alegría"
+  ],
+  "justification": "Doña Bárbara es la obra más conocida de Rómulo Gallegos."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién es el autor de «La vorágine», novela ambientada en los llanos y la selva colombianos?",
+  "correct": "José Eustasio Rivera",
+  "distractors": [
+   "Rómulo Gallegos",
+   "Ricardo Güiraldes",
+   "Alcides Arguedas"
+  ],
+  "justification": "José Eustasio Rivera, colombiano, publicó La vorágine en 1924."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿En qué virreinato nació y vivió sor Juana Inés de la Cruz?",
+  "correct": "Nueva España",
+  "distractors": [
+   "Perú",
+   "Nueva Granada",
+   "Río de la Plata"
+  ],
+  "justification": "Sor Juana nació en San Miguel Nepantla y vivió en la Ciudad de México, capital de Nueva España."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió la novela «El túnel» (1948), narrada por el pintor Juan Pablo Castel?",
+  "correct": "Ernesto Sábato",
+  "distractors": [
+   "Juan Carlos Onetti",
+   "Adolfo Bioy Casares",
+   "Julio Cortázar"
+  ],
+  "justification": "El túnel es la primera novela de Ernesto Sábato."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué poeta introdujo junto a Garcilaso de la Vega el endecasílabo y otras formas italianas en la poesía española?",
+  "correct": "Juan Boscán",
+  "distractors": [
+   "Fray Luis de León",
+   "Fernando de Herrera",
+   "Luis de Góngora"
+  ],
+  "justification": "Boscán y Garcilaso adoptaron el endecasílabo italiano hacia 1526."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué corriente barroca se asocia con el estilo de Luis de Góngora?",
+  "correct": "Culteranismo",
+  "distractors": [
+   "Conceptismo",
+   "Mester de clerecía",
+   "Costumbrismo"
+  ],
+  "justification": "Góngora es el principal representante del culteranismo; el conceptismo se asocia con Quevedo."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién es el autor de la novela «Fortunata y Jacinta»?",
+  "correct": "Benito Pérez Galdós",
+  "distractors": [
+   "Leopoldo Alas «Clarín»",
+   "Emilia Pardo Bazán",
+   "Juan Valera"
+  ],
+  "justification": "Fortunata y Jacinta (1887) es de Pérez Galdós."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió «La Regenta», ambientada en la ciudad ficticia de Vetusta?",
+  "correct": "Leopoldo Alas «Clarín»",
+  "distractors": [
+   "Benito Pérez Galdós",
+   "José María de Pereda",
+   "Armando Palacio Valdés"
+  ],
+  "justification": "Clarín publicó La Regenta en 1884 y 1885."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué estrofa característica usó Gonzalo de Berceo en sus poemas del mester de clerecía?",
+  "correct": "Cuaderna vía",
+  "distractors": [
+   "Terceto encadenado",
+   "Octava real",
+   "Silva"
+  ],
+  "justification": "La cuaderna vía consta de cuatro versos alejandrinos con una sola rima consonante."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió el «Libro de buen amor» en el siglo XIV?",
+  "correct": "Juan Ruiz, arcipreste de Hita",
+  "distractors": [
+   "Gonzalo de Berceo",
+   "Don Juan Manuel",
+   "Íñigo López de Mendoza"
+  ],
+  "justification": "El Libro de buen amor se atribuye a Juan Ruiz, arcipreste de Hita (hacia 1330 y 1343)."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién es el autor de «El conde Lucanor», colección de cuentos con enseñanza moral?",
+  "correct": "Don Juan Manuel",
+  "distractors": [
+   "Alfonso X el Sabio",
+   "Pero López de Ayala",
+   "Juan de Mena"
+  ],
+  "justification": "Don Juan Manuel terminó El conde Lucanor hacia 1335."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió «Los de abajo», novela de la Revolución mexicana?",
+  "correct": "Mariano Azuela",
+  "distractors": [
+   "Martín Luis Guzmán",
+   "Juan Rulfo",
+   "Carlos Fuentes"
+  ],
+  "justification": "Mariano Azuela publicó Los de abajo en 1915."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién es el autor del poemario vanguardista «Trilce» (1922)?",
+  "correct": "César Vallejo",
+  "distractors": [
+   "Pablo Neruda",
+   "Vicente Huidobro",
+   "Octavio Paz"
+  ],
+  "justification": "Trilce es el segundo libro del peruano César Vallejo."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió el ensayo «El laberinto de la soledad»?",
+  "correct": "Octavio Paz",
+  "distractors": [
+   "Carlos Fuentes",
+   "Alfonso Reyes",
+   "Carlos Monsiváis"
+  ],
+  "justification": "Octavio Paz publicó El laberinto de la soledad en 1950."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Qué corriente narrativa de posguerra se asocia con «La familia de Pascual Duarte» de Camilo José Cela?",
+  "correct": "Tremendismo",
+  "distractors": [
+   "Costumbrismo",
+   "Modernismo",
+   "Realismo mágico"
+  ],
+  "justification": "La obra (1942) inauguró el tremendismo en la novela española."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "medium",
+  "question": "¿Quién escribió el cuento «El almohadón de plumas»?",
+  "correct": "Horacio Quiroga",
+  "distractors": [
+   "Julio Cortázar",
+   "Jorge Luis Borges",
+   "Felisberto Hernández"
+  ],
+  "justification": "Horacio Quiroga lo incluyó en Cuentos de amor, de locura y de muerte (1917)."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿En qué año se publicó el «Quijote» apócrifo de Alonso Fernández de Avellaneda?",
+  "correct": "1614",
+  "distractors": [
+   "1605",
+   "1612",
+   "1616"
+  ],
+  "justification": "El Quijote de Avellaneda salió en 1614, un año antes de la segunda parte de Cervantes."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Qué obra teórica de Lope de Vega defiende mezclar lo trágico y lo cómico en el teatro?",
+  "correct": "Arte nuevo de hacer comedias",
+  "distractors": [
+   "Poética de Luzán",
+   "Examen de ingenios",
+   "Defensa de la poesía"
+  ],
+  "justification": "Lope leyó el Arte nuevo de hacer comedias en 1609 en la Academia de Madrid."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos escritores nunca recibió el Premio Nobel de Literatura?",
+  "correct": "Jorge Luis Borges",
+  "distractors": [
+   "Octavio Paz",
+   "Vicente Aleixandre",
+   "Miguel Ángel Asturias"
+  ],
+  "justification": "Borges nunca lo ganó; Asturias lo obtuvo en 1967, Aleixandre en 1977 y Paz en 1990."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Quién fue el primer escritor en lengua española en recibir el Nobel de Literatura?",
+  "correct": "José Echegaray",
+  "distractors": [
+   "Jacinto Benavente",
+   "Gabriela Mistral",
+   "Juan Ramón Jiménez"
+  ],
+  "justification": "Echegaray lo recibió en 1904; Benavente en 1922, Mistral en 1945 y Jiménez en 1956."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Quién escribió el relato «El matadero», considerado un texto clave del romanticismo rioplatense?",
+  "correct": "Esteban Echeverría",
+  "distractors": [
+   "José Mármol",
+   "Domingo Faustino Sarmiento",
+   "José Hernández"
+  ],
+  "justification": "Echeverría lo escribió hacia 1838 y se publicó póstumamente en 1871."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Qué autor mestizo escribió los «Comentarios reales de los incas»?",
+  "correct": "Inca Garcilaso de la Vega",
+  "distractors": [
+   "Felipe Guamán Poma de Ayala",
+   "Bernal Díaz del Castillo",
+   "Bartolomé de las Casas"
+  ],
+  "justification": "El Inca Garcilaso, hijo de un capitán español y una noble inca, publicó los Comentarios en 1609."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Qué novela romántica colombiana publicó Jorge Isaacs en 1867?",
+  "correct": "María",
+  "distractors": [
+   "Amalia",
+   "Cecilia Valdés",
+   "Sab"
+  ],
+  "justification": "María es de Isaacs; Amalia es argentina, y Cecilia Valdés y Sab son cubanas."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Quién escribió la novela picaresca «Guzmán de Alfarache»?",
+  "correct": "Mateo Alemán",
+  "distractors": [
+   "Francisco de Quevedo",
+   "Francisco Delicado",
+   "Vicente Espinel"
+  ],
+  "justification": "La primera parte del Guzmán de Alfarache de Mateo Alemán apareció en 1599."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Cuál era el nombre real de Rubén Darío?",
+  "correct": "Félix Rubén García Sarmiento",
+  "distractors": [
+   "José Rubén Sarmiento Darío",
+   "Félix Darío Ruiz Sarmiento",
+   "Rubén Félix García Darío"
+  ],
+  "justification": "Darío nació en Metapa, Nicaragua, como Félix Rubén García Sarmiento."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos poetas NO perteneció a la Generación del 27?",
+  "correct": "Antonio Machado",
+  "distractors": [
+   "Luis Cernuda",
+   "Rafael Alberti",
+   "Dámaso Alonso"
+  ],
+  "justification": "Machado se vincula al modernismo y a la Generación del 98."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Quién publicó en 1944 el poemario «Hijos de la ira»?",
+  "correct": "Dámaso Alonso",
+  "distractors": [
+   "Blas de Otero",
+   "Gabriel Celaya",
+   "Miguel Hernández"
+  ],
+  "justification": "Hijos de la ira es el libro de poesía desarraigada de Dámaso Alonso."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿A qué libro de Pablo Neruda pertenece el poema «Walking around»?",
+  "correct": "Residencia en la tierra",
+  "distractors": [
+   "Veinte poemas de amor y una canción desesperada",
+   "Canto general",
+   "Odas elementales"
+  ],
+  "justification": "«Walking around» aparece en Residencia en la tierra (segunda parte, 1935)."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿En qué obra aparece por primera vez el personaje de don Juan Tenorio?",
+  "correct": "El burlador de Sevilla",
+  "distractors": [
+   "Don Juan Tenorio de Zorrilla",
+   "La dama duende",
+   "El alcalde de Zalamea"
+  ],
+  "justification": "Atribuida a Tirso de Molina, El burlador de Sevilla (hacia 1630) crea a don Juan; Zorrilla lo retoma en 1844."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿Qué escritor peruano es conocido por sus «Tradiciones peruanas»?",
+  "correct": "Ricardo Palma",
+  "distractors": [
+   "Clorinda Matto de Turner",
+   "Manuel González Prada",
+   "Ciro Alegría"
+  ],
+  "justification": "Ricardo Palma creó la tradición, breve relato histórico y anecdótico."
+ },
+ {
+  "category": "Literatura en español",
+  "difficulty": "hard",
+  "question": "¿En qué ciudad nació Julio Cortázar?",
+  "correct": "Bruselas",
+  "distractors": [
+   "Buenos Aires",
+   "París",
+   "Barcelona"
+  ],
+  "justification": "Cortázar nació en Bruselas en 1914 de padres argentinos."
+ }
+]

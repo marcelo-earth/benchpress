@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Quién pintó «La noche estrellada»?",
+  "correct": "Vincent van Gogh",
+  "distractors": [
+   "Claude Monet",
+   "Paul Cézanne",
+   "Edvard Munch"
+  ],
+  "justification": "«La noche estrellada» (1889) es de Van Gogh y se conserva en el MoMA."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Cuántos jugadores de un equipo de fútbol están en la cancha al mismo tiempo, incluido el portero?",
+  "correct": "11",
+  "distractors": [
+   "9",
+   "10",
+   "12"
+  ],
+  "justification": "Las Reglas de Juego fijan once jugadores por equipo."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Qué instrumento musical tiene 88 teclas en su versión estándar?",
+  "correct": "El piano",
+  "distractors": [
+   "El órgano",
+   "El acordeón",
+   "El arpa"
+  ],
+  "justification": "El piano de cola o vertical estándar tiene 52 teclas blancas y 36 negras, 88 en total."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película «Psicosis» (1960)?",
+  "correct": "Alfred Hitchcock",
+  "distractors": [
+   "Orson Welles",
+   "Stanley Kubrick",
+   "Billy Wilder"
+  ],
+  "justification": "«Psicosis» es una película de Hitchcock estrenada en 1960."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "En la mitología griega, ¿quién es el dios del mar?",
+  "correct": "Poseidón",
+  "distractors": [
+   "Hades",
+   "Zeus",
+   "Ares"
+  ],
+  "justification": "Poseidón gobierna los mares; Zeus el cielo y Hades el inframundo."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Qué plato español se prepara tradicionalmente con arroz, azafrán y es originario de Valencia?",
+  "correct": "La paella",
+  "distractors": [
+   "La fabada",
+   "El salmorejo",
+   "El cocido"
+  ],
+  "justification": "La paella valenciana lleva arroz y azafrán y nació en la región de Valencia."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Qué celebración mexicana honra a los difuntos con altares, flores de cempasúchil y ofrendas?",
+  "correct": "El Día de Muertos",
+  "distractors": [
+   "Las Posadas",
+   "El Grito de Dolores",
+   "La Guelaguetza"
+  ],
+  "justification": "El Día de Muertos (1 y 2 de noviembre) es Patrimonio Inmaterial de la UNESCO."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Cuántas cuerdas tiene una guitarra clásica estándar?",
+  "correct": "Seis",
+  "distractors": [
+   "Cuatro",
+   "Cinco",
+   "Ocho"
+  ],
+  "justification": "La guitarra estándar se afina en Mi, La, Re, Sol, Si, Mi: seis cuerdas."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Quién compuso «Las cuatro estaciones»?",
+  "correct": "Antonio Vivaldi",
+  "distractors": [
+   "Johann Sebastian Bach",
+   "Georg Friedrich Haendel",
+   "Arcangelo Corelli"
+  ],
+  "justification": "Vivaldi publicó «Las cuatro estaciones» hacia 1725."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Cuántos jugadores de un mismo equipo están en la cancha al mismo tiempo en un partido de baloncesto?",
+  "correct": "Cinco",
+  "distractors": [
+   "Seis",
+   "Siete",
+   "Cuatro"
+  ],
+  "justification": "Las reglas de baloncesto establecen cinco jugadores por equipo en pista."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Quién esculpió «El pensador»?",
+  "correct": "Auguste Rodin",
+  "distractors": [
+   "Miguel Ángel",
+   "Donatello",
+   "Gian Lorenzo Bernini"
+  ],
+  "justification": "«El pensador» es de Rodin y formaba parte de «La puerta del Infierno»."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película «Titanic» (1997)?",
+  "correct": "James Cameron",
+  "distractors": [
+   "Steven Spielberg",
+   "Ridley Scott",
+   "George Lucas"
+  ],
+  "justification": "Cameron escribió y dirigió «Titanic», estrenada en 1997."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "En la mitología nórdica, ¿qué dios es famoso por su martillo Mjolnir y por controlar el trueno?",
+  "correct": "Thor",
+  "distractors": [
+   "Odín",
+   "Loki",
+   "Freyr"
+  ],
+  "justification": "Mjolnir es el martillo de Thor, dios del trueno."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Cuántos anillos entrelazados tiene el símbolo olímpico?",
+  "correct": "Cinco",
+  "distractors": [
+   "Cuatro",
+   "Seis",
+   "Siete"
+  ],
+  "justification": "Los cinco anillos representan los cinco continentes habitados unidos por el olimpismo."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es la base principal del guacamole?",
+  "correct": "El aguacate",
+  "distractors": [
+   "El tomate",
+   "El pepino",
+   "El maíz"
+  ],
+  "justification": "Guacamole proviene del náhuatl ahuacamolli, salsa de aguacate."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Qué movimiento artístico fundaron Pablo Picasso y Georges Braque a inicios del siglo XX?",
+  "correct": "El cubismo",
+  "distractors": [
+   "El fauvismo",
+   "El futurismo",
+   "El surrealismo"
+  ],
+  "justification": "Picasso y Braque desarrollaron el cubismo hacia 1907 a 1914."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Quién compuso el oratorio «El Mesías»?",
+  "correct": "Georg Friedrich Haendel",
+  "distractors": [
+   "Johann Sebastian Bach",
+   "Joseph Haydn",
+   "Wolfgang Amadeus Mozart"
+  ],
+  "justification": "Haendel estrenó «El Mesías» en Dublín en 1742."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿A qué familia de instrumentos pertenece el oboe?",
+  "correct": "Viento madera",
+  "distractors": [
+   "Viento metal",
+   "Cuerda frotada",
+   "Percusión"
+  ],
+  "justification": "El oboe es de lengüeta doble y forma parte de las maderas de la orquesta."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Quién dirigió y protagonizó «Ciudadano Kane» (1941)?",
+  "correct": "Orson Welles",
+  "distractors": [
+   "John Ford",
+   "Frank Capra",
+   "Howard Hawks"
+  ],
+  "justification": "Welles dirigió, coescribió y protagonizó «Ciudadano Kane»."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Cuál de estos torneos de Grand Slam de tenis se juega sobre arcilla?",
+  "correct": "Roland Garros",
+  "distractors": [
+   "Wimbledon",
+   "El Abierto de Estados Unidos",
+   "El Abierto de Australia"
+  ],
+  "justification": "Roland Garros es el único Grand Slam sobre tierra batida; Wimbledon es césped y los otros dos pista dura."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "En un partido estándar de voleibol, ¿cuántos sets debe ganar un equipo para ganar el partido?",
+  "correct": "Tres",
+  "distractors": [
+   "Dos",
+   "Cuatro",
+   "Cinco"
+  ],
+  "justification": "Se juega al mejor de cinco sets, así que se necesitan tres."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "En la mitología romana, ¿qué dios equivale al Zeus griego?",
+  "correct": "Júpiter",
+  "distractors": [
+   "Marte",
+   "Saturno",
+   "Neptuno"
+  ],
+  "justification": "Júpiter es el rey de los dioses romanos, equivalente a Zeus."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Qué cortometraje surrealista de 1929 dirigió Luis Buñuel con guion escrito junto a Salvador Dalí?",
+  "correct": "«Un perro andaluz»",
+  "distractors": [
+   "«Viridiana»",
+   "«Los olvidados»",
+   "«El ángel exterminador»"
+  ],
+  "justification": "«Un perro andaluz» (1929) fue escrito por Buñuel y Dalí."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "En el ceviche tradicional, ¿qué ingrediente ácido «cocina» el pescado crudo?",
+  "correct": "El jugo de limón",
+  "distractors": [
+   "El vinagre de manzana",
+   "El jugo de tomate",
+   "La leche de coco"
+  ],
+  "justification": "El ceviche peruano clásico usa jugo de limón para desnaturalizar las proteínas del pescado."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Cuál es el baile nacional de Chile?",
+  "correct": "La cueca",
+  "distractors": [
+   "La marinera",
+   "El joropo",
+   "El bambuco"
+  ],
+  "justification": "La cueca fue declarada baile nacional de Chile en 1979."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Qué arquitecto diseñó el Museo Guggenheim de Bilbao?",
+  "correct": "Frank Gehry",
+  "distractors": [
+   "Santiago Calatrava",
+   "Norman Foster",
+   "Rafael Moneo"
+  ],
+  "justification": "Frank Gehry proyectó el Guggenheim Bilbao, inaugurado en 1997."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Cuántos jugadores de un equipo de rugby unión están en el campo al mismo tiempo?",
+  "correct": "Quince",
+  "distractors": [
+   "Once",
+   "Trece",
+   "Dieciocho"
+  ],
+  "justification": "El rugby union se juega con 15 por equipo; el rugby league, con 13."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Cuál es la distancia oficial de una maratón?",
+  "correct": "42,195 km",
+  "distractors": [
+   "41,195 km",
+   "42,915 km",
+   "43,195 km"
+  ],
+  "justification": "World Athletics fija la maratón en 42,195 km."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Qué instrumento andino de cuerda se fabricaba tradicionalmente con el caparazón de un armadillo?",
+  "correct": "El charango",
+  "distractors": [
+   "El bandoneón",
+   "El cuatro",
+   "La marimba"
+  ],
+  "justification": "El charango andino se hacía originalmente con caparazón de quirquincho (armadillo)."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Qué cuadro de Claude Monet dio origen al nombre del movimiento impresionista?",
+  "correct": "«Impresión, sol naciente»",
+  "distractors": [
+   "«Los nenúfares»",
+   "«La catedral de Ruan»",
+   "«Mujer con sombrilla»"
+  ],
+  "justification": "Un crítico usó burlonamente «impresionistas» tras ver «Impresión, sol naciente» en 1874."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Quién compuso la ópera «La traviata»?",
+  "correct": "Giuseppe Verdi",
+  "distractors": [
+   "Georges Bizet",
+   "Giacomo Puccini",
+   "Gioachino Rossini"
+  ],
+  "justification": "«La traviata» fue estrenada por Verdi en Venecia en 1853."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "En la mitología griega, ¿qué héroe realizó los doce trabajos?",
+  "correct": "Heracles",
+  "distractors": [
+   "Perseo",
+   "Teseo",
+   "Odiseo"
+  ],
+  "justification": "Los doce trabajos fueron impuestos a Heracles por Euristeo."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película muda «Metrópolis» (1927)?",
+  "correct": "Fritz Lang",
+  "distractors": [
+   "Friedrich Wilhelm Murnau",
+   "Sergéi Eisenstein",
+   "Charles Chaplin"
+  ],
+  "justification": "«Metrópolis» es de Fritz Lang, expresionismo alemán."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "¿Con qué materia prima se elabora el pisco?",
+  "correct": "Uva",
+  "distractors": [
+   "Caña de azúcar",
+   "Agave",
+   "Maíz"
+  ],
+  "justification": "El pisco es un aguardiente de uva producido en Perú y Chile."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "medium",
+  "question": "En una partitura, ¿qué indica el término italiano «piano»?",
+  "correct": "Tocar con suavidad",
+  "distractors": [
+   "Tocar con fuerza",
+   "Tocar más rápido",
+   "Tocar más lento"
+  ],
+  "justification": "Piano es una indicación de dinámica que significa suave; lo opuesto es forte."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Quién pintó el «Cuadrado negro sobre fondo blanco» (1915), obra emblemática del suprematismo?",
+  "correct": "Kazimir Malévich",
+  "distractors": [
+   "Wassily Kandinsky",
+   "Piet Mondrian",
+   "El Lisitski"
+  ],
+  "justification": "El suprematismo fue fundado por Malévich, autor del «Cuadrado negro»."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "En voleibol, ¿cómo se llama el jugador especialista en defensa que viste un uniforme de otro color y no puede rematar ni sacar?",
+  "correct": "Líbero",
+  "distractors": [
+   "Opuesto",
+   "Central",
+   "Colocador"
+  ],
+  "justification": "El reglamento prohíbe al líbero atacar sobre el borde de la red y sacar."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Qué compositor español escribió «Noches en los jardines de España»?",
+  "correct": "Manuel de Falla",
+  "distractors": [
+   "Isaac Albéniz",
+   "Enrique Granados",
+   "Joaquín Rodrigo"
+  ],
+  "justification": "Falla compuso estas tres piezas para piano y orquesta entre 1909 y 1915."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película «Los siete samuráis» (1954)?",
+  "correct": "Akira Kurosawa",
+  "distractors": [
+   "Yasujirō Ozu",
+   "Kenji Mizoguchi",
+   "Masaki Kobayashi"
+  ],
+  "justification": "«Los siete samuráis» es una película de Kurosawa de 1954."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Quién dirigió «El acorazado Potemkin» (1925)?",
+  "correct": "Sergéi Eisenstein",
+  "distractors": [
+   "Dziga Vértov",
+   "Vsévolod Pudovkin",
+   "Aleksandr Dovzhenko"
+  ],
+  "justification": "Eisenstein dirigió «El acorazado Potemkin» y popularizó el montaje de choque."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "En la mitología griega, ¿cuál de estos dioses es hijo de Zeus y de la mortal Sémele?",
+  "correct": "Dioniso",
+  "distractors": [
+   "Apolo",
+   "Hermes",
+   "Ares"
+  ],
+  "justification": "Dioniso nació de Zeus y Sémele; Apolo es hijo de Leto, Hermes de Maya y Ares de Hera."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "En la mitología mexica, ¿qué dios de la guerra y del sol fue el patrono de Tenochtitlan?",
+  "correct": "Huitzilopochtli",
+  "distractors": [
+   "Tláloc",
+   "Tezcatlipoca",
+   "Xipe Tótec"
+  ],
+  "justification": "El Templo Mayor estaba dedicado a Huitzilopochtli y a Tláloc, y el primero era patrono de los mexicas."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "En fútbol, un delantero está en posición adelantada cuando un compañero le pasa el balón. ¿En cuál de estas reanudaciones puede sancionarse fuera de juego?",
+  "correct": "Un tiro libre indirecto",
+  "distractors": [
+   "Un saque de banda",
+   "Un saque de esquina",
+   "Un saque de meta"
+  ],
+  "justification": "La Regla 11 exime del fuera de juego a saques de banda, de esquina y de meta, pero no a los tiros libres."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Qué ingrediente, además de los chiles, distingue al mole poblano?",
+  "correct": "El chocolate",
+  "distractors": [
+   "El aguacate",
+   "El nopal",
+   "El queso fresco"
+  ],
+  "justification": "El mole poblano clásico incorpora chocolate amargo junto con varios chiles y especias."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Qué dinastía construyó la mayor parte de la Alhambra de Granada?",
+  "correct": "La nazarí",
+  "distractors": [
+   "La omeya",
+   "La almohade",
+   "La abasí"
+  ],
+  "justification": "La Alhambra se desarrolló principalmente bajo los emires nazaríes de Granada, siglos XIII a XV."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos pintores mexicanos NO se cuenta entre los tres grandes del muralismo mexicano?",
+  "correct": "Rufino Tamayo",
+  "distractors": [
+   "Diego Rivera",
+   "José Clemente Orozco",
+   "David Alfaro Siqueiros"
+  ],
+  "justification": "Los tres grandes son Rivera, Orozco y Siqueiros; Tamayo se mantuvo al margen del muralismo."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Cuántos sostenidos tiene la armadura de la tonalidad de Re mayor?",
+  "correct": "Dos",
+  "distractors": [
+   "Uno",
+   "Tres",
+   "Cuatro"
+  ],
+  "justification": "Re mayor tiene Fa sostenido y Do sostenido."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿En qué isla nació el pintor Doménikos Theotokópoulos, conocido como El Greco?",
+  "correct": "Creta",
+  "distractors": [
+   "Rodas",
+   "Chipre",
+   "Corfú"
+  ],
+  "justification": "El Greco nació en Candía (Creta) en 1541."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿Quién pintó el tríptico «El jardín de las delicias»?",
+  "correct": "El Bosco",
+  "distractors": [
+   "Pieter Brueghel el Viejo",
+   "Alberto Durero",
+   "Jan van Eyck"
+  ],
+  "justification": "«El jardín de las delicias» es de Hieronymus Bosch, conservado en el Prado."
+ },
+ {
+  "category": "Arte, música, cine, deporte y cultura popular",
+  "difficulty": "hard",
+  "question": "¿En qué localidad de la provincia de Valencia se celebra La Tomatina?",
+  "correct": "Buñol",
+  "distractors": [
+   "Gandía",
+   "Sagunto",
+   "Requena"
+  ],
+  "justification": "La Tomatina se celebra en Buñol el último miércoles de agosto."
+ }
+]

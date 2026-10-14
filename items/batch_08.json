@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿En qué orgánulo de la célula vegetal se realiza la fotosíntesis?",
+  "correct": "En el cloroplasto",
+  "distractors": [
+   "En la mitocondria",
+   "En el ribosoma",
+   "En el aparato de Golgi"
+  ],
+  "justification": "Los cloroplastos contienen clorofila y son el sitio de la fotosíntesis."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué células de la sangre transportan principalmente el oxígeno?",
+  "correct": "Los glóbulos rojos",
+  "distractors": [
+   "Los glóbulos blancos",
+   "Las plaquetas",
+   "Los linfocitos"
+  ],
+  "justification": "Los glóbulos rojos contienen hemoglobina, que une oxígeno."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué planeta se conoce como el planeta rojo?",
+  "correct": "Marte",
+  "distractors": [
+   "Venus",
+   "Mercurio",
+   "Júpiter"
+  ],
+  "justification": "El óxido de hierro en su superficie le da color rojizo."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué órgano del cuerpo humano filtra la sangre y produce la orina?",
+  "correct": "El riñón",
+  "distractors": [
+   "El hígado",
+   "El páncreas",
+   "El bazo"
+  ],
+  "justification": "Los riñones filtran la sangre y forman la orina."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué forma tiene la molécula de ADN?",
+  "correct": "De doble hélice",
+  "distractors": [
+   "De hélice triple",
+   "De cadena simple recta",
+   "De anillo plano cerrado"
+  ],
+  "justification": "Watson y Crick describieron el ADN como una doble hélice en 1953."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué instrumento se usa para registrar las vibraciones producidas por un terremoto?",
+  "correct": "El sismógrafo",
+  "distractors": [
+   "El barómetro",
+   "El anemómetro",
+   "El higrómetro"
+  ],
+  "justification": "El sismógrafo registra el movimiento del suelo."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Cuál de estos animales es un invertebrado?",
+  "correct": "El pulpo",
+  "distractors": [
+   "La rana",
+   "El tiburón",
+   "El lagarto"
+  ],
+  "justification": "El pulpo es un molusco sin columna vertebral."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama la galaxia en la que se encuentra el sistema solar?",
+  "correct": "Vía Láctea",
+  "distractors": [
+   "Andrómeda",
+   "Galaxia del Triángulo",
+   "Galaxia del Sombrero"
+  ],
+  "justification": "El sistema solar pertenece a la Vía Láctea."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué tipo de astro es el Sol?",
+  "correct": "Una estrella",
+  "distractors": [
+   "Un planeta",
+   "Un cometa",
+   "Un satélite"
+  ],
+  "justification": "El Sol es una estrella de tipo espectral G."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama el proceso por el cual el agua líquida pasa a vapor?",
+  "correct": "Evaporación",
+  "distractors": [
+   "Condensación",
+   "Sublimación",
+   "Solidificación"
+  ],
+  "justification": "Evaporar es pasar de líquido a gas."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Cuáles son los órganos principales del sistema respiratorio donde se intercambian gases con la sangre?",
+  "correct": "Los pulmones",
+  "distractors": [
+   "Los bronquios",
+   "La tráquea",
+   "El diafragma"
+  ],
+  "justification": "El intercambio gaseoso ocurre en los alvéolos de los pulmones."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué animales se alimentan únicamente de plantas?",
+  "correct": "Los herbívoros",
+  "distractors": [
+   "Los carnívoros",
+   "Los omnívoros",
+   "Los insectívoros"
+  ],
+  "justification": "Herbívoro es el que se alimenta de vegetales."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama la capa externa y más delgada de la Tierra, sobre la que vivimos?",
+  "correct": "Corteza",
+  "distractors": [
+   "Manto",
+   "Núcleo externo",
+   "Núcleo interno"
+  ],
+  "justification": "La corteza es la capa sólida más externa del planeta."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué gas del aire es indispensable para la respiración de los seres humanos?",
+  "correct": "El oxígeno",
+  "distractors": [
+   "El nitrógeno",
+   "El argón",
+   "El helio"
+  ],
+  "justification": "Las células usan oxígeno en la respiración celular."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "easy",
+  "question": "¿Qué fenómeno natural explica que existan las estaciones del año en la Tierra?",
+  "correct": "La inclinación del eje de la Tierra",
+  "distractors": [
+   "La distancia variable al Sol",
+   "La rotación de la Luna",
+   "Las manchas solares"
+  ],
+  "justification": "La inclinación axial de unos 23,5 grados cambia la insolación a lo largo del año."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué resultado produce normalmente una mitosis en una célula diploide?",
+  "correct": "Dos células hijas genéticamente idénticas",
+  "distractors": [
+   "Cuatro células hijas haploides",
+   "Dos células hijas haploides",
+   "Cuatro células hijas distintas entre sí"
+  ],
+  "justification": "La mitosis genera dos células con el mismo número de cromosomas y el mismo material genético."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Cuántas células y de qué tipo se obtienen al final de la meiosis a partir de una célula diploide?",
+  "correct": "Cuatro células haploides",
+  "distractors": [
+   "Dos células diploides",
+   "Dos células haploides",
+   "Cuatro células diploides"
+  ],
+  "justification": "La meiosis incluye dos divisiones y reduce el número de cromosomas a la mitad."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "En el ADN, ¿con qué base nitrogenada se aparea la adenina?",
+  "correct": "Timina",
+  "distractors": [
+   "Citosina",
+   "Guanina",
+   "Uracilo"
+  ],
+  "justification": "En el ADN, A se une con T mediante dos puentes de hidrógeno."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué molécula transporta los aminoácidos hasta el ribosoma durante la traducción?",
+  "correct": "El ARN de transferencia",
+  "distractors": [
+   "El ARN mensajero",
+   "El ARN ribosómico",
+   "El ADN polimerasa"
+  ],
+  "justification": "El ARNt une un aminoácido y reconoce el codón con su anticodón."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué grupo sanguíneo se considera donante universal de glóbulos rojos?",
+  "correct": "O negativo",
+  "distractors": [
+   "AB positivo",
+   "A negativo",
+   "O positivo"
+  ],
+  "justification": "Los glóbulos rojos O negativo no tienen antígenos A, B ni Rh."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué hormona producida por el páncreas reduce la concentración de glucosa en la sangre?",
+  "correct": "La insulina",
+  "distractors": [
+   "El glucagón",
+   "La adrenalina",
+   "El cortisol"
+  ],
+  "justification": "La insulina favorece la entrada de glucosa a las células."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "Una población de roedores queda dividida por una cordillera y, tras miles de generaciones, los dos grupos ya no pueden reproducirse entre sí. ¿Qué proceso ha ocurrido?",
+  "correct": "Especiación alopátrica",
+  "distractors": [
+   "Especiación simpátrica",
+   "Deriva génica sin aislamiento",
+   "Mutualismo reproductivo"
+  ],
+  "justification": "El aislamiento geográfico seguido de divergencia genética define la especiación alopátrica."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "Según la regla general de las cadenas tróficas, ¿qué porcentaje aproximado de la energía pasa de un nivel trófico al siguiente?",
+  "correct": "Alrededor del 10 %",
+  "distractors": [
+   "Alrededor del 50 %",
+   "Alrededor del 25 %",
+   "Alrededor del 90 %"
+  ],
+  "justification": "La llamada regla del 10 % de Lindeman indica que la mayor parte se pierde como calor y en el metabolismo."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿En qué capa de la atmósfera se encuentra la mayor parte de la capa de ozono?",
+  "correct": "En la estratosfera",
+  "distractors": [
+   "En la troposfera",
+   "En la mesosfera",
+   "En la termosfera"
+  ],
+  "justification": "El ozono se concentra entre unos 15 y 35 km de altitud, en la estratosfera."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica una roca que se forma al enfriarse y solidificarse el magma?",
+  "correct": "Ígnea",
+  "distractors": [
+   "Sedimentaria",
+   "Metamórfica",
+   "Detrítica"
+  ],
+  "justification": "Las rocas ígneas se originan por solidificación de roca fundida."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "El mármol es una roca metamórfica. ¿De qué roca se origina normalmente?",
+  "correct": "De la caliza",
+  "distractors": [
+   "Del granito",
+   "Del basalto",
+   "De la arenisca"
+  ],
+  "justification": "El metamorfismo de la caliza produce mármol."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿En qué fase se encuentra la Luna durante un eclipse solar?",
+  "correct": "Luna nueva",
+  "distractors": [
+   "Luna llena",
+   "Cuarto creciente",
+   "Cuarto menguante"
+  ],
+  "justification": "La Luna se interpone entre la Tierra y el Sol, por lo que su cara visible no está iluminada."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué planeta gira prácticamente \"de lado\", con un eje inclinado unos 98 grados respecto a su órbita?",
+  "correct": "Urano",
+  "distractors": [
+   "Neptuno",
+   "Saturno",
+   "Marte"
+  ],
+  "justification": "Urano tiene una inclinación axial cercana a 98 grados."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Entre las órbitas de qué dos planetas se encuentra el cinturón principal de asteroides?",
+  "correct": "Marte y Júpiter",
+  "distractors": [
+   "Venus y la Tierra",
+   "Júpiter y Saturno",
+   "Saturno y Urano"
+  ],
+  "justification": "El cinturón principal orbita entre Marte y Júpiter."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué ocurre con las placas tectónicas en una dorsal oceánica?",
+  "correct": "Se separan",
+  "distractors": [
+   "Chocan entre sí",
+   "Se deslizan lateralmente",
+   "Una se hunde bajo la otra"
+  ],
+  "justification": "Una dorsal es un límite divergente donde se crea nueva corteza oceánica."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Cuál es el principal gas de efecto invernadero que se libera al quemar combustibles fósiles?",
+  "correct": "Dióxido de carbono",
+  "distractors": [
+   "Ozono",
+   "Nitrógeno",
+   "Monóxido de nitrógeno"
+  ],
+  "justification": "La combustión de carbono fósil genera CO2."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué parte del encéfalo coordina principalmente el equilibrio y la precisión de los movimientos?",
+  "correct": "El cerebelo",
+  "distractors": [
+   "El bulbo raquídeo",
+   "El hipotálamo",
+   "El cuerpo calloso"
+  ],
+  "justification": "El cerebelo integra información para el control motor fino y el equilibrio."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿En qué parte del tubo digestivo se absorbe la mayor parte de los nutrientes?",
+  "correct": "En el intestino delgado",
+  "distractors": [
+   "En el estómago",
+   "En el intestino grueso",
+   "En el esófago"
+  ],
+  "justification": "Las vellosidades del intestino delgado absorben la mayoría de los nutrientes."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Qué cavidad del corazón impulsa la sangre oxigenada hacia el resto del cuerpo a través de la aorta?",
+  "correct": "El ventrículo izquierdo",
+  "distractors": [
+   "El ventrículo derecho",
+   "La aurícula derecha",
+   "La aurícula izquierda"
+  ],
+  "justification": "El ventrículo izquierdo bombea hacia la aorta, a la circulación sistémica."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "medium",
+  "question": "¿Cómo se llama el paso de agua a través de una membrana semipermeable hacia la zona de mayor concentración de solutos?",
+  "correct": "Ósmosis",
+  "distractors": [
+   "Difusión facilitada",
+   "Transporte activo",
+   "Endocitosis"
+  ],
+  "justification": "La ósmosis es el movimiento neto de agua hacia donde hay más solutos."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Qué vaso sanguíneo de la circulación humana, a diferencia de la mayoría de las venas, transporta sangre rica en oxígeno?",
+  "correct": "La vena pulmonar",
+  "distractors": [
+   "La vena cava superior",
+   "La vena yugular",
+   "La arteria pulmonar"
+  ],
+  "justification": "Las venas pulmonares llevan sangre oxigenada desde los pulmones a la aurícula izquierda."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "En una población en equilibrio de Hardy-Weinberg, la frecuencia de un alelo recesivo es 0,2. ¿Qué frecuencia de heterocigotos se espera?",
+  "correct": "0,32",
+  "distractors": [
+   "0,16",
+   "0,04",
+   "0,64"
+  ],
+  "justification": "2pq = 2 × 0,8 × 0,2 = 0,32."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "Dos progenitores heterocigotos (Aa) tienen dos hijos. ¿Cuál es la probabilidad de que ambos sean aa?",
+  "correct": "1/16",
+  "distractors": [
+   "1/8",
+   "1/4",
+   "1/2"
+  ],
+  "justification": "Cada hijo es aa con probabilidad 1/4, y (1/4) × (1/4) = 1/16."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "En la fotosíntesis oxigénica, ¿de qué molécula procede el oxígeno que se libera?",
+  "correct": "Del agua",
+  "distractors": [
+   "Del dióxido de carbono",
+   "De la glucosa",
+   "De la clorofila"
+  ],
+  "justification": "El oxígeno se produce por la fotólisis del agua en el fotosistema II."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Qué etapa de la respiración celular aeróbica produce la mayor cantidad de ATP?",
+  "correct": "La cadena de transporte de electrones con fosforilación oxidativa",
+  "distractors": [
+   "La glucólisis en el citosol",
+   "El ciclo de Krebs en la matriz",
+   "La fermentación láctica"
+  ],
+  "justification": "La fosforilación oxidativa rinde la mayor parte del ATP, unas decenas por glucosa, frente a unos pocos de las demás etapas."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Cuál es el planeta más caliente del sistema solar en su superficie?",
+  "correct": "Venus",
+  "distractors": [
+   "Mercurio",
+   "Marte",
+   "Júpiter"
+  ],
+  "justification": "Por el efecto invernadero de su atmósfera de CO2, Venus supera los 460 °C, más que Mercurio."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿En qué mes pasa la Tierra por el perihelio, el punto de su órbita más cercano al Sol?",
+  "correct": "Enero",
+  "distractors": [
+   "Julio",
+   "Marzo",
+   "Septiembre"
+  ],
+  "justification": "El perihelio ocurre a comienzos de enero, aunque sea invierno en el hemisferio norte."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Qué límite separa la corteza terrestre del manto?",
+  "correct": "La discontinuidad de Mohorovičić",
+  "distractors": [
+   "La discontinuidad de Gutenberg",
+   "La discontinuidad de Lehmann",
+   "La litosfera"
+  ],
+  "justification": "La discontinuidad de Moho marca el cambio de velocidad sísmica entre corteza y manto."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Por qué las ondas sísmicas S no atraviesan el núcleo externo de la Tierra?",
+  "correct": "Porque es líquido",
+  "distractors": [
+   "Porque es demasiado denso",
+   "Porque es muy frío",
+   "Porque está compuesto de gas"
+  ],
+  "justification": "Las ondas S son de cizalla y no se propagan en líquidos."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Cómo se define el fenómeno de El Niño?",
+  "correct": "Calentamiento anómalo de las aguas superficiales del Pacífico ecuatorial central y oriental",
+  "distractors": [
+   "Enfriamiento anómalo de las aguas del Pacífico ecuatorial",
+   "Cambio de dirección de la corriente del Golfo",
+   "Aumento de salinidad en el Atlántico sur"
+  ],
+  "justification": "El Niño es la fase cálida de la oscilación ENOS."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Qué periodo geológico siguió inmediatamente al Cretácico?",
+  "correct": "El Paleógeno",
+  "distractors": [
+   "El Jurásico",
+   "El Neógeno",
+   "El Triásico"
+  ],
+  "justification": "El Paleógeno inició hace unos 66 millones de años, tras la extinción del final del Cretácico."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "Si se inserta un único nucleótido dentro de la región codificante de un gen, ¿qué tipo de mutación suele resultar?",
+  "correct": "Una mutación por desplazamiento del marco de lectura",
+  "distractors": [
+   "Una mutación silenciosa",
+   "Una mutación de sentido erróneo puntual",
+   "Una deleción de un aminoácido"
+  ],
+  "justification": "Como los codones son tripletes, una inserción de uno altera todos los codones posteriores."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "Un bosque se quema por completo, pero el suelo conserva nutrientes y semillas. ¿Cómo se llama la recuperación posterior de la comunidad?",
+  "correct": "Sucesión secundaria",
+  "distractors": [
+   "Sucesión primaria",
+   "Clímax inmediato",
+   "Colonización pionera de roca desnuda"
+  ],
+  "justification": "La sucesión secundaria parte de un suelo ya formado."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿Dónde se produce la bilis y dónde se almacena?",
+  "correct": "Se produce en el hígado y se almacena en la vesícula biliar",
+  "distractors": [
+   "Se produce en la vesícula biliar y se almacena en el hígado",
+   "Se produce en el páncreas y se almacena en el duodeno",
+   "Se produce en el estómago y se almacena en el intestino"
+  ],
+  "justification": "Los hepatocitos sintetizan la bilis, que se concentra en la vesícula."
+ },
+ {
+  "category": "Biología, medicina básica, astronomía y ciencias de la Tierra",
+  "difficulty": "hard",
+  "question": "¿En qué fases de la Luna son más intensas las mareas, llamadas mareas vivas?",
+  "correct": "En luna nueva y luna llena",
+  "distractors": [
+   "En cuarto creciente y cuarto menguante",
+   "Solo en luna llena",
+   "Solo en luna nueva"
+  ],
+  "justification": "Con Sol, Tierra y Luna alineados, sus efectos gravitatorios se suman."
+ }
+]

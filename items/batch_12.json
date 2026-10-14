@@ -1,0 +1,602 @@
+[
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es la inflación?",
+  "correct": "Un aumento generalizado y sostenido de los precios",
+  "distractors": [
+   "Un aumento del valor de la moneda frente a otras",
+   "Una disminución del desempleo en un país",
+   "La subida del precio de un solo producto"
+  ],
+  "justification": "La inflación mide el alza general de precios, no la de un bien aislado."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué significan las siglas USB?",
+  "correct": "Universal Serial Bus",
+  "distractors": [
+   "Unified System Board",
+   "Universal Storage Block",
+   "United Serial Backup"
+  ],
+  "justification": "USB es la sigla de Universal Serial Bus."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es un sistema operativo?",
+  "correct": "El software que gestiona el hardware y permite ejecutar otros programas",
+  "distractors": [
+   "Un programa que solo sirve para navegar por internet",
+   "Una pieza física que almacena los datos",
+   "Un tipo de cable para conectar redes"
+  ],
+  "justification": "Windows, Linux o Android son sistemas operativos que administran el hardware."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Cómo se define una democracia?",
+  "correct": "Un sistema en el que el poder surge del pueblo, que elige a sus gobernantes",
+  "distractors": [
+   "Un sistema en el que un solo líder decide por herencia",
+   "Un sistema en el que gobierna un grupo de militares",
+   "Un sistema en el que gobiernan solo los más ricos"
+  ],
+  "justification": "Democracia significa gobierno del pueblo, ejercido directamente o por representantes."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Cuáles son los tres poderes clásicos del Estado?",
+  "correct": "Ejecutivo, legislativo y judicial",
+  "distractors": [
+   "Ejecutivo, militar y judicial",
+   "Legislativo, económico y religioso",
+   "Judicial, financiero y ejecutivo"
+  ],
+  "justification": "La división clásica del poder público es ejecutivo, legislativo y judicial."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué filósofo griego escribió «La República»?",
+  "correct": "Platón",
+  "distractors": [
+   "Aristóteles",
+   "Epicuro",
+   "Heráclito"
+  ],
+  "justification": "«La República» es un diálogo de Platón."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es un impuesto?",
+  "correct": "Un pago obligatorio que los ciudadanos entregan al Estado",
+  "distractors": [
+   "Un préstamo voluntario que se hace a un banco",
+   "Una multa por infringir una norma de tránsito",
+   "Una donación a una organización benéfica"
+  ],
+  "justification": "Los impuestos son prestaciones obligatorias exigidas por el Estado."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué documento aprobó la Asamblea General de la ONU en 1948?",
+  "correct": "La Declaración Universal de los Derechos Humanos",
+  "distractors": [
+   "La Declaración de Independencia",
+   "El Tratado de Versalles",
+   "Los Convenios de Ginebra"
+  ],
+  "justification": "La Declaración Universal de los Derechos Humanos se adoptó el 10 de diciembre de 1948."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas es una contraseña más segura?",
+  "correct": "Una frase larga y única, con letras, números y símbolos",
+  "distractors": [
+   "Tu fecha de nacimiento escrita completa",
+   "La misma clave que usas en todas tus cuentas",
+   "Una palabra común del diccionario"
+  ],
+  "justification": "La longitud, la unicidad y la variedad de caracteres dificultan que se adivine."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es el wifi?",
+  "correct": "Una tecnología que conecta dispositivos a una red sin cables",
+  "distractors": [
+   "Un cable que une el ordenador con el módem",
+   "Un programa para escribir documentos",
+   "Una memoria externa para guardar archivos"
+  ],
+  "justification": "Wifi es una tecnología de redes inalámbricas."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es el phishing?",
+  "correct": "Un engaño para robar datos haciéndose pasar por una entidad de confianza",
+  "distractors": [
+   "Un virus que borra todos los archivos del disco",
+   "Un programa que acelera el equipo",
+   "Una copia de seguridad guardada en la nube"
+  ],
+  "justification": "El phishing suplanta a bancos o empresas para obtener datos personales."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué mide el producto interno bruto (PIB)?",
+  "correct": "El valor de los bienes y servicios finales producidos en un país en un periodo",
+  "distractors": [
+   "El total de dinero que ahorran las familias de un país",
+   "La suma de la deuda pública y la privada",
+   "La cantidad de dinero que ha impreso el banco central"
+  ],
+  "justification": "El PIB es el valor de la producción final de un país en un periodo."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué es un contrato?",
+  "correct": "Un acuerdo entre dos o más partes que produce efectos jurídicos",
+  "distractors": [
+   "Una promesa que no obliga a nadie",
+   "Un documento que solo puede firmar un notario",
+   "Una norma dictada por un juez"
+  ],
+  "justification": "Un contrato es un acuerdo de voluntades que genera obligaciones exigibles."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Qué estudia la ética?",
+  "correct": "La moral y los criterios sobre lo que es correcto o incorrecto",
+  "distractors": [
+   "El origen y la evolución del universo",
+   "Las reglas del razonamiento válido",
+   "Las obras de arte y la belleza"
+  ],
+  "justification": "La ética es la rama de la filosofía que reflexiona sobre la moral."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "easy",
+  "question": "¿Cuál de estos programas es un navegador web?",
+  "correct": "Firefox",
+  "distractors": [
+   "Excel",
+   "Photoshop",
+   "Linux"
+  ],
+  "justification": "Firefox sirve para acceder a páginas web; los demás son hoja de cálculo, editor de imágenes y sistema operativo."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Quién formuló la frase «pienso, luego existo»?",
+  "correct": "René Descartes",
+  "distractors": [
+   "Immanuel Kant",
+   "David Hume",
+   "Baruch Spinoza"
+  ],
+  "justification": "«Cogito, ergo sum» aparece en el Discurso del método de Descartes."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué filósofo formuló el imperativo categórico?",
+  "correct": "Immanuel Kant",
+  "distractors": [
+   "John Stuart Mill",
+   "Friedrich Nietzsche",
+   "Thomas Hobbes"
+  ],
+  "justification": "El imperativo categórico es central en la ética de Kant."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué sostiene el utilitarismo?",
+  "correct": "Que la mejor acción es la que produce mayor bienestar para el mayor número de personas",
+  "distractors": [
+   "Que la mejor acción es la que obedece mandatos divinos",
+   "Que la mejor acción cumple deberes sin importar sus consecuencias",
+   "Que la mejor acción es la que busca el beneficio propio del individuo"
+  ],
+  "justification": "El utilitarismo de Bentham y Mill evalúa las acciones por sus consecuencias en el bienestar general."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué propone el estoicismo ante las dificultades?",
+  "correct": "Aceptar con serenidad lo que no depende de nosotros",
+  "distractors": [
+   "Buscar el placer inmediato como único bien",
+   "Negar que exista alguna verdad",
+   "Rechazar toda vida en sociedad"
+  ],
+  "justification": "Los estoicos distinguían lo que depende de uno de lo que no, y aceptaban esto último."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Quién afirmó que «la existencia precede a la esencia»?",
+  "correct": "Jean-Paul Sartre",
+  "distractors": [
+   "Platón",
+   "Santo Tomás de Aquino",
+   "Baruch Spinoza"
+  ],
+  "justification": "La frase resume el existencialismo de Sartre en «El existencialismo es un humanismo»."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué es el costo de oportunidad?",
+  "correct": "El valor de la mejor alternativa a la que se renuncia al elegir",
+  "distractors": [
+   "El precio de compra de un bien en el mercado",
+   "El gasto total de producir un servicio",
+   "La ganancia que se obtiene tras pagar impuestos"
+  ],
+  "justification": "Es lo que se sacrifica al decidirse por una opción frente a la siguiente mejor."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "Si la demanda de un bien aumenta y la oferta no cambia, ¿qué tiende a pasar con su precio?",
+  "correct": "Sube",
+  "distractors": [
+   "Baja",
+   "Se mantiene igual",
+   "Oscila sin tendencia"
+  ],
+  "justification": "Mayor demanda con oferta fija genera presión al alza del precio."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué caracteriza a un monopolio?",
+  "correct": "Un único vendedor domina el mercado de un bien",
+  "distractors": [
+   "Un único comprador domina el mercado de un bien",
+   "Muchos vendedores ofrecen productos idénticos",
+   "Dos empresas se reparten por igual el mercado"
+  ],
+  "justification": "Monopolio significa un solo oferente; el caso del único comprador se llama monopsonio."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué establece el principio de presunción de inocencia?",
+  "correct": "Toda persona se considera inocente hasta que se demuestre su culpabilidad",
+  "distractors": [
+   "Toda persona acusada debe demostrar que es inocente",
+   "Solo los menores de edad se presumen inocentes",
+   "La culpa se presume si el acusado no declara"
+  ],
+  "justification": "Es un principio básico del derecho penal reconocido en la Declaración Universal de los Derechos Humanos."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué significa el principio «nullum crimen sine lege»?",
+  "correct": "No hay delito sin una ley previa que lo establezca",
+  "distractors": [
+   "No hay pena sin sentencia firme de un tribunal",
+   "No hay juicio sin la presencia del acusado",
+   "No hay ley sin la aprobación del pueblo"
+  ],
+  "justification": "Es el principio de legalidad penal: solo es delito lo que una ley previa define como tal."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Quién escribió «Del contrato social»?",
+  "correct": "Jean-Jacques Rousseau",
+  "distractors": [
+   "Thomas Hobbes",
+   "John Locke",
+   "Voltaire"
+  ],
+  "justification": "«Du contrat social» se publicó en 1762 y su autor es Rousseau."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué es el software de código abierto?",
+  "correct": "Software cuyo código fuente se publica y puede estudiarse y modificarse según su licencia",
+  "distractors": [
+   "Software que se distribuye siempre sin ningún tipo de licencia",
+   "Software que solo funciona con conexión a internet",
+   "Software que no puede ser usado con fines comerciales"
+  ],
+  "justification": "El código abierto permite ver, modificar y redistribuir el código bajo ciertas condiciones."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué función cumple un cortafuegos (firewall)?",
+  "correct": "Filtra el tráfico de red según reglas de seguridad",
+  "distractors": [
+   "Acelera la velocidad de descarga de archivos",
+   "Elimina los archivos duplicados del disco",
+   "Aumenta la memoria disponible del equipo"
+  ],
+  "justification": "Un cortafuegos permite o bloquea conexiones según reglas definidas."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Cuál es el valor decimal del número binario 1011?",
+  "correct": "11",
+  "distractors": [
+   "13",
+   "9",
+   "10"
+  ],
+  "justification": "1011 en binario es 8 + 0 + 2 + 1 = 11."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué es un algoritmo?",
+  "correct": "Una secuencia finita y ordenada de pasos para resolver un problema",
+  "distractors": [
+   "Un lenguaje de programación de bajo nivel",
+   "Un componente físico del procesador",
+   "Un error que ocurre al ejecutar un programa"
+  ],
+  "justification": "Un algoritmo es un procedimiento definido paso a paso que lleva a un resultado."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué diferencia a HTTPS de HTTP?",
+  "correct": "HTTPS cifra la comunicación entre el navegador y el servidor",
+  "distractors": [
+   "HTTPS permite descargar archivos más grandes",
+   "HTTPS solo funciona en redes locales",
+   "HTTPS no necesita una dirección web"
+  ],
+  "justification": "La S de HTTPS indica seguridad mediante cifrado (TLS)."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué sostiene el empirismo?",
+  "correct": "Que el conocimiento proviene principalmente de la experiencia sensible",
+  "distractors": [
+   "Que el conocimiento proviene de ideas innatas",
+   "Que el conocimiento es imposible de alcanzar",
+   "Que el conocimiento solo se obtiene por revelación"
+  ],
+  "justification": "Locke y Hume defendieron que las ideas se originan en la experiencia."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué es una falacia ad hominem?",
+  "correct": "Atacar a la persona que argumenta en lugar de refutar su argumento",
+  "distractors": [
+   "Apelar a lo que cree la mayoría para probar algo",
+   "Repetir la conclusión como si fuera una premisa",
+   "Presentar solo dos opciones cuando hay más"
+  ],
+  "justification": "Ad hominem desvía la discusión hacia el carácter del interlocutor."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Qué caracteriza a un bien público puro en economía?",
+  "correct": "Su consumo por una persona no impide el de otras y no se puede excluir a nadie",
+  "distractors": [
+   "Su consumo por una persona impide el de otras y se puede excluir a quien no paga",
+   "Solo lo produce el Estado y se vende a precio fijo",
+   "Solo se consume una vez y desaparece después"
+  ],
+  "justification": "Los bienes públicos puros son no rivales y no excluyentes, como el alumbrado público."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "medium",
+  "question": "¿Cómo se calcula la tasa de desempleo?",
+  "correct": "Desempleados dividido entre la población activa",
+  "distractors": [
+   "Desempleados dividido entre la población total",
+   "Desempleados dividido entre las personas que trabajan",
+   "Desempleados dividido entre los mayores de 65 años"
+  ],
+  "justification": "La población activa incluye a quienes trabajan y a quienes buscan empleo."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "Alguien dice: «Si permitimos la calculadora en clase, los alumnos dejarán de sumar y después nadie sabrá pensar». ¿Qué falacia es?",
+  "correct": "Pendiente resbaladiza",
+  "distractors": [
+   "Petición de principio",
+   "Falso dilema",
+   "Apelación a la autoridad"
+  ],
+  "justification": "Plantea una cadena de consecuencias extremas sin justificar cada eslabón."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Sobre qué problema filosófico trata la paradoja del barco de Teseo?",
+  "correct": "La identidad de un objeto a través del cambio de sus partes",
+  "distractors": [
+   "La existencia del libre albedrío",
+   "El origen del conocimiento humano",
+   "La existencia de Dios"
+  ],
+  "justification": "Plantea si un barco cuyas piezas se reemplazan todas sigue siendo el mismo."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué señala la llamada guillotina de Hume?",
+  "correct": "Que no se puede deducir lo que debe ser solo a partir de lo que es",
+  "distractors": [
+   "Que toda idea proviene de una impresión previa",
+   "Que la causalidad es una propiedad observable de las cosas",
+   "Que la razón es la guía suprema de la moral"
+  ],
+  "justification": "Hume advirtió en el Tratado de la naturaleza humana el salto de juicios descriptivos a prescriptivos."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "Según Karl Popper, ¿qué distingue a una teoría científica?",
+  "correct": "Que pueda ser refutada por la experiencia",
+  "distractors": [
+   "Que haya sido confirmada muchas veces",
+   "Que sea aceptada por la mayoría de los expertos",
+   "Que no contradiga el sentido común"
+  ],
+  "justification": "Popper propuso la falsabilidad como criterio de demarcación."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué autor propuso el «velo de la ignorancia» en su teoría de la justicia?",
+  "correct": "John Rawls",
+  "distractors": [
+   "Robert Nozick",
+   "Karl Marx",
+   "Adam Smith"
+  ],
+  "justification": "Rawls lo presentó en «Una teoría de la justicia» (1971)."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué afirma la teoría de la ventaja comparativa de David Ricardo?",
+  "correct": "Dos países ganan comerciando si cada uno se especializa en lo que tiene menor costo de oportunidad, aunque uno sea más eficiente en todo",
+  "distractors": [
+   "Un país solo gana comerciando si produce todo más barato que su socio",
+   "Un país gana al exportar sin importar nada",
+   "El comercio beneficia a quien produce con menos trabajadores"
+  ],
+  "justification": "La ventaja comparativa depende del costo de oportunidad, no de la eficiencia absoluta."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué enuncia la ley de Goodhart?",
+  "correct": "Cuando una medida se convierte en objetivo, deja de ser una buena medida",
+  "distractors": [
+   "Todo sistema tiende al desorden con el tiempo",
+   "La demanda crea su propia oferta",
+   "El trabajo se expande hasta ocupar el tiempo disponible"
+  ],
+  "justification": "Es la formulación popular de la ley de Goodhart sobre indicadores y objetivos."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "En el dilema del prisionero clásico, ¿cuál es el equilibrio de Nash?",
+  "correct": "Que ambos delaten, aunque cooperar sería mejor para los dos",
+  "distractors": [
+   "Que ambos guarden silencio, porque es lo mejor para los dos",
+   "Que solo uno delate y el otro calle",
+   "Que no exista ningún equilibrio"
+  ],
+  "justification": "Delatar es la estrategia dominante de cada jugador, y el resultado es peor que el de cooperar."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Cuántos valores distintos se pueden representar con 10 bits?",
+  "correct": "1024",
+  "distractors": [
+   "100",
+   "512",
+   "2048"
+  ],
+  "justification": "Con 10 bits hay 2^10 = 1024 combinaciones."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "En criptografía de clave pública, ¿con qué clave se descifra un mensaje cifrado con la clave pública del destinatario?",
+  "correct": "Con la clave privada del destinatario",
+  "distractors": [
+   "Con la misma clave pública del destinatario",
+   "Con la clave privada del remitente",
+   "Con una clave de sesión publicada en la red"
+  ],
+  "justification": "Solo la clave privada correspondiente puede revertir el cifrado hecho con la pública."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "Si el gobierno fija un precio máximo por debajo del precio de equilibrio, ¿qué ocurre en el mercado?",
+  "correct": "Aparece escasez porque la cantidad demandada supera a la ofrecida",
+  "distractors": [
+   "Aparece un excedente porque se produce demasiado",
+   "El mercado se mantiene en equilibrio",
+   "La oferta aumenta hasta cubrir la demanda"
+  ],
+  "justification": "A ese precio la demanda crece y la oferta se reduce, lo que genera escasez."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué garantiza el principio «non bis in idem»?",
+  "correct": "Que nadie sea juzgado o sancionado dos veces por los mismos hechos",
+  "distractors": [
+   "Que nadie sea condenado sin pruebas suficientes",
+   "Que toda persona tenga derecho a un abogado",
+   "Que ninguna ley se aplique a hechos anteriores"
+  ],
+  "justification": "Non bis in idem prohíbe la doble persecución por un mismo hecho."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "Si la demanda de un bien es elástica (elasticidad mayor que 1) y su precio sube, ¿qué pasa con el ingreso total del vendedor?",
+  "correct": "Disminuye",
+  "distractors": [
+   "Aumenta",
+   "Se mantiene igual",
+   "Se duplica"
+  ],
+  "justification": "En demanda elástica la cantidad cae proporcionalmente más que lo que sube el precio."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué recomienda la navaja de Ockham?",
+  "correct": "Entre explicaciones equivalentes, preferir la que requiere menos supuestos",
+  "distractors": [
+   "Entre explicaciones equivalentes, preferir la más compleja",
+   "Aceptar la explicación que defiende la mayoría",
+   "Rechazar toda explicación que no pueda medirse"
+  ],
+  "justification": "Es un principio de parsimonia: no multiplicar las entidades sin necesidad."
+ },
+ {
+  "category": "sociedad_tecnologia_filosofia",
+  "difficulty": "hard",
+  "question": "¿Qué buscan mostrar los casos de Gettier en epistemología?",
+  "correct": "Que una creencia verdadera y justificada no basta para ser conocimiento",
+  "distractors": [
+   "Que el conocimiento es imposible de alcanzar",
+   "Que toda creencia justificada es verdadera",
+   "Que los sentidos siempre engañan"
+  ],
+  "justification": "Edmund Gettier (1963) presentó contraejemplos a la definición de conocimiento como creencia verdadera justificada."
+ }
+]

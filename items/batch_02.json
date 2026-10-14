@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «¿___ no viniste a la fiesta?»",
+  "correct": "Por qué",
+  "distractors": [
+   "Porque",
+   "Porqué",
+   "Por que"
+  ],
+  "justification": "Las preguntas directas se introducen con «por qué», en dos palabras y con tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «No vine a la fiesta ___ estaba enfermo.»",
+  "correct": "porque",
+  "distractors": [
+   "por qué",
+   "porqué",
+   "por que"
+  ],
+  "justification": "«Porque» es la conjunción que introduce la causa en una respuesta."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «No quiero té, ___ café.»",
+  "correct": "sino",
+  "distractors": [
+   "si no",
+   "sinó",
+   "si nó"
+  ],
+  "justification": "«Sino» es la conjunción adversativa que contrapone una opción a una negación."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «___ está tu libro, sobre la mesa.»",
+  "correct": "Ahí",
+  "distractors": [
+   "Hay",
+   "Ay",
+   "Ahy"
+  ],
+  "justification": "«Ahí» es el adverbio de lugar y lleva tilde por ser bisílaba con hiato i tónica."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras está escrita correctamente?",
+  "correct": "excepción",
+  "distractors": [
+   "esepción",
+   "excepsión",
+   "exepción"
+  ],
+  "justification": "Según el diccionario académico, la palabra se escribe «excepción», con x y c."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿En qué oración los días y los meses están bien escritos?",
+  "correct": "Nació un martes de marzo.",
+  "distractors": [
+   "Nació un Martes de Marzo.",
+   "Nació un martes de Marzo.",
+   "Nació un Martes de marzo."
+  ],
+  "justification": "Los nombres de días y meses se escriben con minúscula inicial salvo al comienzo de oración."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas oraciones está bien escrita?",
+  "correct": "¿Qué hora es?",
+  "distractors": [
+   "Qué hora es?",
+   "¿Qué hora es¿",
+   "¡Qué hora es?"
+  ],
+  "justification": "En español la pregunta se abre con «¿» y se cierra con «?»."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿En cuál oración «tú» lleva tilde correctamente?",
+  "correct": "Tú eres mi amigo.",
+  "distractors": [
+   "Tú libro está aquí.",
+   "Dame tú ayuda.",
+   "Tú casa es grande."
+  ],
+  "justification": "«Tú» con tilde es el pronombre personal; el posesivo «tu» no la lleva."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál es el plural correcto de «canción»?",
+  "correct": "canciones",
+  "distractors": [
+   "cancións",
+   "canciónes",
+   "cancioneses"
+  ],
+  "justification": "Las palabras terminadas en consonante forman el plural con «-es» y la palabra pierde la tilde: canciones."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras lleva tilde?",
+  "correct": "árbol",
+  "distractors": [
+   "mesa",
+   "reloj",
+   "ciudad"
+  ],
+  "justification": "«Árbol» es llana terminada en consonante distinta de n o s, por eso se tilda."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «Vamos ___ qué pasa.»",
+  "correct": "a ver",
+  "distractors": [
+   "haber",
+   "a haber",
+   "ha ver"
+  ],
+  "justification": "«A ver» es la locución formada por la preposición «a» y el verbo «ver»."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "Completa: «Quiero que ___ a la tienda por pan.»",
+  "correct": "vaya",
+  "distractors": [
+   "valla",
+   "baya",
+   "balla"
+  ],
+  "justification": "«Vaya» es la forma del subjuntivo del verbo «ir»; «valla» es un cercado."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras debe escribirse siempre con mayúscula inicial?",
+  "correct": "Colombia",
+  "distractors": [
+   "español",
+   "primavera",
+   "julio"
+  ],
+  "justification": "Los nombres propios de países llevan mayúscula; idiomas, estaciones y meses van en minúscula."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras se escribe correctamente?",
+  "correct": "vehículo",
+  "distractors": [
+   "behículo",
+   "vejículo",
+   "bejículo"
+  ],
+  "justification": "El diccionario académico registra «vehículo», con v y j."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama el signo ortográfico «;»?",
+  "correct": "punto y coma",
+  "distractors": [
+   "dos puntos",
+   "puntos suspensivos",
+   "coma"
+  ],
+  "justification": "El signo «;» se denomina punto y coma."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «___ llueve mañana, iremos al parque.»",
+  "correct": "Si no",
+  "distractors": [
+   "Sino",
+   "Sinó",
+   "Sí no"
+  ],
+  "justification": "Con valor condicional negativo se escribe «si no», en dos palabras."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «No entiendo el ___ de su enfado.»",
+  "correct": "porqué",
+  "distractors": [
+   "por qué",
+   "porque",
+   "por que"
+  ],
+  "justification": "Cuando funciona como sustantivo, precedido de artículo, se escribe «porqué», junto y con tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «Me preguntó ___ no había ido a la reunión.»",
+  "correct": "por qué",
+  "distractors": [
+   "porque",
+   "porqué",
+   "por que"
+  ],
+  "justification": "Es una interrogativa indirecta, por lo que se usa «por qué» separado y con tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «No sé ___ cortar el pan.»",
+  "correct": "con qué",
+  "distractors": [
+   "conque",
+   "con que",
+   "conqué"
+  ],
+  "justification": "El interrogativo indirecto «qué» va tildado y la preposición «con» se escribe aparte."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Según la norma ortográfica vigente de la RAE, ¿cómo se escribe «solo» en «Solo vino Pedro»?",
+  "correct": "Sin tilde, aunque haya ambigüedad",
+  "distractors": [
+   "Con tilde siempre que sea adverbio",
+   "Con tilde solo si hay ambigüedad",
+   "Con tilde siempre que vaya al inicio"
+  ],
+  "justification": "La Ortografía de 2010 indica prescindir de la tilde en «solo» incluso en casos de posible ambigüedad."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones sigue la recomendación ortográfica de la RAE desde 2010 sobre los demostrativos?",
+  "correct": "Esta es mi casa y aquella es la tuya.",
+  "distractors": [
+   "Ésta es mi casa y aquella es la tuya.",
+   "Esta es mi casa y aquélla es la tuya.",
+   "Ésta es mi casa y aquélla es la tuya."
+  ],
+  "justification": "Desde 2010 los demostrativos «este, ese, aquel» no se tildan ni siquiera como pronombres."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas palabras se escribe sin tilde según la norma vigente?",
+  "correct": "guion",
+  "distractors": [
+   "adiós",
+   "también",
+   "difícil"
+  ],
+  "justification": "Los monosílabos ortográficos, como «guion», no llevan tilde desde 2010; las otras son agudas o llanas que sí la llevan."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «No sé ___ vive mi primo ahora.»",
+  "correct": "dónde",
+  "distractors": [
+   "donde",
+   "adonde",
+   "a donde"
+  ],
+  "justification": "El adverbio interrogativo indirecto «dónde» lleva tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál es el plural correcto de «carácter»?",
+  "correct": "caracteres",
+  "distractors": [
+   "carácteres",
+   "caractéres",
+   "caracter"
+  ],
+  "justification": "El plural es «caracteres» y el acento prosódico se desplaza a la sílaba «te», así que no lleva tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿En qué oración el título de cortesía está bien escrito?",
+  "correct": "El doctor Pérez atendió a la señora López.",
+  "distractors": [
+   "El Doctor Pérez atendió a la Señora López.",
+   "El Doctor Pérez atendió a la señora López.",
+   "El doctor Pérez atendió a la Señora López."
+  ],
+  "justification": "Los títulos y tratamientos se escriben con minúscula cuando acompañan a un nombre."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál es la forma correcta de escribir el título de una obra literaria en español?",
+  "correct": "Cien años de soledad",
+  "distractors": [
+   "Cien Años de Soledad",
+   "Cien años De soledad",
+   "cien años de soledad"
+  ],
+  "justification": "En los títulos solo se escribe con mayúscula la primera palabra y los nombres propios."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas voces es un extranjerismo crudo que debe escribirse en cursiva o entre comillas?",
+  "correct": "software",
+  "distractors": [
+   "fútbol",
+   "club",
+   "robot"
+  ],
+  "justification": "«Software» no está adaptada al español; «fútbol», «club» y «robot» están adaptadas y se escriben con normalidad."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «El conductor ___ las normas de tráfico.»",
+  "correct": "infringió",
+  "distractors": [
+   "infligió",
+   "inflingió",
+   "infrigió"
+  ],
+  "justification": "«Infringir» significa quebrantar una norma; «infligir» se usa con castigos o daños."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «Los meteorólogos ___ lluvias para mañana.»",
+  "correct": "prevén",
+  "distractors": [
+   "proveen",
+   "previenen",
+   "prevenen"
+  ],
+  "justification": "«Prever» se conjuga como «ver»: ellos prevén; «prevenir» tiene otro significado."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «El tribunal decidió ___ al acusado por falta de pruebas.»",
+  "correct": "absolver",
+  "distractors": [
+   "absorber",
+   "abzolver",
+   "absolber"
+  ],
+  "justification": "«Absolver» significa declarar libre de culpa; «absorber» es empapar o asimilar."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «Te ___ mucho de menos.»",
+  "correct": "echo",
+  "distractors": [
+   "hecho",
+   "eco",
+   "hecó"
+  ],
+  "justification": "La locución es «echar de menos», con el verbo «echar» y sin h."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿En cuál oración hay una coma mal colocada?",
+  "correct": "Mis amigos de la infancia, viven lejos.",
+  "distractors": [
+   "Ana, mi vecina, es médica.",
+   "Si llegas temprano, avísame.",
+   "Compré pan, leche y huevos."
+  ],
+  "justification": "No se debe separar con coma el sujeto del verbo."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Tras los dos puntos que cierran el saludo de una carta, la primera palabra se escribe:",
+  "correct": "con mayúscula inicial",
+  "distractors": [
+   "con minúscula inicial",
+   "en cursiva",
+   "entre paréntesis"
+  ],
+  "justification": "La Ortografía académica establece mayúscula tras los dos puntos del saludo en cartas."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones usa correctamente «etc.»?",
+  "correct": "Compré peras, manzanas, etc.",
+  "distractors": [
+   "Compré peras, manzanas, etc...",
+   "Compré peras, manzanas y etc.",
+   "Compré peras, manzanas, etc,"
+  ],
+  "justification": "«Etc.» ya incluye el punto y no se combina con «y» ni con puntos suspensivos."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "medium",
+  "question": "Completa: «No quiero que vengas, ___ que me esperes.»",
+  "correct": "sino",
+  "distractors": [
+   "si no",
+   "sinó",
+   "sí no"
+  ],
+  "justification": "Tras una negación, «sino» introduce la alternativa que la sustituye."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es el plural recomendado de «máster»?",
+  "correct": "másteres",
+  "distractors": [
+   "másters",
+   "mástères",
+   "máster"
+  ],
+  "justification": "El diccionario académico registra «máster» con plural «másteres»."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es el plural correcto de «ítem»?",
+  "correct": "ítems",
+  "distractors": [
+   "ítemes",
+   "items",
+   "ítem"
+  ],
+  "justification": "El diccionario académico registra el plural «ítems» y conserva la tilde de la palabra llana."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cómo se escribe el plural de la sigla ONG según la RAE?",
+  "correct": "las ONG",
+  "distractors": [
+   "las ONGs",
+   "las ONG's",
+   "las ONGes"
+  ],
+  "justification": "Las siglas son invariables en el plural y se marca solo con el artículo."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es la forma recomendada de la abreviatura de «Estados Unidos»?",
+  "correct": "EE. UU.",
+  "distractors": [
+   "EEUU",
+   "E.E.U.U.",
+   "EE.UU."
+  ],
+  "justification": "La RAE recomienda duplicar las letras del plural y dejar un espacio: EE. UU."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es la forma correcta de escribir la hora en la norma académica?",
+  "correct": "15:30 h",
+  "distractors": [
+   "15:30 hs",
+   "15:30 hrs.",
+   "15:30 h."
+  ],
+  "justification": "El símbolo de hora es «h», sin punto ni «s» final."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es la forma correcta de escribir veinticinco kilómetros con símbolo?",
+  "correct": "25 km",
+  "distractors": [
+   "25 kms",
+   "25 Km.",
+   "25 kms."
+  ],
+  "justification": "Los símbolos no llevan punto, no se pluralizan y «km» va en minúscula."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Según la RAE, ¿cómo se recomienda separar los millares en cifras de más de cuatro dígitos?",
+  "correct": "Con un espacio, como en 12 345",
+  "distractors": [
+   "Con un punto, como en 12.345",
+   "Con una coma, como en 12,345",
+   "Con un apóstrofo, como en 12'345"
+  ],
+  "justification": "La Ortografía de 2010 recomienda separar los grupos de tres cifras con un espacio."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «¿___ vas con tanta prisa?»",
+  "correct": "Adónde",
+  "distractors": [
+   "Adonde",
+   "A donde",
+   "Ádonde"
+  ],
+  "justification": "«Adónde» es el adverbio interrogativo de destino y se tilda; «adonde» es relativo."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «No he terminado ___ la tarea.»",
+  "correct": "aún",
+  "distractors": [
+   "aun",
+   "a un",
+   "a ún"
+  ],
+  "justification": "Con el sentido de «todavía» se escribe «aún», con tilde."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es la manera correcta de colocar el punto final con una cita entre comillas angulares?",
+  "correct": "Mi madre dijo: «Vuelve pronto».",
+  "distractors": [
+   "Mi madre dijo: «Vuelve pronto.»",
+   "Mi madre dijo; «Vuelve pronto».",
+   "Mi madre dijo: «Vuelve pronto»»."
+  ],
+  "justification": "El punto que cierra el enunciado va siempre después de las comillas de cierre."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «Me gusta el invierno, ___ la nieve.»",
+  "correct": "sobre todo",
+  "distractors": [
+   "sobretodo",
+   "sobre-todo",
+   "sóbre todo"
+  ],
+  "justification": "«Sobre todo» es locución adverbial en dos palabras; «sobretodo» es un abrigo."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «Es ___ lo que pido que no deberías negarte.»",
+  "correct": "tan poco",
+  "distractors": [
+   "tampoco",
+   "tanpoco",
+   "tan pocó"
+  ],
+  "justification": "Cuando «tan» modifica a «poco» como cuantificador, se escribe en dos palabras; «tampoco» es adverbio de negación."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «Ella se miró ___ en el espejo.»",
+  "correct": "a sí misma",
+  "distractors": [
+   "así misma",
+   "asimisma",
+   "a si misma"
+  ],
+  "justification": "Es la preposición «a» seguida del pronombre reflexivo tónico «sí» con tilde y «misma»."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "Completa: «Ignoro el ___ de su decisión y no sé ___ la tomó.»",
+  "correct": "porqué / por qué",
+  "distractors": [
+   "por qué / porque",
+   "porque / por qué",
+   "porqué / porque"
+  ],
+  "justification": "El primero es sustantivo (porqué) y el segundo interrogativo indirecto (por qué)."
+ },
+ {
+  "category": "Ortografía y puntuación del español",
+  "difficulty": "hard",
+  "question": "¿Cuál es el plural correcto de «antifaz»?",
+  "correct": "antifaces",
+  "distractors": [
+   "antifazes",
+   "antifáces",
+   "antifaz"
+  ],
+  "justification": "Las palabras terminadas en z cambian a c ante «-es»: antifaces."
+ }
+]

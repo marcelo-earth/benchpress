@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuántas sílabas tiene la palabra «murciélago»?",
+  "correct": "4",
+  "distractors": [
+   "3",
+   "5",
+   "6"
+  ],
+  "justification": "Se divide mur-cié-la-go, y «ié» es un diptongo que forma una sola sílaba."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál es el antónimo de «generoso»?",
+  "correct": "Tacaño",
+  "distractors": [
+   "Amable",
+   "Valiente",
+   "Humilde"
+  ],
+  "justification": "Generoso da con liberalidad y tacaño es quien escatima lo que tiene."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de «rápido»?",
+  "correct": "Veloz",
+  "distractors": [
+   "Pesado",
+   "Torpe",
+   "Sereno"
+  ],
+  "justification": "Veloz significa que se mueve con rapidez."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál es el plural de «luz»?",
+  "correct": "Luces",
+  "distractors": [
+   "Luzes",
+   "Lúces",
+   "Luzs"
+  ],
+  "justification": "Las palabras terminadas en z cambian la z por c ante e en el plural."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál es el femenino de «actor»?",
+  "correct": "Actriz",
+  "distractors": [
+   "Actora",
+   "Actrice",
+   "Actoria"
+  ],
+  "justification": "El diccionario académico registra actriz como femenino de actor."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras está escrita correctamente?",
+  "correct": "Exhausto",
+  "distractors": [
+   "Exausto",
+   "Ezhausto",
+   "Eksausto"
+  ],
+  "justification": "La grafía correcta lleva x y h: exhausto."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿A qué clase de palabra pertenece «rápidamente»?",
+  "correct": "Adverbio",
+  "distractors": [
+   "Adjetivo",
+   "Sustantivo",
+   "Preposición"
+  ],
+  "justification": "Los adverbios terminados en -mente modifican al verbo, como rápidamente."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Qué tipo de sustantivo es «Madrid»?",
+  "correct": "Propio",
+  "distractors": [
+   "Común",
+   "Colectivo",
+   "Abstracto"
+  ],
+  "justification": "Los nombres que designan un lugar concreto y único son sustantivos propios."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál es el diminutivo de «casa»?",
+  "correct": "Casita",
+  "distractors": [
+   "Casota",
+   "Casona",
+   "Casaza"
+  ],
+  "justification": "Casita lleva el sufijo diminutivo -ita, mientras que casona y casota son aumentativos."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas oraciones está escrita correctamente?",
+  "correct": "¿Qué hora es?",
+  "distractors": [
+   "Qué hora es?",
+   "¿Qué hora es.",
+   "Qué hora es¿"
+  ],
+  "justification": "En español la pregunta se abre con ¿ y se cierra con ?."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras es llana?",
+  "correct": "Árbol",
+  "distractors": [
+   "Canción",
+   "Teléfono",
+   "Reloj"
+  ],
+  "justification": "Árbol tiene el acento en la penúltima sílaba (ár-bol), igual que las llanas."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál de estas vocales es cerrada o débil?",
+  "correct": "U",
+  "distractors": [
+   "A",
+   "E",
+   "O"
+  ],
+  "justification": "Las vocales cerradas son i y u; las abiertas son a, e y o."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "¿Cuál de estos sustantivos es femenino?",
+  "correct": "Mano",
+  "distractors": [
+   "Día",
+   "Mapa",
+   "Planeta"
+  ],
+  "justification": "Mano es femenina (la mano), mientras que día, mapa y planeta son masculinos."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "En «Los niños juegan en el parque», ¿cuál es el sujeto?",
+  "correct": "Los niños",
+  "distractors": [
+   "En el parque",
+   "Juegan",
+   "El parque"
+  ],
+  "justification": "El sujeto es quien realiza la acción y concuerda con el verbo: los niños juegan."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "easy",
+  "question": "Completa: «Pusieron una ___ alrededor del jardín».",
+  "correct": "valla",
+  "distractors": [
+   "vaya",
+   "baya",
+   "balla"
+  ],
+  "justification": "Valla es una cerca; vaya viene de ir y baya es un tipo de fruto."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones es correcta?",
+  "correct": "Hubo muchos problemas",
+  "distractors": [
+   "Hubieron muchos problemas",
+   "Habían muchos problemas",
+   "Han habido muchos problemas"
+  ],
+  "justification": "Haber con sentido de existir es impersonal y se usa solo en tercera persona del singular."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál es la primera persona del singular del pretérito perfecto simple de «satisfacer»?",
+  "correct": "Satisfice",
+  "distractors": [
+   "Satisfací",
+   "Satisfacé",
+   "Satisfacié"
+  ],
+  "justification": "Satisfacer se conjuga como hacer, cuyo pretérito es hice, por lo que se dice satisfice."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "El prefijo «circun-» significa:",
+  "correct": "Alrededor",
+  "distractors": [
+   "Dentro",
+   "Debajo",
+   "Contra"
+  ],
+  "justification": "Circunferencia o circunnavegar contienen circun- con el valor de alrededor."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "En «Lo vi ayer», ¿qué función cumple «lo»?",
+  "correct": "Complemento directo",
+  "distractors": [
+   "Complemento indirecto",
+   "Sujeto",
+   "Complemento circunstancial"
+  ],
+  "justification": "Lo sustituye a la persona o cosa vista, que es el complemento directo de ver."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "En «Me gusta el libro que compraste», la oración «que compraste» es una subordinada:",
+  "correct": "Adjetiva",
+  "distractors": [
+   "Sustantiva",
+   "Adverbial",
+   "Coordinada"
+  ],
+  "justification": "Modifica al sustantivo libro, por lo que cumple función de adjetivo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Qué figura retórica hay en «Te lo he dicho mil veces»?",
+  "correct": "Hipérbole",
+  "distractors": [
+   "Metáfora",
+   "Litotes",
+   "Ironía"
+  ],
+  "justification": "La cifra mil exagera la frecuencia, y la exageración expresiva es una hipérbole."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Qué figura retórica hay en «El viento susurraba entre los árboles»?",
+  "correct": "Personificación",
+  "distractors": [
+   "Hipérbole",
+   "Antítesis",
+   "Elipsis"
+  ],
+  "justification": "Se atribuye una acción humana, susurrar, a un elemento no humano."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "«Un silencio ensordecedor» es un ejemplo de:",
+  "correct": "Oxímoron",
+  "distractors": [
+   "Pleonasmo",
+   "Metonimia",
+   "Anáfora"
+  ],
+  "justification": "Une dos términos contradictorios, silencio y ensordecedor, en una misma expresión."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿De qué lengua procede la palabra «ojalá»?",
+  "correct": "Árabe",
+  "distractors": [
+   "Latín",
+   "Griego",
+   "Náhuatl"
+  ],
+  "justification": "Ojalá viene del árabe law šá llāh, «si Dios quiere»."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿De qué lengua procede la palabra «tomate»?",
+  "correct": "Náhuatl",
+  "distractors": [
+   "Quechua",
+   "Árabe",
+   "Taíno"
+  ],
+  "justification": "Tomate viene del náhuatl tomatl."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas palabras contiene un hiato?",
+  "correct": "País",
+  "distractors": [
+   "Aire",
+   "Cuota",
+   "Puerta"
+  ],
+  "justification": "En pa-ís la i tónica forma hiato con la a; en las demás hay diptongo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas palabras contiene un triptongo?",
+  "correct": "Estudiáis",
+  "distractors": [
+   "Ciudad",
+   "Peine",
+   "Baile"
+  ],
+  "justification": "En «iái» se unen tres vocales en una sílaba: es-tu-diáis."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones está correctamente escrita?",
+  "correct": "No sé si él sabe qué quiere.",
+  "distractors": [
+   "No se si el sabe qué quiere.",
+   "No sé si él sabe que quiere.",
+   "No sé sí él sabe qué quiere."
+  ],
+  "justification": "Lleva tilde el verbo saber (sé), el pronombre él y el interrogativo indirecto qué; la conjunción si no la lleva."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones está en voz pasiva?",
+  "correct": "El ladrón fue detenido por la policía.",
+  "distractors": [
+   "La policía detuvo al ladrón.",
+   "El ladrón se escapó corriendo.",
+   "El ladrón corrió hacia la salida."
+  ],
+  "justification": "Lleva ser más participio y un complemento agente: fue detenido por la policía."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "En «Ojalá llueva mañana», ¿en qué modo está el verbo «llueva»?",
+  "correct": "Subjuntivo",
+  "distractors": [
+   "Indicativo",
+   "Imperativo",
+   "Infinitivo"
+  ],
+  "justification": "Los verbos que expresan deseo tras ojalá van en presente de subjuntivo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones presenta laísmo?",
+  "correct": "La di el libro a María.",
+  "distractors": [
+   "Le di el libro a María.",
+   "Lo vi ayer en la calle.",
+   "La vi ayer en la calle."
+  ],
+  "justification": "El laísmo es usar la como complemento indirecto, en lugar de le."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas oraciones es correcta?",
+  "correct": "Estoy seguro de que vendrá.",
+  "distractors": [
+   "Pienso de que vendrá.",
+   "Dijo de que vendría.",
+   "Creo de que vendrá."
+  ],
+  "justification": "Pensar, decir y creer no rigen de, y su uso ante que es dequeísmo; estar seguro sí rige de."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Cuál de estas palabras NO pertenece a la familia léxica de «mar»?",
+  "correct": "Marido",
+  "distractors": [
+   "Marino",
+   "Marea",
+   "Maremoto"
+  ],
+  "justification": "Marido procede de maritus, sin relación con el latín mare."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Qué figura retórica hay en «Leí a Cervantes durante el verano»?",
+  "correct": "Metonimia",
+  "distractors": [
+   "Aliteración",
+   "Símil",
+   "Hipérbaton"
+  ],
+  "justification": "Se nombra al autor para designar su obra, una relación de contigüidad propia de la metonimia."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "medium",
+  "question": "¿Qué tiempo verbal es «habré comido»?",
+  "correct": "Futuro perfecto",
+  "distractors": [
+   "Pretérito perfecto compuesto",
+   "Condicional compuesto",
+   "Pretérito pluscuamperfecto"
+  ],
+  "justification": "Se forma con haber en futuro más participio, es decir, futuro compuesto o antefuturo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál es el superlativo de «célebre»?",
+  "correct": "Celebérrimo",
+  "distractors": [
+   "Celebrísimo",
+   "Celebérimo",
+   "Celebrosísimo"
+  ],
+  "justification": "Los adjetivos en -re forman el superlativo culto en -érrimo, como celebérrimo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál es el participio de «absolver»?",
+  "correct": "Absuelto",
+  "distractors": [
+   "Absolvido",
+   "Absolto",
+   "Absuelvido"
+  ],
+  "justification": "Absolver tiene participio irregular, absuelto, y no admite forma regular."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "En «Hubo tres accidentes», ¿qué función tiene «tres accidentes»?",
+  "correct": "Complemento directo",
+  "distractors": [
+   "Sujeto",
+   "Complemento indirecto",
+   "Atributo"
+  ],
+  "justification": "Haber existencial es impersonal y carece de sujeto, así que el elemento nominal es complemento directo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica hay en el verso «Del salón en el ángulo oscuro»?",
+  "correct": "Hipérbaton",
+  "distractors": [
+   "Elipsis",
+   "Anáfora",
+   "Asíndeton"
+  ],
+  "justification": "El orden normal sería «en el ángulo oscuro del salón», y alterarlo es hipérbaton."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica hay en «Vine, vi, vencí»?",
+  "correct": "Asíndeton",
+  "distractors": [
+   "Polisíndeton",
+   "Anadiplosis",
+   "Zeugma"
+  ],
+  "justification": "Se omiten las conjunciones entre los elementos coordinados, lo que define al asíndeton."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál de estas palabras NO procede del árabe?",
+  "correct": "Madera",
+  "distractors": [
+   "Alcalde",
+   "Azúcar",
+   "Aceite"
+  ],
+  "justification": "Madera viene del latín materia, mientras que las otras tres proceden del árabe."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica es «el Manco de Lepanto» para referirse a Cervantes?",
+  "correct": "Antonomasia",
+  "distractors": [
+   "Metáfora",
+   "Hipérbole",
+   "Pleonasmo"
+  ],
+  "justification": "Una cualidad o seudónimo sustituye al nombre propio, lo cual es antonomasia."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál de estas formas verbales es correcta?",
+  "correct": "Nosotros abolimos",
+  "distractors": [
+   "Yo abuelo",
+   "Tú abueles",
+   "Ellos abuelen"
+  ],
+  "justification": "Abolir es defectivo y solo se conjuga en formas cuya terminación empieza por i, como abolimos."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál es la tercera persona del singular del pretérito perfecto simple de «caber»?",
+  "correct": "Cupo",
+  "distractors": [
+   "Cabió",
+   "Cupió",
+   "Cabo"
+  ],
+  "justification": "Caber tiene pretérito irregular fuerte: cupe, cupiste, cupo."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué significa la preposición «cabe», hoy poco usada?",
+  "correct": "Junto a",
+  "distractors": [
+   "Debajo de",
+   "Después de",
+   "Sin"
+  ],
+  "justification": "Cabe es una preposición antigua que significa «junto a» o «cerca de»."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "Según la ortografía académica vigente, ¿cuál se escribe correctamente?",
+  "correct": "Truhan",
+  "distractors": [
+   "Truhán",
+   "Guión",
+   "Fié"
+  ],
+  "justification": "Truhan se considera monosílaba a efectos ortográficos y no lleva tilde."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué procedimiento de formación de palabras da lugar a «anochecer»?",
+  "correct": "Parasíntesis",
+  "distractors": [
+   "Composición",
+   "Acronimia",
+   "Derivación regresiva"
+  ],
+  "justification": "Combina el prefijo a- y el sufijo -ecer sobre noche, sin que existan «anoche» como verbo ni «nochecer»."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cómo se llama el tiempo verbal de «hube cantado»?",
+  "correct": "Pretérito anterior",
+  "distractors": [
+   "Pretérito pluscuamperfecto",
+   "Futuro perfecto",
+   "Pretérito perfecto compuesto"
+  ],
+  "justification": "Se forma con el pretérito perfecto simple de haber más participio y se llama pretérito anterior."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica hay en «Tiene cuatro bocas que alimentar»?",
+  "correct": "Sinécdoque",
+  "distractors": [
+   "Antítesis",
+   "Paradoja",
+   "Anáfora"
+  ],
+  "justification": "Se designa a las personas por una parte suya, la boca, lo que es sinécdoque."
+ },
+ {
+  "category": "Lengua y gramática españolas",
+  "difficulty": "hard",
+  "question": "¿Cuál es el plural de «carácter»?",
+  "correct": "Caracteres",
+  "distractors": [
+   "Carácteres",
+   "Caráteres",
+   "Caracters"
+  ],
+  "justification": "El plural desplaza el acento a la penúltima sílaba y se escribe caracteres, sin tilde."
+ }
+]

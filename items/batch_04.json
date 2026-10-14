@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué año llegó Cristóbal Colón a América por primera vez?",
+  "correct": "1492",
+  "distractors": [
+   "1482",
+   "1502",
+   "1519"
+  ],
+  "justification": "El primer viaje de Colón llegó a las Antillas el 12 de octubre de 1492."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué año terminó la Guerra Civil española?",
+  "correct": "1939",
+  "distractors": [
+   "1936",
+   "1945",
+   "1931"
+  ],
+  "justification": "La guerra concluyó el 1 de abril de 1939 con la victoria del bando franquista."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Quién fue el primer emperador de Roma?",
+  "correct": "Augusto",
+  "distractors": [
+   "Julio César",
+   "Nerón",
+   "Trajano"
+  ],
+  "justification": "Octavio recibió el título de Augusto en el 27 a. C. y fundó el Principado."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué año terminó la Segunda Guerra Mundial en Europa?",
+  "correct": "1945",
+  "distractors": [
+   "1943",
+   "1944",
+   "1947"
+  ],
+  "justification": "Alemania se rindió incondicionalmente en mayo de 1945."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Qué monarcas son conocidos como los Reyes Católicos?",
+  "correct": "Isabel I de Castilla y Fernando II de Aragón",
+  "distractors": [
+   "Carlos I y Juana I de Castilla",
+   "Felipe II y María Tudor",
+   "Alfonso X y Violante de Aragón"
+  ],
+  "justification": "El papa Alejandro VI les concedió ese título en 1496."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué batalla fue derrotado definitivamente Napoleón en 1815?",
+  "correct": "Waterloo",
+  "distractors": [
+   "Austerlitz",
+   "Leipzig",
+   "Trafalgar"
+  ],
+  "justification": "Waterloo se libró el 18 de junio de 1815 y precedió a su segundo exilio."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Qué dictador gobernó España desde el final de la Guerra Civil hasta 1975?",
+  "correct": "Francisco Franco",
+  "distractors": [
+   "Miguel Primo de Rivera",
+   "Manuel Azaña",
+   "Dámaso Berenguer"
+  ],
+  "justification": "Franco gobernó hasta su muerte el 20 de noviembre de 1975."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué año triunfó la Revolución bolchevique en Rusia?",
+  "correct": "1917",
+  "distractors": [
+   "1905",
+   "1914",
+   "1922"
+  ],
+  "justification": "La toma del poder bolchevique en Petrogrado fue en octubre (noviembre en el calendario gregoriano) de 1917."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Qué ciudad romana quedó sepultada por la erupción del Vesubio en el año 79?",
+  "correct": "Pompeya",
+  "distractors": [
+   "Cartago",
+   "Ostia",
+   "Tarento"
+  ],
+  "justification": "Plinio el Joven describió la erupción que sepultó Pompeya y Herculano."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Qué civilización construyó el Partenón de Atenas?",
+  "correct": "La griega",
+  "distractors": [
+   "La etrusca",
+   "La romana",
+   "La fenicia"
+  ],
+  "justification": "Se edificó en el siglo V a. C., bajo Pericles, en la Acrópolis de Atenas."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Cómo se llamó el último reino musulmán de la península ibérica, conquistado en 1492?",
+  "correct": "Reino nazarí de Granada",
+  "distractors": [
+   "Califato de Córdoba",
+   "Reino de Taifas de Sevilla",
+   "Imperio almohade"
+  ],
+  "justification": "Granada se rindió a los Reyes Católicos el 2 de enero de 1492."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Quién se coronó emperador de los franceses en 1804?",
+  "correct": "Napoleón Bonaparte",
+  "distractors": [
+   "Luis XVI",
+   "Carlos X",
+   "Luis Felipe de Orleans"
+  ],
+  "justification": "Napoleón se coronó a sí mismo en Notre Dame el 2 de diciembre de 1804."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿En qué año fue coronado Carlomagno como emperador?",
+  "correct": "800",
+  "distractors": [
+   "476",
+   "962",
+   "1066"
+  ],
+  "justification": "El papa León III lo coronó en Roma el día de Navidad del año 800."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Qué país encabezó Adolf Hitler como canciller y Führer?",
+  "correct": "Alemania",
+  "distractors": [
+   "Austria",
+   "Italia",
+   "Polonia"
+  ],
+  "justification": "Hitler fue canciller alemán desde 1933 y Führer desde 1934."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "easy",
+  "question": "¿Contra qué país envió Felipe II la llamada Armada Invencible en 1588?",
+  "correct": "Inglaterra",
+  "distractors": [
+   "Francia",
+   "Países Bajos",
+   "Portugal"
+  ],
+  "justification": "La flota buscaba invadir Inglaterra durante el reinado de Isabel I."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿En qué siglo se extendió por Europa la peste negra?",
+  "correct": "En el siglo XIV",
+  "distractors": [
+   "En el siglo XII",
+   "En el siglo XVI",
+   "En el siglo X"
+  ],
+  "justification": "La epidemia llegó a Europa en 1347 y mató a entre un tercio y la mitad de la población."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué conflicto terminó con la Paz de Westfalia en 1648?",
+  "correct": "La Guerra de los Treinta Años",
+  "distractors": [
+   "La Guerra de los Cien Años",
+   "La Guerra de Sucesión Española",
+   "La Guerra de los Siete Años"
+  ],
+  "justification": "Los tratados de Münster y Osnabrück cerraron la guerra iniciada en 1618."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué dinastía llegó al trono de España tras la muerte de Carlos II?",
+  "correct": "La dinastía Borbón",
+  "distractors": [
+   "La dinastía Trastámara",
+   "La dinastía Saboya",
+   "La dinastía Habsburgo"
+  ],
+  "justification": "Felipe de Anjou, nieto de Luis XIV, reinó como Felipe V desde 1700."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué personaje derrotado se buscó contener con el Congreso de Viena de 1814 y 1815?",
+  "correct": "Napoleón Bonaparte",
+  "distractors": [
+   "Luis XIV",
+   "Federico el Grande",
+   "Pedro el Grande"
+  ],
+  "justification": "El Congreso reorganizó Europa tras la caída del imperio napoleónico."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿En qué año se libró la batalla de Hastings?",
+  "correct": "1066",
+  "distractors": [
+   "1086",
+   "1215",
+   "1016"
+  ],
+  "justification": "Guillermo de Normandía venció al rey Haroldo II el 14 de octubre de 1066."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Quién sucedió a Carlos I como rey de España en 1556?",
+  "correct": "Felipe II",
+  "distractors": [
+   "Felipe III",
+   "Fernando I",
+   "Juan de Austria"
+  ],
+  "justification": "Carlos I abdicó en Bruselas en enero de 1556 a favor de su hijo Felipe."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué estableció el Edicto de Milán del año 313?",
+  "correct": "La tolerancia hacia el cristianismo en el Imperio romano",
+  "distractors": [
+   "La división del Imperio en dos mitades",
+   "La prohibición de los cultos paganos",
+   "El traslado de la capital a Constantinopla"
+  ],
+  "justification": "Constantino y Licinio concedieron libertad de culto, lo que puso fin a las persecuciones."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué tratado de 1713 puso fin a la Guerra de Sucesión Española en buena parte?",
+  "correct": "El Tratado de Utrecht",
+  "distractors": [
+   "El Tratado de Westfalia",
+   "El Tratado de Aquisgrán",
+   "El Tratado de Fontainebleau"
+  ],
+  "justification": "Utrecht reconoció a Felipe V y cedió Gibraltar y Menorca a Gran Bretaña."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Cómo se conoce popularmente la Constitución española de 1812?",
+  "correct": "La Pepa",
+  "distractors": [
+   "La Gloriosa",
+   "La Nonnata",
+   "La Restauración"
+  ],
+  "justification": "Se promulgó en Cádiz el 19 de marzo, día de San José, de ahí el apodo."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿En qué año se proclamó la Primera República española?",
+  "correct": "1873",
+  "distractors": [
+   "1868",
+   "1812",
+   "1931"
+  ],
+  "justification": "Tras la abdicación de Amadeo de Saboya, las Cortes proclamaron la República el 11 de febrero de 1873."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿A qué país se impusieron principalmente las condiciones del Tratado de Versalles de 1919?",
+  "correct": "Alemania",
+  "distractors": [
+   "Austria",
+   "Turquía",
+   "Rusia"
+  ],
+  "justification": "El tratado le atribuyó la responsabilidad de la guerra, reparaciones y pérdidas territoriales."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Contra qué se alzó el pueblo de Madrid el 2 de mayo de 1808?",
+  "correct": "Contra la ocupación francesa",
+  "distractors": [
+   "Contra el rey Carlos IV",
+   "Contra la Inquisición",
+   "Contra la Constitución de Cádiz"
+  ],
+  "justification": "El levantamiento fue el inicio de la Guerra de la Independencia española."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué hecho de 1517 suele considerarse el inicio de la Reforma protestante?",
+  "correct": "La publicación de las 95 tesis de Lutero",
+  "distractors": [
+   "La excomunión de Enrique VIII",
+   "La Dieta de Worms",
+   "La fundación de la Compañía de Jesús"
+  ],
+  "justification": "Martín Lutero difundió sus tesis contra las indulgencias en Wittenberg."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿En qué año cayó Constantinopla en manos del Imperio otomano?",
+  "correct": "1453",
+  "distractors": [
+   "1204",
+   "1389",
+   "1492"
+  ],
+  "justification": "Mehmed II tomó la ciudad el 29 de mayo de 1453 y puso fin al Imperio bizantino."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué dos países firmaron el pacto de no agresión de agosto de 1939 con un protocolo secreto de reparto de Europa oriental?",
+  "correct": "Alemania y la Unión Soviética",
+  "distractors": [
+   "Alemania e Italia",
+   "Francia y Gran Bretaña",
+   "Italia y la Unión Soviética"
+  ],
+  "justification": "El pacto Ribbentrop-Mólotov se firmó en Moscú el 23 de agosto de 1939."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿En qué año se suele fechar la caída del Imperio romano de Occidente?",
+  "correct": "476",
+  "distractors": [
+   "410",
+   "395",
+   "527"
+  ],
+  "justification": "Odoacro depuso al emperador Rómulo Augústulo en el 476."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿A qué reina destronó la revolución española de 1868, llamada La Gloriosa?",
+  "correct": "Isabel II",
+  "distractors": [
+   "María Cristina de Borbón",
+   "Victoria Eugenia",
+   "Mariana de Austria"
+  ],
+  "justification": "Isabel II marchó al exilio en septiembre de 1868."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Contra qué potencia combatió la Liga Santa en la batalla de Lepanto de 1571?",
+  "correct": "El Imperio otomano",
+  "distractors": [
+   "El Imperio mogol",
+   "El Sacro Imperio Romano Germánico",
+   "El Reino de Francia"
+  ],
+  "justification": "La flota cristiana, al mando de don Juan de Austria, venció a la armada turca."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué ciudad fue el principal objetivo de la Primera Cruzada, conquistada en 1099?",
+  "correct": "Jerusalén",
+  "distractors": [
+   "Constantinopla",
+   "Damasco",
+   "El Cairo"
+  ],
+  "justification": "Los cruzados tomaron Jerusalén el 15 de julio de 1099."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "medium",
+  "question": "¿Qué dos reinos se enfrentaron en la Guerra de los Cien Años?",
+  "correct": "Inglaterra y Francia",
+  "distractors": [
+   "Castilla y Aragón",
+   "Francia y el Sacro Imperio",
+   "Inglaterra y Escocia"
+  ],
+  "justification": "El conflicto dinástico enfrentó a las casas de Plantagenet y Valois."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué tratado de 1659 puso fin a la guerra entre España y Francia y cedió el Rosellón a Francia?",
+  "correct": "El Tratado de los Pirineos",
+  "distractors": [
+   "El Tratado de Utrecht",
+   "El Tratado de Cateau-Cambrésis",
+   "El Tratado de Vervins"
+  ],
+  "justification": "Se firmó en la isla de los Faisanes y selló el matrimonio de Luis XIV con María Teresa."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Quién fue elegido rey de la Corona de Aragón en el Compromiso de Caspe de 1412?",
+  "correct": "Fernando de Antequera",
+  "distractors": [
+   "Alfonso el Magnánimo",
+   "Jaime de Urgel",
+   "Juan II de Navarra"
+  ],
+  "justification": "Los compromisarios eligieron al infante castellano Fernando, de la casa Trastámara."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué principio estableció la Paz de Augsburgo de 1555 en el Sacro Imperio?",
+  "correct": "Cada príncipe decidía la religión de sus territorios",
+  "distractors": [
+   "Libertad de culto individual en todo el Imperio",
+   "La prohibición del luteranismo",
+   "La unión de católicos y luteranos en una sola Iglesia"
+  ],
+  "justification": "Se resumió en la fórmula cuius regio, eius religio, aplicada a católicos y luteranos."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿En qué lugar se proclamó el Imperio alemán en 1871?",
+  "correct": "En el Palacio de Versalles",
+  "distractors": [
+   "En Berlín",
+   "En Fráncfort",
+   "En Sedán"
+  ],
+  "justification": "Guillermo I fue proclamado káiser en la Galería de los Espejos el 18 de enero de 1871."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "Si la Guerra de los Cien Años se data entre 1337 y 1453, ¿cuántos años duró realmente?",
+  "correct": "116 años",
+  "distractors": [
+   "100 años",
+   "106 años",
+   "126 años"
+  ],
+  "justification": "1453 - 1337 = 116."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué tratado de 843 dividió el Imperio carolingio entre los nietos de Carlomagno?",
+  "correct": "El Tratado de Verdún",
+  "distractors": [
+   "El Tratado de Meerssen",
+   "El Tratado de Ribemont",
+   "El Tratado de Aquisgrán"
+  ],
+  "justification": "Verdún repartió el Imperio entre Lotario, Luis el Germánico y Carlos el Calvo."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué batalla de 1212 supuso el golpe decisivo de los reinos cristianos a los almohades?",
+  "correct": "Las Navas de Tolosa",
+  "distractors": [
+   "Alarcos",
+   "Clavijo",
+   "Guadalete"
+  ],
+  "justification": "Alfonso VIII de Castilla, con Aragón y Navarra, venció al califa almohade en Jaén."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué región checoslovaca fue cedida a Alemania por el Acuerdo de Múnich de 1938?",
+  "correct": "Los Sudetes",
+  "distractors": [
+   "Moravia",
+   "Eslovaquia",
+   "Rutenia"
+  ],
+  "justification": "Francia, Reino Unido, Italia y Alemania pactaron la cesión de los Sudetes sin consultar a Checoslovaquia."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Quién disputó el trono español a Felipe V en la Guerra de Sucesión?",
+  "correct": "El archiduque Carlos de Austria",
+  "distractors": [
+   "Luis de Borbón, el Gran Delfín",
+   "Víctor Amadeo de Saboya",
+   "Fernando de Baviera"
+  ],
+  "justification": "El archiduque Carlos, luego emperador Carlos VI, fue apoyado por la Gran Alianza."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué ciudad conquistó el Cid en 1094 tras un largo asedio?",
+  "correct": "Valencia",
+  "distractors": [
+   "Toledo",
+   "Zaragoza",
+   "Burgos"
+  ],
+  "justification": "Rodrigo Díaz de Vivar tomó Valencia y la gobernó hasta su muerte en 1099."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Con quiénes firmó la Rusia soviética el tratado de Brest-Litovsk en marzo de 1918?",
+  "correct": "Con las Potencias Centrales",
+  "distractors": [
+   "Con la Entente",
+   "Con Polonia y Finlandia",
+   "Con Estados Unidos"
+  ],
+  "justification": "Fue una paz separada con Alemania, Austria-Hungría, el Imperio otomano y Bulgaria."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Qué hecho desencadenó la Semana Trágica de Barcelona en 1909?",
+  "correct": "El envío de reservistas a la guerra de Marruecos",
+  "distractors": [
+   "La proclamación de la República",
+   "La pérdida de Cuba",
+   "El asesinato de un presidente del Gobierno"
+  ],
+  "justification": "La movilización de reservistas para Melilla provocó una huelga general y revueltas."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿En qué año ocurrió el Desastre de Annual, la derrota española en Marruecos?",
+  "correct": "1921",
+  "distractors": [
+   "1909",
+   "1898",
+   "1925"
+  ],
+  "justification": "Las tropas del general Silvestre fueron aplastadas por los rifeños de Abd el-Krim en julio de 1921."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió más tarde?",
+  "correct": "La batalla de Lepanto",
+  "distractors": [
+   "La caída de Constantinopla",
+   "La toma de Granada",
+   "El Tratado de Tordesillas"
+  ],
+  "justification": "Lepanto fue en 1571; los otros fueron en 1453, 1492 y 1494."
+ },
+ {
+  "category": "Historia de España y Europa",
+  "difficulty": "hard",
+  "question": "¿De qué fue falsamente acusado el capitán Alfred Dreyfus en 1894?",
+  "correct": "De pasar información militar a Alemania",
+  "distractors": [
+   "De desertar durante la guerra",
+   "De conspirar contra Napoleón III",
+   "De malversar fondos del ejército"
+  ],
+  "justification": "El caso Dreyfus dividió a Francia por una condena basada en pruebas falsas de espionaje."
+ }
+]

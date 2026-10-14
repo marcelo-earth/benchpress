@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué pueblo fundó la ciudad de Tenochtitlan en un islote del lago de Texcoco?",
+  "correct": "Los mexicas",
+  "distractors": [
+   "Los mayas",
+   "Los olmecas",
+   "Los zapotecas"
+  ],
+  "justification": "Los mexicas, también llamados aztecas, fundaron Tenochtitlan hacia 1325."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Cuál era la capital del Imperio inca?",
+  "correct": "Cusco",
+  "distractors": [
+   "Quito",
+   "Tiahuanaco",
+   "Cajamarca"
+  ],
+  "justification": "Cusco fue el centro político y religioso del Tahuantinsuyo."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la expedición que conquistó el Imperio azteca?",
+  "correct": "Hernán Cortés",
+  "distractors": [
+   "Francisco Pizarro",
+   "Pedro de Valdivia",
+   "Vasco Núñez de Balboa"
+  ],
+  "justification": "Cortés derrotó a los mexicas y tomó Tenochtitlan en 1521."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué prócer nacido en Caracas lideró las independencias de Venezuela, Colombia y Ecuador?",
+  "correct": "Simón Bolívar",
+  "distractors": [
+   "José de San Martín",
+   "Bernardo O'Higgins",
+   "Manuel Belgrano"
+  ],
+  "justification": "Bolívar nació en Caracas en 1783 y encabezó esas campañas libertadoras."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué año comenzó la guerra de independencia de México con el Grito de Dolores?",
+  "correct": "1810",
+  "distractors": [
+   "1789",
+   "1821",
+   "1836"
+  ],
+  "justification": "Miguel Hidalgo lanzó el Grito de Dolores el 16 de septiembre de 1810."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué año triunfó la Revolución bolchevique en Rusia?",
+  "correct": "1917",
+  "distractors": [
+   "1905",
+   "1923",
+   "1941"
+  ],
+  "justification": "Los bolcheviques tomaron el poder en octubre (calendario juliano) de 1917."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué líder impulsó la resistencia no violenta contra el dominio británico en India?",
+  "correct": "Mahatma Gandhi",
+  "distractors": [
+   "Jawaharlal Nehru",
+   "Muhammad Ali Jinnah",
+   "Subhas Chandra Bose"
+  ],
+  "justification": "Gandhi encabezó la desobediencia civil y la Marcha de la Sal de 1930."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué país del norte de África se construyeron las pirámides de Giza?",
+  "correct": "Egipto",
+  "distractors": [
+   "Libia",
+   "Sudán",
+   "Marruecos"
+  ],
+  "justification": "Las pirámides de Giza son del Egipto antiguo, junto a El Cairo."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿De qué país europeo se independizó Brasil en 1822?",
+  "correct": "Portugal",
+  "distractors": [
+   "España",
+   "Francia",
+   "Países Bajos"
+  ],
+  "justification": "Pedro I proclamó la independencia de Brasil respecto de Portugal en 1822."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué año triunfó la Revolución cubana liderada por Fidel Castro?",
+  "correct": "1959",
+  "distractors": [
+   "1948",
+   "1962",
+   "1973"
+  ],
+  "justification": "Batista huyó el 1 de enero de 1959 y los rebeldes tomaron el poder."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué civilización mesoamericana desarrolló una escritura jeroglífica y un calendario muy preciso en Yucatán, Guatemala y zonas vecinas?",
+  "correct": "La maya",
+  "distractors": [
+   "La inca",
+   "La tolteca",
+   "La chavín"
+  ],
+  "justification": "Los mayas escribieron en glifos y crearon el calendario de Cuenta Larga."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué país asiático se construyó la Gran Muralla?",
+  "correct": "China",
+  "distractors": [
+   "Japón",
+   "Mongolia",
+   "India"
+  ],
+  "justification": "La Gran Muralla se levantó y amplió en distintas dinastías chinas."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿En qué año llegó Cristóbal Colón por primera vez a América?",
+  "correct": "1492",
+  "distractors": [
+   "1453",
+   "1519",
+   "1588"
+  ],
+  "justification": "Colón llegó a las Bahamas el 12 de octubre de 1492."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué sistema de segregación racial institucionalizada rigió en Sudáfrica entre 1948 y 1994?",
+  "correct": "El apartheid",
+  "distractors": [
+   "El colonato",
+   "La negritud",
+   "El panafricanismo"
+  ],
+  "justification": "El apartheid fue instaurado por el Partido Nacional en 1948 y desmantelado en 1994."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "easy",
+  "question": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki en 1945?",
+  "correct": "Estados Unidos",
+  "distractors": [
+   "Unión Soviética",
+   "Reino Unido",
+   "Alemania"
+  ],
+  "justification": "Estados Unidos lanzó las bombas el 6 y el 9 de agosto de 1945."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué mariscal comandó al ejército patriota en la batalla de Ayacucho de 1824?",
+  "correct": "Antonio José de Sucre",
+  "distractors": [
+   "José de San Martín",
+   "Francisco de Paula Santander",
+   "José Antonio Páez"
+  ],
+  "justification": "Sucre venció al ejército realista en Ayacucho el 9 de diciembre de 1824."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Cómo se llamaba el sistema de cuerdas con nudos que usaban los incas para registrar datos?",
+  "correct": "Quipu",
+  "distractors": [
+   "Tocapu",
+   "Chasqui",
+   "Ayllu"
+  ],
+  "justification": "El quipu era un instrumento de cuerdas anudadas para contabilidad e información."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué sistema de trabajo rotativo obligatorio de origen inca fue readaptado por los españoles en las minas de Potosí?",
+  "correct": "La mita",
+  "distractors": [
+   "La encomienda",
+   "El yanaconazgo",
+   "El peonaje"
+  ],
+  "justification": "Los españoles adaptaron la mita incaica a la minería colonial."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué tratado puso fin en 1848 a la guerra entre México y Estados Unidos?",
+  "correct": "El Tratado de Guadalupe Hidalgo",
+  "distractors": [
+   "El Tratado de Ancón",
+   "El Tratado de Versalles",
+   "El Tratado de Utrecht"
+  ],
+  "justification": "México cedió California, Nuevo México y otros territorios por ese tratado."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué país perdió su salida al océano Pacífico a raíz de la guerra del Pacífico (1879 a 1884)?",
+  "correct": "Bolivia",
+  "distractors": [
+   "Perú",
+   "Ecuador",
+   "Paraguay"
+  ],
+  "justification": "Bolivia perdió el departamento de Litoral, que pasó a Chile."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué país se enfrentó a Brasil, Argentina y Uruguay en la guerra de la Triple Alianza?",
+  "correct": "Paraguay",
+  "distractors": [
+   "Bolivia",
+   "Chile",
+   "Perú"
+  ],
+  "justification": "La guerra (1864 a 1870) enfrentó a Paraguay con la Triple Alianza."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Quién convocó a las armas en 1910 con el Plan de San Luis, iniciando la Revolución mexicana?",
+  "correct": "Francisco I. Madero",
+  "distractors": [
+   "Emiliano Zapata",
+   "Venustiano Carranza",
+   "Pancho Villa"
+  ],
+  "justification": "Madero llamó al levantamiento el 20 de noviembre de 1910 contra Porfirio Díaz."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué continente fue repartido entre potencias europeas en la Conferencia de Berlín de 1884 y 1885?",
+  "correct": "África",
+  "distractors": [
+   "Asia",
+   "Oceanía",
+   "América del Sur"
+  ],
+  "justification": "La conferencia fijó las reglas de la partición colonial de África."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué territorio chino cedió a Gran Bretaña el Tratado de Nankín de 1842?",
+  "correct": "La isla de Hong Kong",
+  "distractors": [
+   "Macao",
+   "Taiwán",
+   "Shanghái"
+  ],
+  "justification": "El tratado cerró la primera guerra del Opio con la cesión de Hong Kong."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Cómo se llama el proceso de modernización iniciado en 1868 que puso fin al shogunato en Japón?",
+  "correct": "Restauración Meiji",
+  "distractors": [
+   "Reforma Taika",
+   "Período Sengoku",
+   "Era Tokugawa"
+  ],
+  "justification": "La Restauración Meiji devolvió el poder efectivo al emperador en 1868."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué dos Estados surgieron de la partición de la India británica en 1947?",
+  "correct": "India y Pakistán",
+  "distractors": [
+   "India y Bangladés",
+   "India y Sri Lanka",
+   "Pakistán y Afganistán"
+  ],
+  "justification": "Bangladés se separó de Pakistán recién en 1971."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿En qué país se celebró en 1955 la conferencia de naciones afroasiáticas que impulsó el no alineamiento?",
+  "correct": "Indonesia",
+  "distractors": [
+   "India",
+   "Egipto",
+   "Japón"
+  ],
+  "justification": "La Conferencia de Bandung se realizó en esa ciudad de Java Occidental."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué líder nacionalizó el canal de Suez en 1956?",
+  "correct": "Gamal Abdel Nasser",
+  "distractors": [
+   "Anwar el Sadat",
+   "Hosni Mubarak",
+   "Muamar el Gadafi"
+  ],
+  "justification": "Nasser anunció la nacionalización el 26 de julio de 1956."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué virreinato se creó en 1776 con capital en Buenos Aires?",
+  "correct": "El Virreinato del Río de la Plata",
+  "distractors": [
+   "El Virreinato de Nueva Granada",
+   "El Virreinato del Perú",
+   "El Virreinato de Nueva España"
+  ],
+  "justification": "Carlos III lo creó en 1776 por las reformas borbónicas."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué conflicto de 1898 llevó a España a perder Cuba, Puerto Rico y Filipinas?",
+  "correct": "La guerra hispano-estadounidense",
+  "distractors": [
+   "La guerra de los Diez Años",
+   "La guerra de la Triple Alianza",
+   "La guerra de Sucesión"
+  ],
+  "justification": "El Tratado de París de 1898 transfirió esos territorios."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué presidente de Estados Unidos proclamó en 1823 una doctrina contra la nueva colonización europea en América?",
+  "correct": "James Monroe",
+  "distractors": [
+   "Thomas Jefferson",
+   "Andrew Jackson",
+   "Abraham Lincoln"
+  ],
+  "justification": "La doctrina Monroe fue anunciada en su mensaje al Congreso de 1823."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la crisis de los misiles en Cuba?",
+  "correct": "1962",
+  "distractors": [
+   "1959",
+   "1961",
+   "1965"
+  ],
+  "justification": "La crisis se desató en octubre de 1962."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué nieto de Gengis Kan fundó la dinastía Yuan en China?",
+  "correct": "Kublai Kan",
+  "distractors": [
+   "Tamerlán",
+   "Ogodei Kan",
+   "Batu Kan"
+  ],
+  "justification": "Kublai proclamó la dinastía Yuan en 1271."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿En qué año proclamó Mao Zedong la República Popular China?",
+  "correct": "1949",
+  "distractors": [
+   "1937",
+   "1945",
+   "1958"
+  ],
+  "justification": "Mao la proclamó en la plaza de Tiananmen el 1 de octubre de 1949."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "medium",
+  "question": "¿Qué país africano, antes llamado Costa de Oro, se independizó en 1957 bajo Kwame Nkrumah?",
+  "correct": "Ghana",
+  "distractors": [
+   "Nigeria",
+   "Senegal",
+   "Sierra Leona"
+  ],
+  "justification": "Ghana fue colonia británica de la Costa de Oro hasta 1957."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "Francisco Pizarro capturó a Atahualpa en Cajamarca en 1532. ¿Cuántos años pasaron hasta 1821, cuando San Martín proclamó la independencia del Perú?",
+  "correct": "289",
+  "distractors": [
+   "279",
+   "299",
+   "309"
+  ],
+  "justification": "1821 menos 1532 es igual a 289."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué cultura andina levantó la ciudad de Tiahuanaco, cerca del lago Titicaca?",
+  "correct": "Tiwanaku",
+  "distractors": [
+   "Chimú",
+   "Nazca",
+   "Moche"
+  ],
+  "justification": "Tiwanaku floreció en el altiplano boliviano mucho antes de los incas."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué ciudad fue la capital del Imperio chimú, conquistado por los incas hacia 1470?",
+  "correct": "Chan Chan",
+  "distractors": [
+   "Caral",
+   "Chavín de Huántar",
+   "Kuélap"
+  ],
+  "justification": "Chan Chan, cerca de Trujillo, fue la capital chimú."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué movimiento de 1781 en el virreinato de Nueva Granada protestó contra nuevos impuestos y tuvo origen en la ciudad del Socorro?",
+  "correct": "La rebelión de los Comuneros",
+  "distractors": [
+   "La conspiración de los Pasquines",
+   "La rebelión de los Machetes",
+   "La revuelta de los Rotos"
+  ],
+  "justification": "La rebelión comunera estalló en el Socorro en marzo de 1781."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué reunión convocada por Bolívar en 1826 buscaba una confederación de las nuevas repúblicas hispanoamericanas?",
+  "correct": "El Congreso Anfictiónico de Panamá",
+  "distractors": [
+   "El Congreso de Angostura",
+   "El Congreso de Tucumán",
+   "El Congreso de Cúcuta"
+  ],
+  "justification": "Bolívar lo convocó en Panamá, aunque tuvo pocos resultados."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿En qué año se promulgó la Constitución de Cádiz, que también rigió en los territorios americanos de España?",
+  "correct": "1812",
+  "distractors": [
+   "1808",
+   "1810",
+   "1814"
+  ],
+  "justification": "Las Cortes de Cádiz la promulgaron el 19 de marzo de 1812."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué país fue el último de América en abolir la esclavitud, con la Ley Áurea de 1888?",
+  "correct": "Brasil",
+  "distractors": [
+   "Cuba",
+   "Estados Unidos",
+   "Venezuela"
+  ],
+  "justification": "Cuba la abolió en 1886 y Brasil en 1888."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué ciudad fue sede del Congreso Constituyente que redactó la Constitución mexicana de 1917?",
+  "correct": "Querétaro",
+  "distractors": [
+   "Ciudad de México",
+   "Guadalajara",
+   "Veracruz"
+  ],
+  "justification": "El Constituyente sesionó en el Teatro de la República de Querétaro."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Quién lideró la rebelión Taiping en China, proclamándose hermano menor de Jesucristo?",
+  "correct": "Hong Xiuquan",
+  "distractors": [
+   "Sun Yat-sen",
+   "Lin Zexu",
+   "Zeng Guofan"
+  ],
+  "justification": "Hong Xiuquan fundó el Reino Celestial Taiping en 1851."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué institución fue disuelta tras la rebelión de los cipayos de 1857, pasando India al gobierno directo de la Corona británica?",
+  "correct": "La Compañía de las Indias Orientales",
+  "distractors": [
+   "La Compañía de la Bahía de Hudson",
+   "La Compañía Británica de Sudáfrica",
+   "La Compañía Holandesa de Ceilán"
+  ],
+  "justification": "La Ley de 1858 transfirió su poder a la Corona."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué gobernante del Imperio de Malí hizo en 1324 una célebre peregrinación a La Meca, famosa por su oro?",
+  "correct": "Mansa Musa",
+  "distractors": [
+   "Sundiata Keita",
+   "Sonni Ali",
+   "Askia Mohamed"
+  ],
+  "justification": "Mansa Musa repartió tanto oro en El Cairo que afectó su valor."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué batalla de 1896 aseguró la independencia de Etiopía frente a la invasión italiana?",
+  "correct": "Adúa",
+  "distractors": [
+   "Omdurmán",
+   "Isandlwana",
+   "Magdala"
+  ],
+  "justification": "Menelik II derrotó a Italia en Adúa el 1 de marzo de 1896."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿Qué batalla naval de 1905 destruyó casi por completo a la flota rusa del Báltico en la guerra ruso-japonesa?",
+  "correct": "Tsushima",
+  "distractors": [
+   "Port Arthur",
+   "Yalu",
+   "Mukden"
+  ],
+  "justification": "El almirante Togo venció a la flota rusa en el estrecho de Tsushima."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿En qué año abolió Mustafa Kemal Atatürk el califato en Turquía?",
+  "correct": "1924",
+  "distractors": [
+   "1922",
+   "1919",
+   "1923"
+  ],
+  "justification": "El sultanato cayó en 1922, la república se proclamó en 1923 y el califato se abolió en 1924."
+ },
+ {
+  "category": "Historia de Latinoamérica y del mundo",
+  "difficulty": "hard",
+  "question": "¿En qué año abdicó Puyi, el último emperador de China?",
+  "correct": "1912",
+  "distractors": [
+   "1911",
+   "1905",
+   "1949"
+  ],
+  "justification": "Puyi abdicó el 12 de febrero de 1912 tras la revolución Xinhai."
+ }
+]

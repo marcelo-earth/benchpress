@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Qué estado de la materia tiene forma y volumen propios y definidos?",
+  "correct": "Sólido",
+  "distractors": [
+   "Líquido",
+   "Gaseoso",
+   "Plasma"
+  ],
+  "justification": "Los sólidos conservan su forma y su volumen, a diferencia de líquidos y gases."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es el símbolo químico del sodio?",
+  "correct": "Na",
+  "distractors": [
+   "So",
+   "Sd",
+   "S"
+  ],
+  "justification": "El símbolo Na proviene del latín natrium."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿A qué temperatura hierve el agua pura a nivel del mar?",
+  "correct": "100 °C",
+  "distractors": [
+   "90 °C",
+   "80 °C",
+   "120 °C"
+  ],
+  "justification": "La escala Celsius se define con el punto de ebullición del agua a 100 °C a 1 atm."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+  "correct": "Newton",
+  "distractors": [
+   "Julio",
+   "Pascal",
+   "Vatio"
+  ],
+  "justification": "El newton (N) es la unidad SI de fuerza, igual a kg·m/s²."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+  "correct": "Nitrógeno",
+  "distractors": [
+   "Oxígeno",
+   "Dióxido de carbono",
+   "Argón"
+  ],
+  "justification": "El aire seco contiene cerca de 78 % de nitrógeno."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama el paso de un líquido a gas?",
+  "correct": "Vaporización",
+  "distractors": [
+   "Fusión",
+   "Solidificación",
+   "Condensación"
+  ],
+  "justification": "La vaporización es el cambio de estado líquido a gaseoso."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es el elemento químico más ligero?",
+  "correct": "Hidrógeno",
+  "distractors": [
+   "Helio",
+   "Litio",
+   "Oxígeno"
+  ],
+  "justification": "El hidrógeno tiene número atómico 1 y es el elemento de menor masa."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Qué tipo de lente hace converger los rayos de luz paralelos en un punto?",
+  "correct": "Convexa",
+  "distractors": [
+   "Cóncava",
+   "Plana",
+   "Opaca"
+  ],
+  "justification": "Una lente convexa (convergente) concentra los rayos paralelos en su foco."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es el símbolo químico del hierro?",
+  "correct": "Fe",
+  "distractors": [
+   "Ir",
+   "Hi",
+   "Fr"
+  ],
+  "justification": "Fe viene del latín ferrum."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál de estos materiales es buen conductor de la electricidad?",
+  "correct": "Cobre",
+  "distractors": [
+   "Vidrio",
+   "Madera seca",
+   "Caucho"
+  ],
+  "justification": "Los metales como el cobre tienen electrones libres que conducen la corriente."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "Si acercas dos imanes por polos iguales, ¿qué ocurre?",
+  "correct": "Se repelen",
+  "distractors": [
+   "Se atraen",
+   "No interactúan",
+   "Se funden"
+  ],
+  "justification": "Polos magnéticos iguales se repelen y polos distintos se atraen."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad de energía en el Sistema Internacional?",
+  "correct": "Julio",
+  "distractors": [
+   "Newton",
+   "Vatio",
+   "Voltio"
+  ],
+  "justification": "El julio (J) es la unidad SI de energía y trabajo."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Qué partícula del átomo tiene carga eléctrica negativa?",
+  "correct": "Electrón",
+  "distractors": [
+   "Protón",
+   "Neutrón",
+   "Quark arriba"
+  ],
+  "justification": "Los electrones tienen carga negativa; los protones positiva y los neutrones son neutros."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Qué ocurre cuando la luz blanca atraviesa un prisma de vidrio?",
+  "correct": "Se descompone en colores",
+  "distractors": [
+   "Se vuelve más intensa",
+   "Se convierte en sonido",
+   "Desaparece por completo"
+  ],
+  "justification": "Cada color se refracta con distinto ángulo y se produce el espectro."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "easy",
+  "question": "¿Cuál es la fórmula química de la sal de mesa?",
+  "correct": "NaCl",
+  "distractors": [
+   "KCl",
+   "NaOH",
+   "CaCO3"
+  ],
+  "justification": "La sal común es cloruro de sodio, NaCl."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Un coche parte del reposo y alcanza 20 m/s en 5 s con aceleración constante. ¿Cuál es su aceleración?",
+  "correct": "4 m/s²",
+  "distractors": [
+   "5 m/s²",
+   "100 m/s²",
+   "0,25 m/s²"
+  ],
+  "justification": "a = Δv/Δt = 20/5 = 4 m/s²."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Por una resistencia de 4 Ω circula una corriente al aplicar 12 V. ¿Cuál es la intensidad?",
+  "correct": "3 A",
+  "distractors": [
+   "48 A",
+   "8 A",
+   "0,33 A"
+  ],
+  "justification": "Ley de Ohm: I = V/R = 12/4 = 3 A."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Un aparato de 60 W funciona durante 2 horas. ¿Cuánta energía consume?",
+  "correct": "0,12 kWh",
+  "distractors": [
+   "1,2 kWh",
+   "0,03 kWh",
+   "30 kWh"
+  ],
+  "justification": "E = 0,060 kW × 2 h = 0,12 kWh."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál es la masa molar del dióxido de carbono (CO2), con C = 12 y O = 16 g/mol?",
+  "correct": "44 g/mol",
+  "distractors": [
+   "28 g/mol",
+   "32 g/mol",
+   "56 g/mol"
+  ],
+  "justification": "12 + 2 × 16 = 44 g/mol."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "En la reacción 2 H2 + O2 → 2 H2O, ¿cuántos moles de agua se obtienen a partir de 3 moles de O2 con H2 en exceso?",
+  "correct": "6 mol",
+  "distractors": [
+   "3 mol",
+   "1,5 mol",
+   "12 mol"
+  ],
+  "justification": "Por cada mol de O2 se forman 2 mol de H2O, así que 3 mol dan 6 mol."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál es la energía cinética de un cuerpo de 2 kg que se mueve a 3 m/s?",
+  "correct": "9 J",
+  "distractors": [
+   "6 J",
+   "18 J",
+   "3 J"
+  ],
+  "justification": "Ec = ½ · 2 · 3² = 9 J."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál de estos elementos es un gas noble?",
+  "correct": "Argón",
+  "distractors": [
+   "Cloro",
+   "Nitrógeno",
+   "Flúor"
+  ],
+  "justification": "El argón pertenece al grupo 18, el de los gases nobles."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Un rayo de luz pasa del aire al agua con cierto ángulo de incidencia. ¿Qué ocurre con su dirección?",
+  "correct": "Se acerca a la normal",
+  "distractors": [
+   "Se aleja de la normal",
+   "No cambia de dirección",
+   "Se refleja siempre por completo"
+  ],
+  "justification": "Al entrar a un medio de mayor índice de refracción, el rayo se acerca a la normal (ley de Snell)."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuánto calor se necesita para elevar 10 °C la temperatura de 2 kg de agua? (c = 4,2 kJ/(kg·°C))",
+  "correct": "84 kJ",
+  "distractors": [
+   "8,4 kJ",
+   "42 kJ",
+   "840 kJ"
+  ],
+  "justification": "Q = m·c·ΔT = 2 × 4,2 × 10 = 84 kJ."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál es la resistencia equivalente de dos resistencias de 3 Ω y 6 Ω conectadas en paralelo?",
+  "correct": "2 Ω",
+  "distractors": [
+   "9 Ω",
+   "4,5 Ω",
+   "18 Ω"
+  ],
+  "justification": "1/R = 1/3 + 1/6 = 1/2, entonces R = 2 Ω."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Según la tercera ley de Newton, la fuerza de acción y la de reacción:",
+  "correct": "Actúan sobre cuerpos distintos",
+  "distractors": [
+   "Se anulan sobre el mismo cuerpo",
+   "Tienen distinta magnitud",
+   "Actúan en la misma dirección y sentido"
+  ],
+  "justification": "Son iguales en magnitud y opuestas, pero aplicadas a cuerpos diferentes, por eso no se cancelan."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Una disolución tiene pH 3 y otra pH 5. ¿Cuántas veces mayor es la concentración de iones H⁺ en la de pH 3?",
+  "correct": "100 veces",
+  "distractors": [
+   "2 veces",
+   "10 veces",
+   "1000 veces"
+  ],
+  "justification": "El pH es logarítmico: una diferencia de 2 unidades equivale a 10² = 100 veces."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál es la energía potencial gravitatoria de una masa de 5 kg a 10 m de altura? (g = 10 m/s²)",
+  "correct": "500 J",
+  "distractors": [
+   "50 J",
+   "250 J",
+   "5000 J"
+  ],
+  "justification": "Ep = m·g·h = 5 × 10 × 10 = 500 J."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cómo se llama el paso directo de sólido a gas sin pasar por líquido?",
+  "correct": "Sublimación",
+  "distractors": [
+   "Deposición",
+   "Ebullición",
+   "Licuefacción"
+  ],
+  "justification": "El hielo seco (CO2 sólido) sublima a presión atmosférica."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Qué productos se obtienen al neutralizar ácido clorhídrico (HCl) con hidróxido de sodio (NaOH)?",
+  "correct": "Cloruro de sodio y agua",
+  "distractors": [
+   "Cloro e hidrógeno",
+   "Sodio y ácido hipocloroso",
+   "Cloruro de sodio e hidrógeno"
+  ],
+  "justification": "HCl + NaOH → NaCl + H2O."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Un objeto de 200 g ocupa un volumen de 50 cm³. ¿Cuál es su densidad?",
+  "correct": "4 g/cm³",
+  "distractors": [
+   "0,25 g/cm³",
+   "10 g/cm³",
+   "150 g/cm³"
+  ],
+  "justification": "ρ = m/V = 200/50 = 4 g/cm³."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Cuál es el valor aproximado de la velocidad de la luz en el vacío?",
+  "correct": "300 000 km/s",
+  "distractors": [
+   "3000 km/s",
+   "30 000 km/s",
+   "3 000 000 km/s"
+  ],
+  "justification": "c ≈ 3 × 10⁸ m/s = 300 000 km/s."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Qué tipo de enlace predomina en el cloruro de sodio sólido?",
+  "correct": "Iónico",
+  "distractors": [
+   "Covalente apolar",
+   "Metálico",
+   "Puentes de hidrógeno"
+  ],
+  "justification": "Se forma por atracción entre iones Na⁺ y Cl⁻."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "Un objeto se coloca frente a un espejo cóncavo más allá de su centro de curvatura. ¿Cómo es la imagen?",
+  "correct": "Real, invertida y más pequeña",
+  "distractors": [
+   "Virtual, derecha y mayor",
+   "Real, invertida y mayor",
+   "Virtual, derecha y más pequeña"
+  ],
+  "justification": "Para un objeto más lejos que C, la imagen se forma entre F y C, real, invertida y reducida."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "medium",
+  "question": "¿Qué presión ejerce una fuerza de 200 N repartida uniformemente sobre 0,5 m²?",
+  "correct": "400 Pa",
+  "distractors": [
+   "100 Pa",
+   "40 Pa",
+   "4000 Pa"
+  ],
+  "justification": "P = F/A = 200/0,5 = 400 Pa."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Una piedra lanzada verticalmente hacia arriba llega a su punto más alto. Sin rozamiento, ¿cuál es su aceleración en ese instante?",
+  "correct": "9,8 m/s² hacia abajo",
+  "distractors": [
+   "Cero",
+   "9,8 m/s² hacia arriba",
+   "Depende de la velocidad inicial"
+  ],
+  "justification": "Solo actúa la gravedad, así que la aceleración es g hacia abajo durante todo el vuelo, aunque la velocidad sea cero en el punto más alto."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Una bombilla es de resistencia fija. Si se duplica el voltaje aplicado, ¿cómo cambia la potencia que disipa?",
+  "correct": "Se multiplica por 4",
+  "distractors": [
+   "Se duplica",
+   "Se mantiene igual",
+   "Se multiplica por 8"
+  ],
+  "justification": "P = V²/R, así que al duplicar V la potencia se multiplica por 4."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Se hacen reaccionar 4 g de H2 con 32 g de O2 (H = 1, O = 16) según 2 H2 + O2 → 2 H2O. ¿Cuánta agua se forma como máximo?",
+  "correct": "36 g",
+  "distractors": [
+   "18 g",
+   "54 g",
+   "72 g"
+  ],
+  "justification": "Hay 2 mol de H2 y 1 mol de O2; el O2 es limitante y produce 2 mol de agua, 2 × 18 = 36 g."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Un cubo de hielo flota en un vaso de agua lleno hasta el borde. Al derretirse por completo, el agua:",
+  "correct": "No se desborda",
+  "distractors": [
+   "Se desborda un poco",
+   "Baja de nivel",
+   "Se desborda mucho"
+  ],
+  "justification": "El hielo desplaza un volumen de agua con la misma masa que él, igual al volumen que ocupa como agua líquida, así que el nivel no cambia."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "¿Por qué el agua hierve a menos de 100 °C en la cima de una montaña alta?",
+  "correct": "Porque la presión atmosférica es menor",
+  "distractors": [
+   "Porque hay menos oxígeno en el aire",
+   "Porque el agua allí es más pura",
+   "Porque la gravedad es mucho menor"
+  ],
+  "justification": "El agua hierve cuando su presión de vapor iguala la presión externa, que disminuye con la altura."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "¿Cuántos átomos hay aproximadamente en 18 g de agua? (H = 1, O = 16; número de Avogadro 6,02 × 10²³)",
+  "correct": "1,8 × 10²⁴",
+  "distractors": [
+   "6,0 × 10²³",
+   "5,4 × 10²⁴",
+   "3,6 × 10²⁴"
+  ],
+  "justification": "18 g son 1 mol de moléculas, y cada una tiene 3 átomos: 3 × 6,02 × 10²³ ≈ 1,8 × 10²⁴."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "En la tabla periódica, ¿cómo varía en general el radio atómico a lo largo de un periodo, de izquierda a derecha?",
+  "correct": "Disminuye",
+  "distractors": [
+   "Aumenta",
+   "Se mantiene constante",
+   "Aumenta y luego disminuye"
+  ],
+  "justification": "La carga nuclear efectiva crece con el número atómico y contrae la nube electrónica."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Un gas ideal se comprime lentamente a temperatura constante. ¿Qué ocurre con su energía interna?",
+  "correct": "No cambia",
+  "distractors": [
+   "Aumenta",
+   "Disminuye",
+   "Se duplica siempre"
+  ],
+  "justification": "La energía interna de un gas ideal depende solo de la temperatura, que es constante."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Si se cuadruplica la longitud de un péndulo simple (oscilaciones pequeñas), su periodo:",
+  "correct": "Se duplica",
+  "distractors": [
+   "Se cuadruplica",
+   "Se reduce a la mitad",
+   "No cambia"
+  ],
+  "justification": "T = 2π√(L/g), así que al multiplicar L por 4 el periodo se multiplica por 2."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "¿Cuál es la eficiencia máxima de una máquina térmica que opera entre 600 K y 300 K?",
+  "correct": "50 %",
+  "distractors": [
+   "25 %",
+   "100 %",
+   "200 %"
+  ],
+  "justification": "Carnot: η = 1 − Tf/Tc = 1 − 300/600 = 0,5."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos iones tiene la misma configuración electrónica que el argón?",
+  "correct": "Ca²⁺",
+  "distractors": [
+   "Na⁺",
+   "O²⁻",
+   "Li⁺"
+  ],
+  "justification": "Ca²⁺ tiene 18 electrones, como el Ar; Na⁺ y O²⁻ tienen 10 y Li⁺ tiene 2."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Una onda sonora pasa del aire al agua. ¿Qué magnitud permanece igual?",
+  "correct": "La frecuencia",
+  "distractors": [
+   "La velocidad",
+   "La longitud de onda",
+   "La amplitud de presión"
+  ],
+  "justification": "La frecuencia la fija la fuente; velocidad y longitud de onda cambian con el medio."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Al balancear C3H8 + O2 → CO2 + H2O con los menores enteros, ¿cuál es el coeficiente del O2?",
+  "correct": "5",
+  "distractors": [
+   "3",
+   "4",
+   "7"
+  ],
+  "justification": "C3H8 + 5 O2 → 3 CO2 + 4 H2O."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "Dos cargas puntuales interactúan con cierta fuerza. Si la distancia entre ellas se triplica, la fuerza se multiplica por:",
+  "correct": "1/9",
+  "distractors": [
+   "1/3",
+   "1/6",
+   "9"
+  ],
+  "justification": "Ley de Coulomb: F es proporcional a 1/r², por lo que con 3r resulta 1/9."
+ },
+ {
+  "category": "Física y química",
+  "difficulty": "hard",
+  "question": "¿Cuánto calor se necesita para fundir 100 g de hielo a 0 °C? (calor latente de fusión 334 kJ/kg)",
+  "correct": "33,4 kJ",
+  "distractors": [
+   "3,34 kJ",
+   "334 kJ",
+   "8,4 kJ"
+  ],
+  "justification": "Q = m·L = 0,1 kg × 334 kJ/kg = 33,4 kJ."
+ }
+]

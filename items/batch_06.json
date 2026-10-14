@@ -1,0 +1,602 @@
+[
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es el continente más grande del mundo por superficie?",
+  "correct": "Asia",
+  "distractors": [
+   "África",
+   "América",
+   "Europa"
+  ],
+  "justification": "Asia ocupa unos 44 millones de km², más que cualquier otro continente."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Canadá?",
+  "correct": "Ottawa",
+  "distractors": [
+   "Toronto",
+   "Montreal",
+   "Vancouver"
+  ],
+  "justification": "Ottawa es la capital federal de Canadá desde 1866."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Qué río atraviesa la ciudad de El Cairo?",
+  "correct": "El Nilo",
+  "distractors": [
+   "El Tigris",
+   "El Níger",
+   "El Congo"
+  ],
+  "justification": "El Cairo está a orillas del Nilo, en Egipto."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es el país más grande del mundo por superficie?",
+  "correct": "Rusia",
+  "distractors": [
+   "Canadá",
+   "China",
+   "Estados Unidos"
+  ],
+  "justification": "Rusia tiene unos 17 millones de km²."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cómo se llama la línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur?",
+  "correct": "Ecuador",
+  "distractors": [
+   "Meridiano de Greenwich",
+   "Trópico de Cáncer",
+   "Círculo polar ártico"
+  ],
+  "justification": "El ecuador es el paralelo de latitud 0°."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Japón?",
+  "correct": "Tokio",
+  "distractors": [
+   "Osaka",
+   "Kioto",
+   "Nagoya"
+  ],
+  "justification": "Tokio es la capital de Japón."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+  "correct": "El Everest",
+  "distractors": [
+   "El K2",
+   "El Aconcagua",
+   "El Mont Blanc"
+  ],
+  "justification": "El Everest mide unos 8849 m sobre el nivel del mar."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Italia?",
+  "correct": "Roma",
+  "distractors": [
+   "Milán",
+   "Venecia",
+   "Florencia"
+  ],
+  "justification": "Roma es la capital de Italia."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Qué mar separa el sur de Europa del norte de África?",
+  "correct": "El mar Mediterráneo",
+  "distractors": [
+   "El mar Rojo",
+   "El mar Negro",
+   "El mar del Norte"
+  ],
+  "justification": "El Mediterráneo se encuentra entre Europa, África y Asia."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿En qué país se encuentra el desierto de Atacama?",
+  "correct": "Chile",
+  "distractors": [
+   "Perú",
+   "México",
+   "Argentina"
+  ],
+  "justification": "El desierto de Atacama está en el norte de Chile."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "Las cataratas del Niágara se encuentran en la frontera entre Canadá y otro país. ¿Cuál es?",
+  "correct": "Estados Unidos",
+  "distractors": [
+   "México",
+   "Brasil",
+   "Groenlandia"
+  ],
+  "justification": "El río Niágara separa la provincia de Ontario del estado de Nueva York."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Por qué continente se extiende la cordillera de los Andes?",
+  "correct": "Sudamérica",
+  "distractors": [
+   "África",
+   "Asia",
+   "Oceanía"
+  ],
+  "justification": "Los Andes recorren Sudamérica de norte a sur."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Egipto?",
+  "correct": "El Cairo",
+  "distractors": [
+   "Alejandría",
+   "Luxor",
+   "Asuán"
+  ],
+  "justification": "El Cairo es la capital de Egipto."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la isla más grande del mundo, sin contar continentes?",
+  "correct": "Groenlandia",
+  "distractors": [
+   "Borneo",
+   "Madagascar",
+   "Nueva Guinea"
+  ],
+  "justification": "Groenlandia tiene unos 2,17 millones de km²."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Perú?",
+  "correct": "Lima",
+  "distractors": [
+   "Cusco",
+   "Arequipa",
+   "Trujillo"
+  ],
+  "justification": "Lima es la capital de Perú."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Turquía?",
+  "correct": "Ankara",
+  "distractors": [
+   "Estambul",
+   "Esmirna",
+   "Bursa"
+  ],
+  "justification": "Ankara es la capital turca desde 1923."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Qué río forma buena parte de la frontera entre Texas y México?",
+  "correct": "El río Bravo",
+  "distractors": [
+   "El río Colorado",
+   "El río Misisipi",
+   "El río Missouri"
+  ],
+  "justification": "El río Bravo o Grande marca la frontera entre Texas y México."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Nueva Zelanda?",
+  "correct": "Wellington",
+  "distractors": [
+   "Auckland",
+   "Christchurch",
+   "Queenstown"
+  ],
+  "justification": "Wellington es la capital, aunque Auckland es la ciudad más poblada."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Qué estrecho separa el sur de España del norte de Marruecos?",
+  "correct": "El estrecho de Gibraltar",
+  "distractors": [
+   "El estrecho de Mesina",
+   "El estrecho de Ormuz",
+   "El Bósforo"
+  ],
+  "justification": "Gibraltar une el Mediterráneo con el Atlántico entre España y Marruecos."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es el país sin salida al mar más grande del mundo por superficie?",
+  "correct": "Kazajistán",
+  "distractors": [
+   "Mongolia",
+   "Chad",
+   "Mali"
+  ],
+  "justification": "Kazajistán tiene unos 2,7 millones de km², más que Mongolia."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Qué caracteriza al clima mediterráneo?",
+  "correct": "Veranos secos y cálidos, e inviernos suaves y lluviosos",
+  "distractors": [
+   "Lluvias abundantes todo el año y calor constante",
+   "Inviernos muy fríos y veranos frescos y húmedos",
+   "Temperaturas altas y lluvias solo en invierno frío"
+  ],
+  "justification": "Es la definición estándar del clima mediterráneo en climatología."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es el río más largo de Europa?",
+  "correct": "El Volga",
+  "distractors": [
+   "El Danubio",
+   "El Rin",
+   "El Elba"
+  ],
+  "justification": "El Volga mide unos 3530 km."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Marruecos?",
+  "correct": "Rabat",
+  "distractors": [
+   "Casablanca",
+   "Marrakech",
+   "Fez"
+  ],
+  "justification": "Rabat es la capital administrativa de Marruecos."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿En qué país se encuentra la mayor parte de la península de Yucatán?",
+  "correct": "México",
+  "distractors": [
+   "Cuba",
+   "Honduras",
+   "Nicaragua"
+  ],
+  "justification": "Yucatán pertenece mayoritariamente a México, con partes en Belice y Guatemala."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "Si en Londres son las 12:00 y rige UTC+0, ¿qué hora es en Nueva Delhi, que usa UTC+5:30?",
+  "correct": "17:30",
+  "distractors": [
+   "17:00",
+   "18:30",
+   "06:30"
+  ],
+  "justification": "12:00 + 5 h 30 min = 17:30."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "El punto donde el ecuador cruza el meridiano de Greenwich (0° N, 0° E) está en el mar o el océano. ¿Cuál?",
+  "correct": "Océano Atlántico, en el golfo de Guinea",
+  "distractors": [
+   "Océano Índico, frente a Somalia",
+   "Océano Pacífico, frente a Ecuador",
+   "Mar Mediterráneo, frente a Argelia"
+  ],
+  "justification": "Las coordenadas 0°, 0° caen en el golfo de Guinea."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países NO tiene costa en el lago Victoria?",
+  "correct": "Ruanda",
+  "distractors": [
+   "Uganda",
+   "Kenia",
+   "Tanzania"
+  ],
+  "justification": "El lago Victoria está compartido por Uganda, Kenia y Tanzania."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Brasil?",
+  "correct": "Brasilia",
+  "distractors": [
+   "Río de Janeiro",
+   "São Paulo",
+   "Salvador"
+  ],
+  "justification": "Brasilia es la capital desde 1960."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Qué dos océanos conecta el canal de Panamá?",
+  "correct": "El Atlántico y el Pacífico",
+  "distractors": [
+   "El Atlántico y el Índico",
+   "El Pacífico y el Índico",
+   "El Ártico y el Pacífico"
+  ],
+  "justification": "El canal une el mar Caribe (Atlántico) con el Pacífico."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Suiza?",
+  "correct": "Berna",
+  "distractors": [
+   "Zúrich",
+   "Ginebra",
+   "Basilea"
+  ],
+  "justification": "Berna es la sede del gobierno federal suizo."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es el desierto cálido más grande del mundo?",
+  "correct": "El Sahara",
+  "distractors": [
+   "El Gobi",
+   "El Kalahari",
+   "El de Arabia"
+  ],
+  "justification": "El Sahara tiene unos 9 millones de km². La Antártida es mayor, pero es polar."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Por cuál de estos países pasa el trópico de Cáncer?",
+  "correct": "México",
+  "distractors": [
+   "Perú",
+   "Kenia",
+   "Chile"
+  ],
+  "justification": "El trópico de Cáncer cruza México, entre otros países del hemisferio norte."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Qué río atraviesa las capitales Viena, Budapest y Belgrado?",
+  "correct": "El Danubio",
+  "distractors": [
+   "El Rin",
+   "El Elba",
+   "El Vístula"
+  ],
+  "justification": "El Danubio pasa por esas tres capitales."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Nigeria?",
+  "correct": "Abuya",
+  "distractors": [
+   "Lagos",
+   "Kano",
+   "Ibadán"
+  ],
+  "justification": "Abuya sustituyó a Lagos como capital en 1991."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "medium",
+  "question": "¿Cuál es la capital de Vietnam?",
+  "correct": "Hanói",
+  "distractors": [
+   "Ho Chi Minh",
+   "Da Nang",
+   "Hue"
+  ],
+  "justification": "Hanói es la capital de Vietnam."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países es cruzado por el ecuador?",
+  "correct": "Gabón",
+  "distractors": [
+   "Camerún",
+   "Tanzania",
+   "Nigeria"
+  ],
+  "justification": "El ecuador atraviesa Gabón, entre otros países."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál es la capital constitucional de Bolivia?",
+  "correct": "Sucre",
+  "distractors": [
+   "La Paz",
+   "Santa Cruz de la Sierra",
+   "Cochabamba"
+  ],
+  "justification": "La Constitución establece Sucre como capital; La Paz es la sede del gobierno."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Qué país está completamente rodeado por el territorio de Sudáfrica?",
+  "correct": "Lesoto",
+  "distractors": [
+   "Esuatini",
+   "Botsuana",
+   "Namibia"
+  ],
+  "justification": "Lesoto es un enclave dentro de Sudáfrica."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Qué dos países de Sudamérica NO comparten frontera con Brasil?",
+  "correct": "Chile y Ecuador",
+  "distractors": [
+   "Chile y Bolivia",
+   "Ecuador y Paraguay",
+   "Argentina y Chile"
+  ],
+  "justification": "Brasil limita con todos los países sudamericanos excepto Chile y Ecuador."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuántos husos horarios oficiales usa China continental?",
+  "correct": "Uno",
+  "distractors": [
+   "Tres",
+   "Cuatro",
+   "Cinco"
+  ],
+  "justification": "China usa oficialmente una sola hora, UTC+8, en todo su territorio."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál es la capital de Myanmar?",
+  "correct": "Naipyidó",
+  "distractors": [
+   "Rangún",
+   "Mandalay",
+   "Bago"
+  ],
+  "justification": "Naipyidó es la capital desde 2005; Rangún fue la anterior."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "Aproximadamente, ¿qué hora solar local hay a 90° de longitud este cuando es mediodía solar en Greenwich?",
+  "correct": "18:00",
+  "distractors": [
+   "12:00",
+   "15:00",
+   "21:00"
+  ],
+  "justification": "Cada 15° de longitud equivale a una hora, y 90/15 = 6 horas hacia delante."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Qué par de países comparte la frontera terrestre internacional más larga del mundo?",
+  "correct": "Canadá y Estados Unidos",
+  "distractors": [
+   "Rusia y Kazajistán",
+   "China y Mongolia",
+   "Argentina y Chile"
+  ],
+  "justification": "La frontera entre Canadá y Estados Unidos supera los 8800 km."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos mares es el único que no tiene costas, porque está delimitado por corrientes oceánicas?",
+  "correct": "El mar de los Sargazos",
+  "distractors": [
+   "El mar Negro",
+   "El mar Báltico",
+   "El mar Arábigo"
+  ],
+  "justification": "El mar de los Sargazos está limitado por corrientes en el Atlántico Norte."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál es el punto más bajo de África, situado a unos 155 m bajo el nivel del mar?",
+  "correct": "El lago Assal",
+  "distractors": [
+   "La depresión de Qattara",
+   "La depresión de Danakil",
+   "El lago Chad"
+  ],
+  "justification": "El lago Assal, en Yibuti, está a unos 155 m bajo el nivel del mar."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Qué montaña es la más alta del mundo medida desde su base?",
+  "correct": "Mauna Kea",
+  "distractors": [
+   "El Everest",
+   "El K2",
+   "El Denali"
+  ],
+  "justification": "Mauna Kea mide más de 10 000 m desde su base en el fondo del Pacífico."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países es doblemente sin litoral, es decir, está rodeado solo por países que tampoco tienen costa?",
+  "correct": "Uzbekistán",
+  "distractors": [
+   "Bolivia",
+   "Mongolia",
+   "Suiza"
+  ],
+  "justification": "Uzbekistán y Liechtenstein son los dos países doblemente sin litoral."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "¿En qué ciudad se encuentra la sede del poder legislativo de Sudáfrica?",
+  "correct": "Ciudad del Cabo",
+  "distractors": [
+   "Pretoria",
+   "Johannesburgo",
+   "Bloemfontein"
+  ],
+  "justification": "El Parlamento sudafricano está en Ciudad del Cabo."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "En el canal de Panamá, ¿hacia dónde queda la entrada del Pacífico respecto a la del Atlántico?",
+  "correct": "Al sureste",
+  "distractors": [
+   "Al suroeste",
+   "Al noroeste",
+   "Al norte"
+  ],
+  "justification": "El canal corre de noroeste a sureste desde el Atlántico, por lo que el Pacífico queda al sureste."
+ },
+ {
+  "category": "Geografía física, política y humana",
+  "difficulty": "hard",
+  "question": "Aproximadamente, ¿cuántos kilómetros equivale un grado de latitud?",
+  "correct": "111 km",
+  "distractors": [
+   "69 km",
+   "160 km",
+   "40 km"
+  ],
+  "justification": "La circunferencia terrestre es de unos 40 000 km, y 40 000 / 360 ≈ 111 km."
+ }
+]

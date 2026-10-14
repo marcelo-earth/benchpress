@@ -1,0 +1,602 @@
+[
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 25 % de 360?",
+  "correct": "90",
+  "distractors": [
+   "80",
+   "100",
+   "120"
+  ],
+  "justification": "360 ÷ 4 = 90."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuál es el resultado de 12 × 15?",
+  "correct": "180",
+  "distractors": [
+   "170",
+   "160",
+   "190"
+  ],
+  "justification": "12 × 15 = 120 + 60 = 180."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "Un rectángulo mide 12 cm de largo y 7 cm de ancho. ¿Cuál es su perímetro?",
+  "correct": "38 cm",
+  "distractors": [
+   "84 cm",
+   "19 cm",
+   "76 cm"
+  ],
+  "justification": "2 × (12 + 7) = 38."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuál es el área de un triángulo de base 10 cm y altura 6 cm?",
+  "correct": "30 cm²",
+  "distractors": [
+   "60 cm²",
+   "16 cm²",
+   "32 cm²"
+  ],
+  "justification": "Área = base × altura ÷ 2 = 60 ÷ 2 = 30."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuál es el promedio de 4, 8, 12 y 16?",
+  "correct": "10",
+  "distractors": [
+   "12",
+   "9",
+   "11"
+  ],
+  "justification": "La suma es 40 y 40 ÷ 4 = 10."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Qué número sigue en la serie 1, 4, 9, 16, 25, …?",
+  "correct": "36",
+  "distractors": [
+   "30",
+   "34",
+   "35"
+  ],
+  "justification": "Son los cuadrados perfectos y el siguiente es 6² = 36."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor de x en 2x − 7 = 11?",
+  "correct": "9",
+  "distractors": [
+   "2",
+   "7",
+   "18"
+  ],
+  "justification": "2x = 18, así que x = 9."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuánto es 3/4 de 48?",
+  "correct": "36",
+  "distractors": [
+   "12",
+   "32",
+   "40"
+  ],
+  "justification": "48 ÷ 4 = 12 y 12 × 3 = 36."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "Una camisa cuesta 40 euros y tiene un 15 % de descuento. ¿Cuánto cuesta con el descuento?",
+  "correct": "34 euros",
+  "distractors": [
+   "25 euros",
+   "36 euros",
+   "6 euros"
+  ],
+  "justification": "El descuento es 6 euros y 40 − 6 = 34."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "En un triángulo, dos ángulos miden 50° y 60°. ¿Cuánto mide el tercero?",
+  "correct": "70°",
+  "distractors": [
+   "80°",
+   "60°",
+   "130°"
+  ],
+  "justification": "Los ángulos interiores suman 180° y 180 − 110 = 70."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "Se lanza un dado justo de seis caras. ¿Cuál es la probabilidad de obtener un múltiplo de 3?",
+  "correct": "1/3",
+  "distractors": [
+   "1/2",
+   "1/6",
+   "2/3"
+  ],
+  "justification": "Los múltiplos de 3 son 3 y 6, es decir 2 de 6 casos, 2/6 = 1/3."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "Marta compra 3 cuadernos de 2,50 euros cada uno y 2 bolígrafos de 1,20 euros cada uno. ¿Cuánto paga en total?",
+  "correct": "9,90 euros",
+  "distractors": [
+   "8,90 euros",
+   "10,90 euros",
+   "9,40 euros"
+  ],
+  "justification": "3 × 2,50 = 7,50 y 2 × 1,20 = 2,40, que suman 9,90."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "Un coche recorre 150 km en 3 horas a velocidad constante. ¿Cuál es su velocidad?",
+  "correct": "50 km/h",
+  "distractors": [
+   "45 km/h",
+   "450 km/h",
+   "55 km/h"
+  ],
+  "justification": "150 ÷ 3 = 50."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuánto es 0,5 × 0,4?",
+  "correct": "0,2",
+  "distractors": [
+   "2",
+   "0,02",
+   "0,9"
+  ],
+  "justification": "5 × 4 = 20 con dos decimales, es decir 0,20 = 0,2."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "easy",
+  "question": "¿Cuántos huevos hay en una docena y media?",
+  "correct": "18",
+  "distractors": [
+   "15",
+   "20",
+   "24"
+  ],
+  "justification": "12 + 6 = 18."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Un artículo de 200 euros recibe primero un 20 % de descuento y después un 10 % adicional sobre el nuevo precio. ¿Cuál es el precio final?",
+  "correct": "144 euros",
+  "distractors": [
+   "140 euros",
+   "150 euros",
+   "160 euros"
+  ],
+  "justification": "200 × 0,8 = 160 y 160 × 0,9 = 144."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Se invierten 1000 euros al 10 % anual de interés compuesto. ¿Cuánto hay al cabo de 2 años?",
+  "correct": "1210 euros",
+  "distractors": [
+   "1200 euros",
+   "1100 euros",
+   "1220 euros"
+  ],
+  "justification": "1000 × 1,1² = 1210."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿De cuántas maneras se puede elegir un comité de 3 personas entre 8, sin importar el orden?",
+  "correct": "56",
+  "distractors": [
+   "24",
+   "336",
+   "40"
+  ],
+  "justification": "C(8,3) = 8·7·6 ÷ 6 = 56."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuántas ordenaciones distintas de letras se pueden formar con las letras de la palabra CASA?",
+  "correct": "12",
+  "distractors": [
+   "24",
+   "6",
+   "16"
+  ],
+  "justification": "4! ÷ 2! = 24 ÷ 2 = 12, porque la A se repite dos veces."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Se lanza una moneda justa 3 veces. ¿Cuál es la probabilidad de obtener exactamente 2 caras?",
+  "correct": "3/8",
+  "distractors": [
+   "1/4",
+   "1/2",
+   "3/4"
+  ],
+  "justification": "C(3,2) = 3 casos favorables entre 2³ = 8."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un círculo de 10 cm de diámetro?",
+  "correct": "25π cm²",
+  "distractors": [
+   "100π cm²",
+   "10π cm²",
+   "50π cm²"
+  ],
+  "justification": "El radio es 5 y el área es π × 5² = 25π."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuánto mide la diagonal de un rectángulo de 9 cm por 12 cm?",
+  "correct": "15 cm",
+  "distractors": [
+   "21 cm",
+   "14 cm",
+   "17 cm"
+  ],
+  "justification": "√(81 + 144) = √225 = 15."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuál es la mediana de los datos 2, 9, 4, 7, 12 y 5?",
+  "correct": "6",
+  "distractors": [
+   "7",
+   "5",
+   "6,5"
+  ],
+  "justification": "Ordenados: 2, 4, 5, 7, 9, 12. La mediana es el promedio de 5 y 7, es decir 6."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Se mezclan 2 kg de café a 3 euros el kilo con 3 kg de café a 4 euros el kilo. ¿Cuál es el precio medio por kilo de la mezcla?",
+  "correct": "3,60 euros",
+  "distractors": [
+   "3,50 euros",
+   "3,40 euros",
+   "3,75 euros"
+  ],
+  "justification": "El costo total es 6 + 12 = 18 euros entre 5 kg, es decir 3,60."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Un padre tiene 30 años más que su hijo. Dentro de 5 años la edad del padre será el triple de la del hijo. ¿Qué edad tiene hoy el hijo?",
+  "correct": "10 años",
+  "distractors": [
+   "5 años",
+   "15 años",
+   "12 años"
+  ],
+  "justification": "x + 35 = 3(x + 5) lleva a 2x = 20, así que x = 10."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Un valor pasa de 40 a 52. ¿Qué porcentaje ha aumentado?",
+  "correct": "30 %",
+  "distractors": [
+   "12 %",
+   "23 %",
+   "25 %"
+  ],
+  "justification": "El aumento es 12 y 12 ÷ 40 = 0,30."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Seis obreros terminan una obra en 10 días. Si todos trabajan al mismo ritmo, ¿cuántos días tardarían 4 obreros?",
+  "correct": "15 días",
+  "distractors": [
+   "12 días",
+   "14 días",
+   "20 días"
+  ],
+  "justification": "El trabajo total es 60 obrero-días y 60 ÷ 4 = 15."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuál es la suma de todos los números enteros del 1 al 30?",
+  "correct": "465",
+  "distractors": [
+   "450",
+   "435",
+   "495"
+  ],
+  "justification": "30 × 31 ÷ 2 = 465."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Qué número sigue en la serie 2, 5, 11, 23, 47, …?",
+  "correct": "95",
+  "distractors": [
+   "92",
+   "94",
+   "96"
+  ],
+  "justification": "Cada término es el doble del anterior más 1, así que 47 × 2 + 1 = 95."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuál es la desviación estándar poblacional de los datos 2, 4, 4, 4, 5, 5, 7 y 9?",
+  "correct": "2",
+  "distractors": [
+   "1",
+   "3",
+   "4"
+  ],
+  "justification": "La media es 5, la suma de cuadrados de desviaciones es 32, la varianza es 32 ÷ 8 = 4 y su raíz es 2."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Se sacan 2 cartas sin reposición de una baraja francesa de 52 cartas. ¿Cuál es la probabilidad de que ambas sean ases?",
+  "correct": "1/221",
+  "distractors": [
+   "1/169",
+   "1/13",
+   "1/26"
+  ],
+  "justification": "(4/52) × (3/51) = 12/2652 = 1/221."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuántos divisores positivos tiene el número 36?",
+  "correct": "9",
+  "distractors": [
+   "6",
+   "8",
+   "12"
+  ],
+  "justification": "36 = 2² × 3², así que tiene (2+1)(2+1) = 9 divisores."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuál es el mínimo común múltiplo de 12, 18 y 20?",
+  "correct": "180",
+  "distractors": [
+   "120",
+   "360",
+   "90"
+  ],
+  "justification": "12 = 2²·3, 18 = 2·3², 20 = 2²·5, y el mcm es 2²·3²·5 = 180."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "¿Cuánto suman los ángulos interiores de un hexágono?",
+  "correct": "720°",
+  "distractors": [
+   "540°",
+   "900°",
+   "360°"
+  ],
+  "justification": "(n − 2) × 180 con n = 6 da 4 × 180 = 720."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "medium",
+  "question": "Un grupo de 20 alumnos tiene un promedio de 80 y otro de 30 alumnos tiene un promedio de 70. ¿Cuál es el promedio de los 50 alumnos juntos?",
+  "correct": "74",
+  "distractors": [
+   "75",
+   "72",
+   "76"
+  ],
+  "justification": "(20·80 + 30·70) ÷ 50 = 3700 ÷ 50 = 74."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Un ciclista sube una cuesta a 60 km/h y regresa por el mismo camino a 40 km/h. ¿Cuál es su velocidad media en todo el recorrido?",
+  "correct": "48 km/h",
+  "distractors": [
+   "50 km/h",
+   "52 km/h",
+   "45 km/h"
+  ],
+  "justification": "La velocidad media es la media armónica: 2·60·40 ÷ 100 = 48."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuál es la última cifra de 7 elevado a 2025?",
+  "correct": "7",
+  "distractors": [
+   "1",
+   "3",
+   "9"
+  ],
+  "justification": "Las últimas cifras de las potencias de 7 se repiten 7, 9, 3, 1 y 2025 deja resto 1 al dividir entre 4, así que es 7."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuál es el menor número de personas para que la probabilidad de que al menos dos cumplan años el mismo día supere el 50 %? Supón 365 días equiprobables.",
+  "correct": "23",
+  "distractors": [
+   "183",
+   "30",
+   "58"
+  ],
+  "justification": "Con 22 personas la probabilidad es 47,6 % y con 23 es 50,7 %."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "En el problema de Monty Hall hay 3 puertas, un auto tras una y cabras tras las otras. Eliges una, el presentador abre otra con una cabra y te ofrece cambiar. ¿Qué probabilidad de ganar el auto tienes si cambias?",
+  "correct": "2/3",
+  "distractors": [
+   "1/2",
+   "1/3",
+   "3/4"
+  ],
+  "justification": "Cambiar gana siempre que la elección inicial fuera una cabra, lo que ocurre con probabilidad 2/3."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Una familia tiene dos hijos y se sabe que al menos uno es niña. Suponiendo sexos equiprobables e independientes, ¿cuál es la probabilidad de que ambos sean niñas?",
+  "correct": "1/3",
+  "distractors": [
+   "1/2",
+   "1/4",
+   "2/3"
+  ],
+  "justification": "Los casos posibles son NN, NO y ON, y solo uno de los tres tiene dos niñas."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Con cuántos ceros termina el número 50! (el factorial de 50)?",
+  "correct": "12",
+  "distractors": [
+   "10",
+   "11",
+   "13"
+  ],
+  "justification": "Se cuentan los factores 5: 50//5 + 50//25 = 10 + 2 = 12."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuántas diagonales tiene un polígono convexo de 10 lados?",
+  "correct": "35",
+  "distractors": [
+   "45",
+   "40",
+   "70"
+  ],
+  "justification": "n(n − 3) ÷ 2 = 10 × 7 ÷ 2 = 35."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuántos enteros del 1 al 100 son divisibles entre 2 o entre 3?",
+  "correct": "67",
+  "distractors": [
+   "66",
+   "83",
+   "84"
+  ],
+  "justification": "50 + 33 − 16 = 67, restando los múltiplos de 6 que se cuentan dos veces."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Un precio sube un 25 %. ¿Qué porcentaje de descuento sobre el nuevo precio lo devuelve al original?",
+  "correct": "20 %",
+  "distractors": [
+   "25 %",
+   "15 %",
+   "22,5 %"
+  ],
+  "justification": "1 ÷ 1,25 = 0,8, así que el descuento necesario es 20 %."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Un grifo llena un tanque en 4 horas y un desagüe lo vacía en 12 horas. Con ambos abiertos desde el tanque vacío, ¿cuántas horas tarda en llenarse?",
+  "correct": "6 horas",
+  "distractors": [
+   "8 horas",
+   "5 horas",
+   "3 horas"
+  ],
+  "justification": "El ritmo neto es 1/4 − 1/12 = 1/6 del tanque por hora."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Se lanzan tres dados justos. ¿Cuál es la probabilidad de que salga exactamente un 6?",
+  "correct": "25/72",
+  "distractors": [
+   "1/2",
+   "125/216",
+   "5/72"
+  ],
+  "justification": "3 × (1/6) × (5/6)² = 75/216 = 25/72."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuánto vale la suma 1 + 2 + 4 + 8 + … + 512, con potencias de 2 hasta 2⁹?",
+  "correct": "1023",
+  "distractors": [
+   "1024",
+   "511",
+   "1022"
+  ],
+  "justification": "Es una serie geométrica: 2¹⁰ − 1 = 1023."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿De cuántas maneras distintas pueden sentarse 5 personas alrededor de una mesa redonda, si solo importa su posición relativa y no los giros?",
+  "correct": "24",
+  "distractors": [
+   "120",
+   "60",
+   "12"
+  ],
+  "justification": "(5 − 1)! = 24."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "Se lanza un dado justo hasta que sale un 6 por primera vez. ¿Cuál es el número esperado de lanzamientos?",
+  "correct": "6",
+  "distractors": [
+   "3",
+   "5",
+   "12"
+  ],
+  "justification": "El número de intentos sigue una distribución geométrica con p = 1/6, cuya esperanza es 1/p = 6."
+ },
+ {
+  "category": "matemáticas y razonamiento cuantitativo",
+  "difficulty": "hard",
+  "question": "¿Cuántos números de 4 cifras, todas distintas, existen (el primer dígito no puede ser 0)?",
+  "correct": "4536",
+  "distractors": [
+   "5040",
+   "4500",
+   "3024"
+  ],
+  "justification": "9 · 9 · 8 · 7 = 4536."
+ }
+]
