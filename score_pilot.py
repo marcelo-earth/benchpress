@@ -1,10 +1,14 @@
-"""Score blind labels against the pilot answer key: agreement and Cohen's kappa."""
+"""Score blind labels against an answer key: agreement and Cohen's kappa.
+
+Usage: python score_pilot.py labels.json [key.json]  (key defaults to pilot_50.json)
+"""
 
 import json
 import sys
 from collections import Counter
 
-gold = {g["id"]: g for g in json.load(open("pilot_50.json"))}
+key = sys.argv[2] if len(sys.argv) > 2 else "pilot_50.json"
+gold = {g["id"]: g for g in json.load(open(key))}
 labels = {l["id"]: l for l in json.load(open(sys.argv[1]))}
 
 ids = sorted(gold)
