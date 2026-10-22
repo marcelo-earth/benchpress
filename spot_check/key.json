@@ -1,0 +1,107 @@
+[
+ {
+  "n": 1,
+  "final_id": 23,
+  "answer": "B",
+  "difficulty": "medium",
+  "justification": "En pa-ís la i tónica forma hiato con la a; en las demás hay diptongo."
+ },
+ {
+  "n": 2,
+  "final_id": 80,
+  "answer": "A",
+  "difficulty": "hard",
+  "justification": "El punto que cierra el enunciado va siempre después de las comillas de cierre."
+ },
+ {
+  "n": 3,
+  "final_id": 102,
+  "answer": "B",
+  "difficulty": "medium",
+  "justification": "José Eustasio Rivera, colombiano, publicó La vorágine en 1924."
+ },
+ {
+  "n": 4,
+  "final_id": 103,
+  "answer": "D",
+  "difficulty": "medium",
+  "justification": "El túnel es la primera novela de Ernesto Sábato."
+ },
+ {
+  "n": 5,
+  "final_id": 105,
+  "answer": "B",
+  "difficulty": "medium",
+  "justification": "Góngora es el principal representante del culteranismo; el conceptismo se asocia con Quevedo."
+ },
+ {
+  "n": 6,
+  "final_id": 138,
+  "answer": "A",
+  "difficulty": "easy",
+  "justification": "Hitler fue canciller alemán desde 1933 y Führer desde 1934."
+ },
+ {
+  "n": 7,
+  "final_id": 162,
+  "answer": "D",
+  "difficulty": "hard",
+  "justification": "Francia, Reino Unido, Italia y Alemania pactaron la cesión de los Sudetes sin consultar a Checoslovaquia."
+ },
+ {
+  "n": 8,
+  "final_id": 172,
+  "answer": "C",
+  "difficulty": "easy",
+  "justification": "Bolívar nació en Caracas en 1783 y encabezó esas campañas libertadoras."
+ },
+ {
+  "n": 9,
+  "final_id": 226,
+  "answer": "C",
+  "difficulty": "medium",
+  "justification": "Wellington es la capital, aunque Auckland es la ciudad más poblada."
+ },
+ {
+  "n": 10,
+  "final_id": 267,
+  "answer": "B",
+  "difficulty": "medium",
+  "justification": "Ley de Ohm: I = V/R = 12/4 = 3 A."
+ },
+ {
+  "n": 11,
+  "final_id": 310,
+  "answer": "A",
+  "difficulty": "medium",
+  "justification": "El ARNt une un aminoácido y reconoce el codón con su anticodón."
+ },
+ {
+  "n": 12,
+  "final_id": 337,
+  "answer": "D",
+  "difficulty": "easy",
+  "justification": "360 ÷ 4 = 90."
+ },
+ {
+  "n": 13,
+  "final_id": 412,
+  "answer": "B",
+  "difficulty": "hard",
+  "justification": "De «si P entonces Q» y Q no se puede concluir P: un gato también tiene cuatro patas."
+ },
+ {
+  "n": 14,
+  "final_id": 427,
+  "answer": "A",
+  "difficulty": "easy",
+  "justification": "Cameron escribió y dirigió «Titanic», estrenada en 1997."
+ },
+ {
+  "n": 15,
+  "final_id": 463,
+  "answer": "C",
+  "difficulty": "easy",
+  "justification": "Democracia significa gobierno del pueblo, ejercido directamente o por representantes."
+ }
+]
